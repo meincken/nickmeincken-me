@@ -74,6 +74,7 @@ const IndexPage = ({ data }) => {
         contracts={frontmatter.contracts}
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
+        description={frontmatter.description}
         intro={frontmatter.intro}
       />
     </Layout>
@@ -94,7 +95,6 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        title
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -125,21 +125,6 @@ export const pageQuery = graphql`
             service
             description
           }
-        }
-        description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
         }
       }
     }
