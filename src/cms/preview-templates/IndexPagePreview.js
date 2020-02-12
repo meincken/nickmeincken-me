@@ -9,7 +9,6 @@ const IndexPagePreview = ({ entry, getAsset }) => {
     return (
       <IndexPageTemplate
         image={data.image}
-        title={data.title}
         heading={data.heading}
         blurb={data.blurb}
         education={data.education || { courses: [] }}
