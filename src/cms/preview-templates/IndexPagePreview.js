@@ -8,16 +8,16 @@ const IndexPagePreview = ({ entry, getAsset }) => {
   if (data) {
     return (
       <IndexPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
-        heading={frontmatter.heading}
-        blurb={frontmatter.blurb}
-        education={frontmatter.education || { courses: [] }}
-        contracts={frontmatter.contracts || { positions: [] }}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
+        image={data.image}
+        title={data.title}
+        heading={data.heading}
+        blurb={data.blurb}
+        education={data.education || { courses: [] }}
+        contracts={data.contracts || { positions: [] }}
+        subheading={data.subheading}
+        mainpitch={data.mainpitch}
+        description={data.description}
+        intro={data.intro}
       />
     );
   } else {
