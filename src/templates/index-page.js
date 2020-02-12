@@ -74,7 +74,6 @@ const IndexPage = ({ data }) => {
         contracts={frontmatter.contracts}
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
         intro={frontmatter.intro}
       />
     </Layout>
