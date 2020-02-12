@@ -4,18 +4,35 @@ title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Meincken
 subheading: Front End Developer
+blurb: I'm a London based Front End Developer. I build websites and component libraries for pretty much anything.
 mainpitch:
-  title: Why Kaldi
+  title: About Me
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I am an experienced AEM Front End Developer. I specialise in creating clean semantic code to ensure fast load times. A champion of atomic design principles and where possible, develop style guides and pattern libraries to ensure consistant and rapid development when working as part of a team. I am as comfortable coding in raw HTML as I am using products such as React. I enjoy working as part of an Agile team and have worked on some of the countries largest ecommerce sites.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
+education:
+  title: Education
+  courses:
+    - title: Adobe Training Center
+      course: AEM Sites developer
+      year: March 2015
+    - title: The Community College Hackney
+      course: BTEC Web Authoring Level II (distinction)
+      year: March 2006
+    - title: Spelthorne College, Middlesex
+      course: BTEC Photography & Business Skills
+      year: April 1997
+contracts:
+  title: Contractor History
+  positions:
+    - company: Grundfos Denmark
+      role: Front End Engineer
+      service: December 2019 -
+      description: Grundfos is a globally recognised company which develops water solutions around the world. Building components for AEM in standard HTM in Sightly but also utilising a custom VueJS front end design system using BEM Atomic Design principles.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,4 +85,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
