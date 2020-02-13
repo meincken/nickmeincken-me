@@ -35,4 +35,16 @@ skills:
       level: 90%
     - name: Wordpress
       level: 90%
+    - name: HTML5
+      level: 90%
+    - name: JavaScript/jQuery
+      level: 70%
+    - name: CSS/SCSS/LESS
+      level: 95%
+    - name: ReactJS
+      level: 70%
+    - name: Git
+      level: 80%
+    - name: Email development
+      level: 70%
 ---

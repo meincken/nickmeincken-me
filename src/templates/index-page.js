@@ -7,6 +7,7 @@ import Social from "../components/Social";
 import Education from "../components/Education";
 import Contracts from "../components/Contracts";
 import Skills from "../components/Skills";
+import BlogRoll from "../components/BlogRoll";
 
 export const IndexPageTemplate = ({
   image,
@@ -45,6 +46,10 @@ export const IndexPageTemplate = ({
       <h2>{skills.title}</h2>
       <p>{skills.description}</p>
       <Skills skillItems={skills.skillset} />
+    </section>
+    <section>
+      <h2>Check out some of my previous works</h2>
+      <BlogRoll />
     </section>
   </>
 );
