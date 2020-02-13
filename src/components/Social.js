@@ -6,6 +6,10 @@ const SocialLinks = styled.div`
   display: flex;
   grid-column: 6 / span 2;
   justify-content: space-between;
+
+  a {
+    color: green;
+  }
 `;
 
 var social = [
