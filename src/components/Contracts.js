@@ -6,8 +6,9 @@ const Contracts = ({ contractItems }) => (
     {contractItems.map(item => (
       <section key={item.company}>
         <h3>{item.company}</h3>
-        <p>{item.role}</p>
-        <p>{item.service}</p>
+        <p>
+          {item.role} <span>&middot;</span> {item.service}
+        </p>
         <p>{item.description}</p>
       </section>
     ))}

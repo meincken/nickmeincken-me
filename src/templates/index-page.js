@@ -6,6 +6,7 @@ import Layout from "../components/Layout";
 import Social from "../components/Social";
 import Education from "../components/Education";
 import Contracts from "../components/Contracts";
+import Skills from "../components/Skills";
 
 export const IndexPageTemplate = ({
   image,
@@ -17,7 +18,8 @@ export const IndexPageTemplate = ({
   contracts,
   mainpitch,
   description,
-  intro
+  intro,
+  skills
 }) => (
   <>
     <header className="heading-block">
@@ -39,6 +41,11 @@ export const IndexPageTemplate = ({
       <h2>{contracts.title}</h2>
       <Contracts contractItems={contracts.positions} />
     </section>
+    <section>
+      <h2>{skills.title}</h2>
+      <p>{skills.description}</p>
+      <Skills skillItems={skills.skillset} />
+    </section>
   </>
 );
 
@@ -57,6 +64,9 @@ IndexPageTemplate.propTypes = {
   }),
   contracts: PropTypes.shape({
     positions: PropTypes.array
+  }),
+  skills: PropTypes.shape({
+    skillset: PropTypes.array
   })
 };
 
@@ -76,6 +86,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        skills={frontmatter.skills}
       />
     </Layout>
   );
@@ -124,6 +135,14 @@ export const pageQuery = graphql`
             role
             service
             description
+          }
+        }
+        skills {
+          title
+          description
+          skillset {
+            name
+            level
           }
         }
       }

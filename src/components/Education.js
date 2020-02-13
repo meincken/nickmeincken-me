@@ -6,8 +6,9 @@ const Education = ({ educationItems }) => (
     {educationItems.map(item => (
       <section key={item.course}>
         <h3>{item.title}</h3>
-        <p>{item.course}</p>
-        <p>{item.year}</p>
+        <p>
+          {item.course} <span>&middot;</span> {item.year}
+        </p>
       </section>
     ))}
   </>
