@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Meincken
-date: 2017-01-04T15:04:10.000Z
+date: 2020-02-13T15:04:10.000Z
 description: >-
   Personal blog for me, I plan on using this to host my other off web projects
   in the future and updates on my adventures.
