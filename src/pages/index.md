@@ -4,7 +4,7 @@ image: /img/home-jumbotron.jpg
 heading: Meincken
 subheading: Front End Developer
 blurb: I'm a London based Front End Developer. I build websites and component libraries for pretty much anything.
-mainpitch:
+aboutme:
   title: About Me
   description: >
     I am an experienced AEM Front End Developer. I specialise in creating clean semantic code to ensure fast load times. A champion of atomic design principles and where possible, develop style guides and pattern libraries to ensure consistent and rapid development when working as part of a team. I am as comfortable coding in raw HTML as I am using products such as React. I enjoy working as part of an Agile team and have worked on some of the countries largest e-commerce sites.
