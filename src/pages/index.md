@@ -29,7 +29,7 @@ contracts:
       description: Grundfos is a globally recognised company which develops water solutions around the world. Building components for AEM in standard HTM in Sightly but also utilising a custom VueJS front end design system using BEM Atomic Design principles.
 skills:
   title: Skills
-  description: >- I am a competent Front End Developer with good skills with many frameworks and content management systems. Below is my level of competency with various technologies.
+  description: I am a competent Front End Developer with good skills with many frameworks and content management systems. Below is my level of competency with various technologies.
   skillset:
     - name: AEM
       level: 90%
