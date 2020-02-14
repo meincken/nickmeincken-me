@@ -29,7 +29,6 @@ collections:
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
-
   - name: "pages"
     label: "Pages"
     files:
@@ -56,7 +55,40 @@ collections:
                   { label: Description, name: description, widget: text },
                 ],
             }
-          - { label: Description, name: description, widget: string }
+
+          - {
+              label: Contracts,
+              name: contracts,
+              widget: object,
+              fields:
+                [
+                  { label: Title, name: title, widget: string },
+                  { label: Description, name: description, widget: text },
+                ],
+            }
+          - {
+              label: Contracts,
+              name: contracts,
+              widget: object,
+              fields:
+                [
+                  { label: Heading, name: title, widget: string },
+                  { label: Description, name: description, widget: text },
+                  {
+                    label: Positions,
+                    name: positions,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Company, name: company, widget: text },
+                        { label: Role, name: role, widget: text },
+                        { label: Service, name: service, widget: text },
+                        { label: Description, name: description, widget: text },
+                      ],
+                  },
+                ],
+            }
+
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
