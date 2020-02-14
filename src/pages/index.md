@@ -41,10 +41,13 @@ contracts:
       service: November 2019 - December 2019
   title: Contractor History
 skills:
-  description: test
+  description: >-
+    I am a competent Front End Developer with good skills with many frameworks
+    and content management systems. Below is my level of competency with various
+    technologies.
   skillset:
     - level: 90%
-      name: test name
+      name: AEM
   title: skills
 ---
 
