@@ -96,6 +96,26 @@ collections:
                   },
                 ],
             }
+          - {
+              label: SKills,
+              name: skills,
+              widget: object,
+              fields:
+                [
+                  { label: Heading, name: title, widget: string },
+                  { label: Description, name: description, widget: string },
+                  {
+                    label: Skillset,
+                    name: skillset,
+                    widget: list,
+                    fields:
+                      [
+                        { label: Name, name: name, widget: string },
+                        { label: Level, name: level, widget: string },
+                      ],
+                  },
+                ],
+            }
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"

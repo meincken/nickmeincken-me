@@ -13,6 +13,12 @@ aboutme:
     enjoy working as part of an Agile team and have worked on some of the
     countries largest e-commerce sites.
   title: About Me
+education:
+  title: test
+  courses:
+    - title: testtitle
+      course: course Title
+      year: Year
 contracts:
   positions:
     - company: Grundfos Denmark
@@ -28,5 +34,10 @@ contracts:
       role: Front End Developer
       service: November 2019 - December 2019
   title: Contractor History
+skills:
+  title: skills
+  description: test
+  skillset:
+    - name: test name
+      level: 90%
 ---
-
