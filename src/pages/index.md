@@ -14,11 +14,17 @@ aboutme:
     countries largest e-commerce sites.
   title: About Me
 education:
-  title: test
   courses:
-    - title: testtitle
-      course: course Title
-      year: Year
+    - course: AEM Sites developer
+      title: Adobe Training Center
+      year: March 2015
+    - course: BTEC Web Authoring Level II (distinction)
+      title: The Community College Hackney
+      year: March 2006
+    - course: BTEC Photography & Business Skills
+      title: 'Spelthorne College, Middlesex'
+      year: April 1997
+  title: Education
 contracts:
   positions:
     - company: Grundfos Denmark
@@ -35,9 +41,10 @@ contracts:
       service: November 2019 - December 2019
   title: Contractor History
 skills:
-  title: skills
   description: test
   skillset:
-    - name: test name
-      level: 90%
+    - level: 90%
+      name: test name
+  title: skills
 ---
+
