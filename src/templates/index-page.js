@@ -14,7 +14,6 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
-  blurb,
   education,
   contracts,
   aboutme,
@@ -27,7 +26,6 @@ export const IndexPageTemplate = ({
       <h1>
         {heading} <small>{subheading}</small>
       </h1>
-      <p>{blurb}</p>
       <Social />
     </header>
     <section>
@@ -61,9 +59,6 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   aboutme: PropTypes.object,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array
-  }),
   education: PropTypes.shape({
     courses: PropTypes.array
   }),
@@ -84,7 +79,6 @@ const IndexPage = ({ data }) => {
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
-        blurb={frontmatter.blurb}
         education={frontmatter.education}
         contracts={frontmatter.contracts}
         subheading={frontmatter.subheading}
@@ -120,7 +114,6 @@ export const pageQuery = graphql`
         }
         heading
         subheading
-        blurb
         aboutme {
           title
           description
