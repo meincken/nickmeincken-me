@@ -55,17 +55,6 @@ collections:
                   { label: Description, name: description, widget: text },
                 ],
             }
-
-          - {
-              label: Contracts,
-              name: contracts,
-              widget: object,
-              fields:
-                [
-                  { label: Title, name: title, widget: string },
-                  { label: Description, name: description, widget: text },
-                ],
-            }
           - {
               label: Contracts,
               name: contracts,
@@ -73,7 +62,6 @@ collections:
               fields:
                 [
                   { label: Heading, name: title, widget: string },
-                  { label: Description, name: description, widget: text },
                   {
                     label: Positions,
                     name: positions,
