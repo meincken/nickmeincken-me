@@ -3,48 +3,30 @@ templateKey: index-page
 image: /img/home-jumbotron.jpg
 heading: Meincken
 subheading: Front End Developer
-blurb: I'm a London based Front End Developer. I build websites and component libraries for pretty much anything.
 aboutme:
-  title: About Me
   description: >
-    I am an experienced AEM Front End Developer. I specialise in creating clean semantic code to ensure fast load times. A champion of atomic design principles and where possible, develop style guides and pattern libraries to ensure consistent and rapid development when working as part of a team. I am as comfortable coding in raw HTML as I am using products such as React. I enjoy working as part of an Agile team and have worked on some of the countries largest e-commerce sites.
-education:
-  title: Education
-  courses:
-    - title: Adobe Training Center
-      course: AEM Sites developer
-      year: March 2015
-    - title: The Community College Hackney
-      course: BTEC Web Authoring Level II (distinction)
-      year: March 2006
-    - title: Spelthorne College, Middlesex
-      course: BTEC Photography & Business Skills
-      year: April 1997
+    I am an experienced AEM Front End Developer. I specialise in creating clean
+    semantic code to ensure fast load times. A champion of atomic design
+    principles and where possible, develop style guides and pattern libraries to
+    ensure consistent and rapid development when working as part of a team. I am
+    as comfortable coding in raw HTML as I am using products such as React. I
+    enjoy working as part of an Agile team and have worked on some of the
+    countries largest e-commerce sites.
+  title: About Me
 contracts:
-  title: Contractor History
   positions:
     - company: Grundfos Denmark
+      description: >-
+        Grundfos is a globally recognised company which develops water solutions
+        around the world. Building components for AEM in standard HTM in Sightly
+        but also utilising a custom VueJS front end design system using BEM
+        Atomic Design principles.
       role: Front End Engineer
       service: December 2019 -
-      description: Grundfos is a globally recognised company which develops water solutions around the world. Building components for AEM in standard HTM in Sightly but also utilising a custom VueJS front end design system using BEM Atomic Design principles.
-skills:
-  title: Skills
-  description: I am a competent Front End Developer with good skills with many frameworks and content management systems. Below is my level of competency with various technologies.
-  skillset:
-    - name: AEM
-      level: 90%
-    - name: Wordpress
-      level: 90%
-    - name: HTML5
-      level: 90%
-    - name: JavaScript/jQuery
-      level: 70%
-    - name: CSS/SCSS/LESS
-      level: 95%
-    - name: ReactJS
-      level: 70%
-    - name: Git
-      level: 80%
-    - name: Email development
-      level: 70%
+    - company: Texture London
+      description: Building components and pages for Shopify Plus.
+      role: Front End Developer
+      service: November 2019 - December 2019
+  title: Contractor History
 ---
+
