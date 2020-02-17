@@ -91,6 +91,7 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
+  introduction,
   education,
   contracts,
   aboutme,
@@ -111,7 +112,7 @@ export const IndexPageTemplate = ({
             <span>{heading}</span>
             <small>{subheading}</small>
           </Title>
-          <SubTitle></SubTitle>
+          <SubTitle>{introduction}</SubTitle>
           <HR />
           <Social />
         </BannerText>
@@ -155,6 +156,7 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
+  introduction: PropTypes.string,
   aboutme: PropTypes.object,
   description: PropTypes.string,
   education: PropTypes.shape({
@@ -178,6 +180,7 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
+        introduction={frontmatter.introduction}
         education={frontmatter.education}
         contracts={frontmatter.contracts}
         aboutme={frontmatter.aboutme}

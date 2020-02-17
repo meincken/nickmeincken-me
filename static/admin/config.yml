@@ -42,10 +42,18 @@ collections:
               widget: "hidden",
               default: "index-page",
             }
-          - { label: Image, name: image, widget: image }
-          - { label: Heading, name: heading, widget: string }
-          - { label: Subheading, name: subheading, widget: string }
-          - { label: Introduction, name: introduction, widget: string }
+          - {
+              label: Hero,
+              name: hero,
+              widget: object,
+              fields:
+                [
+                  { label: Image, name: image, widget: image },
+                  { label: Heading, name: heading, widget: string },
+                  { label: Subheading, name: subheading, widget: string },
+                  { label: Introduction, name: introduction, widget: string },
+                ],
+            }
           - {
               label: About Me,
               name: aboutme,
