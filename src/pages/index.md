@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-image: /img/home-jumbotron.jpg
+image: /img/header-background.jpg
 heading: Meincken
 subheading: Front End Developer
 aboutme:
