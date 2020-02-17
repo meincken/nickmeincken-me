@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql, Link } from "gatsby";
-import { GlobalStyle } from "../shared/Global";
+import { GlobalStyle } from "../shared/global";
 import { color } from "../shared/styles";
 
 import Layout from "../components/Layout";
