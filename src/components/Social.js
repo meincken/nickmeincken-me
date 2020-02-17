@@ -3,12 +3,14 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import styled from "styled-components";
 
 const SocialLinks = styled.div`
-  display: flex;
+  /* display: flex;
   grid-column: 6 / span 2;
-  justify-content: space-between;
+  justify-content: space-between; */
+  margin: 18px 0px 30px;
+  padding: 0px;
 
-  a {
-    color: green;
+  a + a {
+    margin-left: 42px;
   }
 `;
 
@@ -26,12 +28,12 @@ var social = [
     url: "http://instagram.com/meincken"
   },
   {
-    name: "strava",
-    url: "https://www.strava.com/athletes/meincken"
-  },
-  {
     name: "github",
     url: "http://github.com/meincken"
+  },
+  {
+    name: "strava",
+    url: "https://www.strava.com/athletes/meincken"
   }
 ];
 

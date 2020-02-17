@@ -8,26 +8,28 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <div>
+      <>
         {posts &&
           posts.map(({ node: post }) => (
-            <div key={post.id}>
-              <article>
-                <header>
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                  </p>
-                </header>
-                <p>{post.excerpt}</p>
-              </article>
-            </div>
+            <article key={post.id} style={{ backgroundColor: "blue" }}>
+              <img
+                alt={post.frontmatter.featuredimage.name}
+                src={post.frontmatter.featuredimage.publicURL}
+              />
+              <header>
+                <p className="post-meta">
+                  <Link
+                    className="title has-text-primary is-size-4"
+                    to={post.fields.slug}
+                  >
+                    {post.frontmatter.title}
+                  </Link>
+                </p>
+              </header>
+              <p>{post.excerpt}</p>
+            </article>
           ))}
-      </div>
+      </>
     );
   }
 }
@@ -59,6 +61,10 @@ export default () => (
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
+                featuredimage {
+                  publicURL
+                  name
+                }
               }
             }
           }

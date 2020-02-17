@@ -4,7 +4,6 @@ import { library } from "@fortawesome/fontawesome-svg-core";
 import { fab } from "@fortawesome/free-brands-svg-icons";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
 import { withPrefix } from "gatsby";
 
@@ -18,6 +17,10 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <link
+          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,900"
+          rel="stylesheet"
+        />
 
         <link
           rel="apple-touch-icon"
