@@ -8,6 +8,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.11.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.8",
+    "babel-plugin-styled-components": "^1.10.7",
     "bulma": "^0.8.0",
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.0.23",
@@ -33,7 +34,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
-    "styled-components": "^4.4.1",
+    "styled-components": "^5.0.1",
     "uuid": "^3.2.1"
   },
   "keywords": [
