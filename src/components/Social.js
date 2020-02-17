@@ -3,9 +3,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import styled from "styled-components";
 
 const SocialLinks = styled.div`
-  /* display: flex;
-  grid-column: 6 / span 2;
-  justify-content: space-between; */
   margin: 18px 0px 30px;
   padding: 0px;
 
