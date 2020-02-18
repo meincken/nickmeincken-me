@@ -206,12 +206,14 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        image {
-          publicURL
+        hero {
+          image {
+            publicURL
+          }
+          heading
+          subheading
+          introduction
         }
-        heading
-        subheading
-        introduction
         aboutme {
           title
           description
