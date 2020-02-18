@@ -125,9 +125,9 @@ collections:
                   },
                 ],
             }
-      - file: "src/pages/about/index.md"
-        label: "About"
-        name: "about"
+      - file: "src/pages/resume/index.md"
+        label: "Resume"
+        name: "resume"
         fields:
           - {
               label: "Template Key",
@@ -136,4 +136,16 @@ collections:
               default: "about-page",
             }
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - {
+              label: Personal Information,
+              name: personalInformation,
+              widget: object,
+              fields:
+                [
+                  { label: Heading, name: title, widget: string },
+                  { label: subtitle, name: subtitle, widget: string },
+                  { label: Description, name: description, widget: text },
+                ],
+            }
           - { label: "Body", name: "body", widget: "markdown" }
