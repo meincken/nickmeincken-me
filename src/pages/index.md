@@ -1,9 +1,12 @@
 ---
 templateKey: index-page
-image: /img/header-background.jpg
-heading: Meincken
-subheading: Front End Developer
-introduction: I'm a London based Front End Developer. I build websites and component libraries for pretty much anything.
+hero:
+  heading: MEINCKEN
+  image: /img/header-background.jpg
+  introduction: >-
+    I'm a London based Front End Developer. I build websites and component
+    libraries for pretty much anything.
+  subheading: Front End Developer
 aboutme:
   description: >
     I am an experienced AEM Front End Developer. I specialise in creating clean
@@ -23,7 +26,7 @@ education:
       title: The Community College Hackney
       year: March 2006
     - course: BTEC Photography & Business Skills
-      title: "Spelthorne College, Middlesex"
+      title: 'Spelthorne College, Middlesex'
       year: April 1997
   title: Education
 contracts:
@@ -51,3 +54,4 @@ skills:
       name: AEM
   title: skills
 ---
+
