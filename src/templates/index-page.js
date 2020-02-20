@@ -87,6 +87,7 @@ const HR = styled.hr`
 `;
 
 export const IndexPageTemplate = ({
+  hero,
   image,
   title,
   heading,
@@ -103,16 +104,16 @@ export const IndexPageTemplate = ({
     <GlobalStyle />
     <Hero
       style={{
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${image.publicURL})`
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${hero.image.publicURL})`
       }}
     >
       <Banner>
         <BannerText>
           <Title>
-            <span>{heading}</span>
-            <small>{subheading}</small>
+            <span>{hero.heading}</span>
+            <small>{hero.subheading}</small>
           </Title>
-          <SubTitle>{introduction}</SubTitle>
+          <SubTitle>{hero.introduction}</SubTitle>
           <HR />
           <Social />
         </BannerText>
@@ -152,6 +153,7 @@ export const IndexPageTemplate = ({
 );
 
 IndexPageTemplate.propTypes = {
+  hero: PropTypes.object,
   image: PropTypes.object,
   title: PropTypes.string,
   heading: PropTypes.string,
@@ -176,6 +178,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
+        hero={frontmatter.hero}
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
