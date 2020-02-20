@@ -4,12 +4,20 @@ import { graphql } from "gatsby";
 import Layout from "../components/LayoutCV";
 import Content, { HTMLContent } from "../components/Content";
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const AboutPageTemplate = ({
+  title,
+  content,
+  contentComponent,
+  personalinfo
+}) => {
   const PageContent = contentComponent || Content;
 
   return (
     <>
-      <h2>{title}</h2>
+      <h1>{title}</h1>
+      <h2>{personalinfo.title}</h2>
+      <h3>{personalinfo.subtitle}</h3>
+      <PageContent content={personalinfo.description} />
       <PageContent className="content" content={content} />
     </>
   );
@@ -18,7 +26,8 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
 AboutPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
-  contentComponent: PropTypes.func
+  contentComponent: PropTypes.func,
+  personalInformation: PropTypes.string
 };
 
 const AboutPage = ({ data }) => {
@@ -30,6 +39,7 @@ const AboutPage = ({ data }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
+        personalinfo={post.frontmatter.personalInformation}
       />
     </Layout>
   );
@@ -47,6 +57,11 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
+        personalInformation {
+          description
+          subtitle
+          title
+        }
       }
     }
   }
