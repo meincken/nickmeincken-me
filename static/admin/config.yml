@@ -100,11 +100,7 @@ collections:
                         { label: Company, name: company, widget: string },
                         { label: Role, name: role, widget: string },
                         { label: Service, name: service, widget: string },
-                        {
-                          label: Description,
-                          name: description,
-                          widget: markdown,
-                        },
+                        { label: Description, name: description, widget: text },
                       ],
                   },
                 ],
@@ -149,7 +145,7 @@ collections:
                 [
                   { label: Heading, name: title, widget: string },
                   { label: subtitle, name: subtitle, widget: string },
-                  { label: Description, name: description, widget: text },
+                  { label: Description, name: description, widget: markdown },
                 ],
             }
           - { label: "Body", name: "body", widget: "markdown" }
