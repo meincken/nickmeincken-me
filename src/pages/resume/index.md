@@ -10,7 +10,6 @@ personalInformation:
     rapid development when working as part of a team. I am as comfortable coding
     in raw HTML as I am using products such as React.</p>
 
-
     <p>I enjoy working as part of an Agile team and have worked on some of the
     countries largest e-commerce sites.</p>
   title: Personal Information
