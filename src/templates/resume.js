@@ -8,8 +8,7 @@ export const AboutPageTemplate = ({
   title,
   content,
   contentComponent,
-  personalinfo,
-  contracts
+  personalinfo
 }) => {
   const PageContent = contentComponent || Content;
 
@@ -28,7 +27,6 @@ AboutPageTemplate.propTypes = {
   content: PropTypes.string,
   contentComponent: PropTypes.func,
   personalInformation: PropTypes.string,
-  contracts: PropTypes.string
 };
 
 const AboutPage = ({ data }) => {
@@ -41,7 +39,6 @@ const AboutPage = ({ data }) => {
         title={post.frontmatter.title}
         content={post.html}
         personalinfo={post.frontmatter.personalInformation}
-		contracts ={post.frontmatter.contracts}
       />
     </Layout>
   );
@@ -64,15 +61,6 @@ export const aboutPageQuery = graphql`
           subtitle
           title
         }
-		contracts {
-		  title
-		  positions {
-			company
-			role
-			service
-			description
-		  }
-		}
       }
     }
   }
