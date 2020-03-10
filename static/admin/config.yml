@@ -44,8 +44,20 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Image", name: "featuredimage", widget: image }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: Skills,
+          name: skills,
+          widget: object,
+          fields:
+            [
+              {
+                label: Skills Used,
+                name: skillsUsed,
+                widget: list,
+                fields: [{ label: Skill, name: skillTitle, widget: string }],
+              },
+            ],
+        }
   - name: "pages"
     label: "Pages"
     files:
