@@ -42,21 +42,16 @@ collections:
           default: "contract-history",
         }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Job Title", name: "jobTitle", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "From Date", name: "date", widget: "datetime" }
+      - { label: "Finish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
       - {
-          label: Skills,
-          name: skills,
-          widget: object,
-          fields:
-            [
-              {
-                label: Skills Used,
-                name: skillsUsed,
-                widget: list,
-                fields: [{ label: Skill, name: skillTitle, widget: string }],
-              },
-            ],
+          label: Skills Used,
+          name: skillsUsed,
+          widget: list,
+          fields: [{ label: Skill, name: skillTitle, widget: string }],
         }
   - name: "pages"
     label: "Pages"
