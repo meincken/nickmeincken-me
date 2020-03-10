@@ -9,7 +9,7 @@ export const bodyStyles = css`
   font-size: ${typography.size.s3}px;
   font-weight: ${typography.weight.regular};
   background: #1e1e1e;
-  color: ${color.darkest};
+  color: ${color.lighter};
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
