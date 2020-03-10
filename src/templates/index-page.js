@@ -86,6 +86,10 @@ const HR = styled.hr`
   width: 60%;
 `;
 
+const Section = styled.section`
+  color: #fff;
+`;
+
 export const IndexPageTemplate = ({
   hero,
   image,
@@ -119,7 +123,7 @@ export const IndexPageTemplate = ({
         </BannerText>
       </Banner>
     </Hero>
-    <section>
+    <Section>
       <h2>{aboutme.title}</h2>
       <p>{aboutme.description}</p>
       <h2>Contact</h2>
@@ -131,20 +135,20 @@ export const IndexPageTemplate = ({
       <Link title="Online Resume" to="/resume">
         Online Resume
       </Link>
-    </section>
-    <section>
+    </Section>
+    <Section>
       <h2>{education.title}</h2>
       <Education educationItems={education.courses} />
-    </section>
-    <section>
+    </Section>
+    <Section>
       <h2>{contracts.title}</h2>
       <Contracts contractItems={contracts.positions} />
-    </section>
-    <section>
+    </Section>
+    <Section>
       <h2>{skills.title}</h2>
       <p>{skills.description}</p>
       <Skills skillItems={skills.skillset} />
-    </section>
+    </Section>
     <section id="portfolio">
       <h2>Check out some of my previous works</h2>
       <BlogRoll />
