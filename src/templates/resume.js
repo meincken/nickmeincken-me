@@ -18,6 +18,7 @@ export const ResumePageTemplate = ({
 
   return (
     <>
+<<<<<<< HEAD
       <GlobalStyle />
       <header>
         <h1>
@@ -33,6 +34,12 @@ export const ResumePageTemplate = ({
         <p>References available upon request</p>
         <p>©2012-2019 Nick Meincken</p>
       </footer>
+=======
+      <h1>{title}</h1>
+      <h2>{personalinfo.title}</h2>
+      <h3>{personalinfo.subtitle}</h3>
+      <PageContent content={personalinfo.description} />
+>>>>>>> Resume
     </>
   );
 };
@@ -41,7 +48,7 @@ ResumePageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   subtitle: PropTypes.string,
   contentComponent: PropTypes.func,
-  personalInformation: PropTypes.string
+  personalInformation: PropTypes.string,
 };
 
 const ResumePage = ({ data }) => {
