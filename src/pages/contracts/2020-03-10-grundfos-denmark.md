@@ -12,12 +12,16 @@ description: >-
   principles.</p>
 
 
-  * AEM, VueJS, SCSS
+  <ul>
 
-  * Atomic BEM
+  <li>AEM, VueJS, SCSS</li>
 
-  * Sightly, AEM_Dialog, Sling
+  <li>Atomic BEM</li>
 
-  * node.js, NPM
+  <li>Sightly, AEM_Dialog, Sling</li>
+
+  <li>node.js, NPM</li>
+
+  </ul>
 ---
 
