@@ -10,10 +10,14 @@ description: >-
   around the world. Building components for AEM in standard HTM in Sightly but
   also utilising a custom VueJS front end design system using BEM Atomic Design
   principles.
-skillsUsed:
-  - skillTitle: 'AEM, VueJS, SCSS'
-  - skillTitle: Atomic BEM
-  - skillTitle: 'Sightly, AEM_Dialog, Sling'
-  - skillTitle: 'node.js, NPM'
+
+
+  * AEM, VueJS, SCSS
+
+    Atomic BEM
+
+    Sightly, AEM_Dialog, Sling
+
+    node.js, NPM
 ---
 
