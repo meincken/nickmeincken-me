@@ -4,8 +4,9 @@ import { graphql } from "gatsby";
 import { GlobalStyle } from "../shared/global";
 
 import Layout from "../components/LayoutCV";
+import ContractorHistory from "../components/ContractorHistory";
 import Content, { HTMLContent } from "../components/Content";
-import styled from "styled-components";
+// import styled from "styled-components";
 
 export const ResumePageTemplate = ({
   title,
@@ -29,7 +30,10 @@ export const ResumePageTemplate = ({
         <h3>{personalinfo.subtitle}</h3>
         <PageContent content={personalinfo.description} />
       </section>
-      <footer class="hidden-print-block">
+      <section>
+        <ContractorHistory />
+      </section>
+      <footer className="hidden-print-block">
         <p>References available upon request</p>
         <p>©2012-2019 Nick Meincken</p>
       </footer>

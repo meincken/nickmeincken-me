@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql, StaticQuery } from "gatsby";
+import { graphql, StaticQuery } from "gatsby";
 
 class ContractorHistory extends React.Component {
   render() {
@@ -11,22 +11,15 @@ class ContractorHistory extends React.Component {
       <>
         {posts &&
           posts.map(({ node: post }) => (
-            <article key={post.id} style={{ backgroundColor: "blue" }}>
-              <img
-                alt={post.frontmatter.featuredimage.name}
-                src={post.frontmatter.featuredimage.publicURL}
-              />
+            <article key={post.id} style={{ backgroundColor: "green" }}>
               <header>
-                <p className="post-meta">
-                  <Link
-                    className="title has-text-primary is-size-4"
-                    to={post.fields.slug}
-                  >
-                    {post.frontmatter.title}
-                  </Link>
+                <h3>{post.frontmatter.title}</h3>
+                <p>
+                  {post.frontmatter.jobTitle} <span>&middot;</span>{" "}
+                  {post.frontmatter.startDate} - {post.frontmatter.finishDate}
                 </p>
               </header>
-              <p>{post.excerpt}</p>
+              <p>{post.frontmatter.description}</p>
             </article>
           ))}
       </>
@@ -48,7 +41,7 @@ export default () => (
       query ContractorHistoryQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+          filter: { frontmatter: { templateKey: { eq: "contract-history" } } }
         ) {
           edges {
             node {
@@ -59,11 +52,14 @@ export default () => (
               }
               frontmatter {
                 title
+                jobTitle
+                startDate
+                finishDate
+                description
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
-                featuredimage {
-                  publicURL
-                  name
+                skillsUsed {
+                  skillTitle
                 }
               }
             }

@@ -51,7 +51,7 @@ const ContractorHistory = ({ data }) => {
         description={post.frontmatter.description}
         helmet={
           <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
+            <title>{`${post.frontmatter.jobTitle}`}</title>
             <meta
               name="description"
               content={`${post.frontmatter.description}`}
@@ -79,7 +79,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
-        title
+        jobTitle
         description
       }
     }

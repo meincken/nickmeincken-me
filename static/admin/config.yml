@@ -13,7 +13,7 @@ public_folder: /img
 
 collections:
   - name: "blog"
-    label: "Blog"
+    label: "Portfolio"
     folder: "src/pages/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -46,13 +46,7 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "From Date", name: "startDate", widget: "string" }
       - { label: "Finish Date", name: "finishDate", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - {
-          label: Skills Used,
-          name: skillsUsed,
-          widget: list,
-          fields: [{ label: Skill, name: skillTitle, widget: string }],
-        }
+      - { label: "Description", name: "description", widget: "markdown" }
   - name: "pages"
     label: "Pages"
     files:

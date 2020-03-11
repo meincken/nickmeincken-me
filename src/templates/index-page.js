@@ -7,7 +7,8 @@ import { color } from "../shared/styles";
 import Layout from "../components/Layout";
 import Social from "../components/Social";
 import Education from "../components/Education";
-import Contracts from "../components/Contracts";
+// import Contracts from "../components/Contracts";
+import ContractorHistory from "../components/ContractorHistory";
 import Skills from "../components/Skills";
 import BlogRoll from "../components/BlogRoll";
 import styled from "styled-components";
@@ -142,7 +143,8 @@ export const IndexPageTemplate = ({
     </Section>
     <Section>
       <h2>{contracts.title}</h2>
-      <Contracts contractItems={contracts.positions} />
+      {/*<Contracts contractItems={contracts.positions} />*/}
+      <ContractorHistory />
     </Section>
     <Section>
       <h2>{skills.title}</h2>
