@@ -6,18 +6,18 @@ date: 2020-03-10T14:00:17.774Z
 startDate: December 2019
 finishDate: January 2020
 description: >-
-  Grundfos is a globally recognised company which develops water solutions
+  <p>Grundfos is a globally recognised company which develops water solutions
   around the world. Building components for AEM in standard HTM in Sightly but
   also utilising a custom VueJS front end design system using BEM Atomic Design
-  principles.
+  principles.</p>
 
 
   * AEM, VueJS, SCSS
 
-    Atomic BEM
+  * Atomic BEM
 
-    Sightly, AEM_Dialog, Sling
+  * Sightly, AEM_Dialog, Sling
 
-    node.js, NPM
+  * node.js, NPM
 ---
 
