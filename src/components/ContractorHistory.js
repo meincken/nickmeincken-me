@@ -11,7 +11,7 @@ class ContractorHistory extends React.Component {
       <>
         {posts &&
           posts.map(({ node: post }) => (
-            <article key={post.id} style={{ backgroundColor: "green" }}>
+            <article key={post.id}>
               <header>
                 <h3>{post.frontmatter.title}</h3>
                 <p>

@@ -7,10 +7,10 @@ import { color } from "../shared/styles";
 import Layout from "../components/Layout";
 import Social from "../components/Social";
 import Education from "../components/Education";
-// import Contracts from "../components/Contracts";
 import ContractorHistory from "../components/ContractorHistory";
 import Skills from "../components/Skills";
 import BlogRoll from "../components/BlogRoll";
+import { H2 } from "../ui-kit/Index";
 import styled from "styled-components";
 
 const Hero = styled.section`
@@ -87,8 +87,24 @@ const HR = styled.hr`
   width: 60%;
 `;
 
+const Main = styled.main`
+  align-content: center;
+  background: ${color.darkest};
+  color: ${color.lighter};
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-gap: 10px;
+  min-height: 100vh;
+  justify-content: center;
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0 20px;
+  overflow: hidden;
+`;
+
 const Section = styled.section`
   color: #fff;
+  grid-column: span 12;
 `;
 
 export const IndexPageTemplate = ({
@@ -124,37 +140,38 @@ export const IndexPageTemplate = ({
         </BannerText>
       </Banner>
     </Hero>
-    <Section>
-      <h2>{aboutme.title}</h2>
-      <p>{aboutme.description}</p>
-      <h2>Contact</h2>
-      <p>nick@meincken.com</p>
-      <Link to="/resumeDownload" title="Download Resume">
-        Download Resume
-      </Link>
-      <br />
-      <Link title="Online Resume" to="/resume">
-        Online Resume
-      </Link>
-    </Section>
-    <Section>
-      <h2>{education.title}</h2>
-      <Education educationItems={education.courses} />
-    </Section>
-    <Section>
-      <h2>{contracts.title}</h2>
-      {/*<Contracts contractItems={contracts.positions} />*/}
-      <ContractorHistory />
-    </Section>
-    <Section>
-      <h2>{skills.title}</h2>
-      <p>{skills.description}</p>
-      <Skills skillItems={skills.skillset} />
-    </Section>
-    <section id="portfolio">
-      <h2>Check out some of my previous works</h2>
-      <BlogRoll />
-    </section>
+    <Main>
+      <Section>
+        <H2 title={aboutme.title} />
+        <p>{aboutme.description}</p>
+        <H2 title="Contact" />
+        <p>nick@meincken.com</p>
+        <Link to="/resumeDownload" title="Download Resume">
+          Download Resume
+        </Link>
+        <br />
+        <Link title="Online Resume" to="/resume">
+          Online Resume
+        </Link>
+      </Section>
+      <Section>
+        <H2 title={education.title} />
+        <Education educationItems={education.courses} />
+      </Section>
+      <Section>
+        <H2 title={contracts.title} />
+        <ContractorHistory />
+      </Section>
+      <Section>
+        <H2 title={skills.title} />
+        <p>{skills.description}</p>
+        <Skills skillItems={skills.skillset} />
+      </Section>
+      <Section id="portfolio">
+        <H2 title="Check out some of my previous works" />
+        <BlogRoll />
+      </Section>
+    </Main>
   </>
 );
 
