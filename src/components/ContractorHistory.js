@@ -19,7 +19,11 @@ class ContractorHistory extends React.Component {
                   {post.frontmatter.startDate} - {post.frontmatter.finishDate}
                 </p>
               </header>
-              <p>{post.frontmatter.description}</p>
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: post.frontmatter.description
+                }}
+              />
             </article>
           ))}
       </>
@@ -47,6 +51,7 @@ export default () => (
             node {
               excerpt(pruneLength: 400)
               id
+              html
               fields {
                 slug
               }
@@ -58,9 +63,6 @@ export default () => (
                 description
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
-                skillsUsed {
-                  skillTitle
-                }
               }
             }
           }
