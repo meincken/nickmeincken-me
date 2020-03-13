@@ -52,6 +52,20 @@ skills:
   skillset:
     - level: 90%
       name: AEM
+    - level: 90%
+      name: Wordpress
+    - level: 90%
+      name: HTML5
+    - level: 80%
+      name: JavaScript/Jquery
+    - level: 99%
+      name: CSS
+    - level: 90%
+      name: ReactJS/Gastby
+    - level: 80%
+      name: Git
+    - level: 70%
+      name: Email build
   title: skills
 ---
 
