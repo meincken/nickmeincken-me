@@ -14,8 +14,8 @@ class ContractorHistory extends React.Component {
             <article key={post.id}>
               <header>
                 <h3>{post.frontmatter.title}</h3>
+                <h4>{post.frontmatter.jobTitle}</h4>
                 <p>
-                  {post.frontmatter.jobTitle} <span>&middot;</span>{" "}
                   {post.frontmatter.startDate} - {post.frontmatter.finishDate}
                 </p>
               </header>

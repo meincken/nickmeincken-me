@@ -137,6 +137,24 @@ export const bodyStyles = css`
     overflow: hidden;
   }
 
+  ul {
+    padding-left: 20px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 10px;
+  }
+
+  dl {
+    dt {
+    }
+    dd {
+      margin: 0;
+    }
+  }
+
   @media print {
     body {
       font-size: 13px;

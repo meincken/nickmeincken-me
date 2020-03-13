@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import { GlobalStyle } from "../shared/global";
 import { color } from "../shared/styles";
+import { H2, H3, Header, FooterBlock } from "../ui-kit/Index";
 
 import Layout from "../components/LayoutCV";
 import ContractorHistory from "../components/ContractorHistory";
@@ -16,7 +17,6 @@ const Main = styled.main`
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-gap: 10px;
-  min-height: 100vh;
   justify-content: center;
   max-width: 1040px;
   margin: 0 auto;
@@ -28,14 +28,33 @@ const Section = styled.section`
   color: #fff;
   grid-column: span 12;
 
-  ul {
-    display: flex;
-    flex-flow: row wrap;
-    padding-left: 20px;
-
+  &.contractor-history ul {
     li {
-      max-width: 47%;
-      flex: 0 0 47%;
+      grid-column: span 6;
+    }
+  }
+
+  &.professional-skills {
+    h2 {
+      grid-column: span 12;
+    }
+
+    div {
+      grid-column: span 6;
+    }
+
+    strong {
+      display: block;
+    }
+  }
+
+  &.misc {
+    h2 {
+      grid-column: span 12;
+    }
+
+    div {
+      grid-column: span 6;
     }
   }
 `;
@@ -55,29 +74,88 @@ export const ResumePageTemplate = ({
       <button className="print" onClick={() => window.print()}>
         PRINT
       </button>
-      <br />
       <Link className="btn" to="/">
         Home
       </Link>
-      <header>
-        <h1>
-          {title} <small>{subtitle}</small>
-        </h1>
-      </header>
+      <Header title={title} subtitle={subtitle} />
       <Main>
         <Section className="personal-information">
-          <h2>{personalinfo.title}</h2>
-          <h3>{personalinfo.subtitle}</h3>
+          <H2 title={personalinfo.title} />
+          <H3 title={personalinfo.subtitle} />
           <PageContent content={personalinfo.description} />
         </Section>
-        <Section>
+        <Section className="professional-skills grid">
+          <H2 title="Professional Skills" />
+          <div>
+            <H3 title="Qualifications" />
+            <ul>
+              <li>
+                Adobe Training Center (2015){" "}
+                <strong>AEM Sites developer</strong>
+              </li>
+              <li>
+                The Community College Hackney (2006){" "}
+                <strong>BTEC Web Authoring Level II (distinction)</strong>
+              </li>
+              <li>
+                Spelthorne College, Middlesex (1997){" "}
+                <strong>BTEC Photography &amp; Business Skills</strong>
+              </li>
+              <li>
+                Ashford High School (1994){" "}
+                <strong>6 GCSEs including Maths, English and Science</strong>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <H3 title="Technical Skills" />
+            <ul>
+              <li>Adobe CC, Sketch</li>
+              <li>CSS and HTML editing using text editor</li>
+              <li>HTML5, CSS3, JavaScript (jQuery, ES6), PHP</li>
+              <li>Mac oSX, Linux and Windows compliant</li>
+              <li>CMS's - Wordpress, AEM, Jekyll</li>
+              <li>CSS frameworks - Bootstrap, Skeleton, Foundation</li>
+              <li>SASS, PostCSS, Grunt, Gulp, Webpack, Parcel</li>
+              <li>JS frameworks - React</li>
+            </ul>
+          </div>
+        </Section>
+        <Section className="contractor-history">
+          <H2 title="Contractor History" />
           <ContractorHistory />
         </Section>
+        <Section className="misc grid">
+          <H2 title="Personal" />
+          <div>
+            <ul>
+              <li>Date of Birth: April 1978</li>
+              <li>Nationality: British</li>
+              <li>Marital Status</li>
+              <li>Address: Surbiton, Surrey</li>
+            </ul>
+          </div>
+          <div>
+            <dl>
+              <dt>
+                <a href="http://www.builtbymoustache.com/">
+                  Built By Moustache
+                </a>
+              </dt>
+              <dd>My business site, built using Jekyll single page</dd>
+              <dt>
+                <a href="http://github.com/meincken">Meincken GitHub</a>
+              </dt>
+              <dd>My GitHub space</dd>
+            </dl>
+          </div>
+        </Section>
       </Main>
-      <footer className="hidden-print-block">
-        <p>References available upon request</p>
-        <p>©2012-2019 Nick Meincken</p>
-      </footer>
+      <FooterBlock
+        title="References available upon request"
+        copyright={`\u00a92012 -  ${new Date().getFullYear()} ${title}`}
+        className="hidden-print-block"
+      />
     </>
   );
 };

@@ -9,6 +9,5 @@ description: >
   <p>Front end developer role with minimal back end skills for Shopify. Building
   online shopping portal for a luxury brand.</p>
 
-  <ul><li>Shopify, Liquid, SCSS</li><li>jQuery, jQueryUI</li></ul>
+  <ul class="grid"><li>Shopify, Liquid, SCSS</li><li>jQuery, jQueryUI</li></ul>
 ---
-
