@@ -66,6 +66,6 @@ skills:
       name: Git
     - level: 70%
       name: Email build
-  title: skills
+  title: Skills
 ---
 
