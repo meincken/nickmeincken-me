@@ -145,6 +145,10 @@ export const bodyStyles = css`
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-gap: 10px;
+
+    h2 {
+      grid-column: span 12;
+    }
   }
 
   dl {

@@ -2,6 +2,15 @@ import React from "react";
 import { color, typography } from "../shared/styles";
 import styled from "styled-components";
 
+const HRstyle = styled.hr`
+  border-color: #2f2d2e;
+  border-color: hsla(0, 0%, 58.8%, 0.1);
+  margin: 18px auto 24px;
+  width: 60%;
+`;
+
+export const HR = () => <HRstyle />;
+
 // Heading
 const Heading2 = styled.h2`
   border-bottom: 1px solid;
