@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: Virgin Media
 jobTitle: Front End Developer
-date: 2020-03-13T15:36:25.337Z
+date: 2020-07-21T13:00:17.774Z
 startDate: November 2009
 finishDate: August 2016
 description: >-
@@ -29,4 +29,3 @@ description: >-
 
   </ul>
 ---
-

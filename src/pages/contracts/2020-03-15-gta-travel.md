@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: GTA Travel
 jobTitle: Front End UI Developer
-date: 2020-08-01T12:57:00.000Z
+date: 2020-07-26T13:00:17.774Z
 startDate: January 2018
 finishDate: May 2018
 description: >-
@@ -22,4 +22,3 @@ description: >-
 
   </ul>
 ---
-

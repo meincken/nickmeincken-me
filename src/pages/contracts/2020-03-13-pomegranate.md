@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: Pomegranate
 jobTitle: Front End Developer
-date: 2020-08-02T14:28:18.024Z
+date: 2020-07-28T13:00:17.774Z
 startDate: July 2019
 finishDate: August 2019
 description: >-
@@ -19,4 +19,3 @@ description: >-
 
   <li>Bootstrap, HTML templates</li>
 ---
-

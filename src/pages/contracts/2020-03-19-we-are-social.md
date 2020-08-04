@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: We Are Social
 jobTitle: Front End Developer
-date: 2020-03-13T15:35:16.759Z
+date: 2020-07-22T13:00:17.774Z
 startDate: September 2016
 finishDate: September 2016
 description: >-
@@ -21,4 +21,3 @@ description: >-
 
   </ul>
 ---
-

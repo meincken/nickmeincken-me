@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: Grundfos Denmark
 jobTitle: Front End Engineer
-date: 2020-08-04T13:00:17.774Z
+date: 2020-07-31T13:00:17.774Z
 startDate: December 2019
 finishDate: January 2020
 description: >-
@@ -14,4 +14,3 @@ description: >-
   <ul class="grid"><li>AEM, VueJS, SCSS</li><li>Atomic BEM</li><li>Sightly,
   AEM_Dialog, Sling</li><li>node.js, NPM</li></ul>
 ---
-

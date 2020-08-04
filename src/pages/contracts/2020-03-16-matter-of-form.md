@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: Matter of Form
 jobTitle: Front End Developer
-date: 2020-03-13T15:31:42.064Z
+date: 2020-07-25T13:00:17.774Z
 startDate: May 2017
 finishDate: October 2017
 description: >-
@@ -21,4 +21,3 @@ description: >-
 
   </ul>
 ---
-

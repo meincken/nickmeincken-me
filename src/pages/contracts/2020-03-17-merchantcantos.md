@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: MerchantCantos
 jobTitle: Front End Developer
-date: 2020-03-13T15:32:42.691Z
+date: 2020-07-24T13:00:17.774Z
 startDate: January 2017
 finishDate: February 2017 & March 2017
 description: >-
@@ -21,4 +21,3 @@ description: >-
 
   </ul>
 ---
-
