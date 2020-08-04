@@ -13,9 +13,10 @@ export const HR = () => <HRstyle />;
 
 // Heading
 const Heading2 = styled.h2`
-  border-bottom: 1px solid;
+  border-bottom: 3px solid ${color.primary};
   color: ${color.lightest};
   font-weight: ${typography.weight.bold};
+  float: left;
   margin-bottom: 12px;
 
   &.light {
@@ -26,6 +27,7 @@ const Heading2 = styled.h2`
     border-bottom: 0;
     color: ${color.darkest};
     font-size: 1.6rem;
+    float: none;
     margin-bottom: 4.8rem;
     text-align: center;
     text-transform: uppercase;
@@ -35,6 +37,14 @@ const Heading2 = styled.h2`
 export const H2 = ({ title, color }) => (
   <Heading2 className={color}>{title}</Heading2>
 );
+
+const Heading2alt = styled.h2`
+  color: ${color.lightest};
+  font-weight: ${typography.weight.bold};
+  margin-bottom: 12px;
+`;
+
+export const H2alt = ({ title }) => <Heading2alt>{title}</Heading2alt>;
 
 const Heading3 = styled.h2`
   color: ${color.lightest};

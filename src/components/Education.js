@@ -4,12 +4,12 @@ import PropTypes from "prop-types";
 const Education = ({ educationItems }) => (
   <>
     {educationItems.map(item => (
-      <section key={item.course}>
+      <article key={item.course}>
         <h3>{item.title}</h3>
         <p>
           {item.course} <span>&middot;</span> {item.year}
         </p>
-      </section>
+      </article>
     ))}
   </>
 );

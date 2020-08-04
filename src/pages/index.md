@@ -8,6 +8,7 @@ hero:
     libraries for pretty much anything.
   subheading: Front End Developer
 aboutme:
+  image: /img/profilepic.jpg
   description: >
     I am an experienced AEM Front End Developer. I specialise in creating clean
     semantic code to ensure fast load times. A champion of atomic design
@@ -26,7 +27,7 @@ education:
       title: The Community College Hackney
       year: March 2006
     - course: BTEC Photography & Business Skills
-      title: 'Spelthorne College, Middlesex'
+      title: "Spelthorne College, Middlesex"
       year: April 1997
   title: Education
 contracts:
@@ -68,4 +69,3 @@ skills:
       name: Email build
   title: Skills
 ---
-

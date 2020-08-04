@@ -10,7 +10,7 @@ import Education from "../components/Education";
 import ContractorHistory from "../components/ContractorHistory";
 import Skills from "../components/Skills";
 import BlogRoll from "../components/BlogRoll";
-import { H2, HR } from "../ui-kit/Index";
+import { H2, H2alt, HR } from "../ui-kit/Index";
 import styled from "styled-components";
 
 const Hero = styled.section`
@@ -109,6 +109,22 @@ const Section = styled.section`
   &.full {
   }
 
+  &.about-me {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+    .profile {
+      img {
+        border-radius: 50%;
+        display: block;
+        height: 12rem;
+        margin: 0 auto;
+        width: 12rem;
+      }
+    }
+  }
+
   &.skills,
   &.contracts,
   &.education {
@@ -121,6 +137,30 @@ const Section = styled.section`
     height: 100vh;
     justify-content: center;
     align-items: center;
+  }
+
+  &.contracts,
+  &.education {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+    > div {
+      border-bottom: 0.1rem solid ${color.darkest};
+    }
+  }
+
+  > div {
+    display: grid;
+    grid-template-areas: "header section";
+    grid-template-columns: 30rem 1fr;
+
+    header {
+      grid-area: header;
+    }
+
+    section {
+      grid-area: section;
+    }
   }
 
   .split {
@@ -183,29 +223,52 @@ export const IndexPageTemplate = ({
     </Hero>
     <Main>
       <Section className="about-me">
-        <H2 title={aboutme.title} />
-        <p>{aboutme.description}</p>
-        <H2 title="Contact" />
-        <div className="split">
-          <p>nick@meincken.com</p>
-          <div>
-            <LinkTo to="/resumeDownload" title="Download Resume" />
-            <LinkTo title="Online Resume" to="/resume" />
-          </div>
+        <div className="profile">
+          <img src={aboutme.image.publicURL} />
+          <article>
+            <H2alt title={aboutme.title} />
+            <p>{aboutme.description}</p>
+            <H2alt title="Contact" />
+            <div className="split">
+              <p>nick@meincken.com</p>
+              <div>
+                <LinkTo to="/resumeDownload" title="Download Resume" />
+                <LinkTo title="Online Resume" to="/resume" />
+              </div>
+            </div>
+          </article>
         </div>
       </Section>
       <Section className="education">
-        <H2 color="light" title={education.title} />
-        <Education educationItems={education.courses} />
+        <div>
+          <header>
+            <H2 color="light" title={education.title} />
+          </header>
+          <section>
+            <Education educationItems={education.courses} />
+          </section>
+        </div>
       </Section>
       <Section className="contracts">
-        <H2 color="light" title={contracts.title} />
-        <ContractorHistory />
+        <div>
+          <header>
+            <H2 color="light" title={contracts.title} />
+          </header>
+          <section>
+            <ContractorHistory />
+          </section>
+        </div>
       </Section>
       <Section className="skills">
-        <H2 color="light" title={skills.title} />
-        <p>{skills.description}</p>
-        <Skills skillItems={skills.skillset} />
+        <div>
+          <header>
+            <H2 color="light" title={skills.title} />
+          </header>
+          <section>
+            <p>{skills.description}</p>
+            <Skills skillItems={skills.skillset} />
+          </section>
+        </div>
       </Section>
       <Section id="portfolio" className="portfolio">
         <section>
@@ -283,6 +346,9 @@ export const pageQuery = graphql`
           introduction
         }
         aboutme {
+          image {
+            publicURL
+          }
           title
           description
         }
