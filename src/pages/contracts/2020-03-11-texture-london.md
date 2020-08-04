@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: Texture London
 jobTitle: Front End Developer
-date: 2020-03-09T13:59:00.000Z
+date: 2020-08-03T12:59:00.000Z
 startDate: November 2019
 finishDate: December 2019
 description: >
