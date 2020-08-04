@@ -1,5 +1,22 @@
 import React from "react";
 import { Link } from "gatsby";
+import styled from "styled-components";
+
+const Nav = styled.nav`
+  position: fixed;
+  z-index: 1;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  border-bottom: 1px solid #a9cc17;
+
+  a {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0.8rem 1.3rem;
+    display: inline-block;
+  }
+`;
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -32,7 +49,7 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav
+      <Nav
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
@@ -58,7 +75,7 @@ const Navbar = class extends React.Component {
             </div>
           </div>
         </div>
-      </nav>
+      </Nav>
     );
   }
 };

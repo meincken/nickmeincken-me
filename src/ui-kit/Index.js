@@ -17,9 +17,15 @@ const Heading2 = styled.h2`
   color: ${color.lightest};
   font-weight: ${typography.weight.bold};
   margin-bottom: 12px;
+
+  &.light {
+    color: ${color.darkest};
+  }
 `;
 
-export const H2 = ({ title }) => <Heading2>{title}</Heading2>;
+export const H2 = ({ title, color }) => (
+  <Heading2 className={color}>{title}</Heading2>
+);
 
 const Heading3 = styled.h2`
   color: ${color.lightest};

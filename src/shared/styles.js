@@ -52,7 +52,7 @@ export const typography = {
   size: {
     s1: "12",
     s2: "14",
-    s3: "16",
+    s3: "1.6",
     m1: "20",
     m2: "24",
     m3: "28",

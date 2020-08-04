@@ -6,7 +6,7 @@ export const fontUrl =
 
 export const bodyStyles = css`
   font-family: ${typography.type.primary};
-  font-size: ${typography.size.s3}px;
+  font-size: ${typography.size.s3}rem;
   font-weight: ${typography.weight.regular};
   background: #1e1e1e;
   color: ${color.lighter};
@@ -138,13 +138,12 @@ export const bodyStyles = css`
   }
 
   ul {
-    padding-left: 20px;
+    list-style: none;
   }
 
   .grid {
     display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
 
     h2 {
       grid-column: span 12;
@@ -161,7 +160,7 @@ export const bodyStyles = css`
 
   @media print {
     body {
-      font-size: 13px;
+      font-size: 1.3rem;
       color: #000;
     }
 
@@ -172,6 +171,10 @@ export const bodyStyles = css`
 `;
 
 export const GlobalStyle = createGlobalStyle`
+  html {
+    font-size: 62.5%;
+  }
+
   body {
     ${bodyStyles}
 

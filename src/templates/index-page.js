@@ -20,7 +20,6 @@ const Hero = styled.section`
   display: flex;
   height: 600px;
   justify-content: center;
-  margin-bottom: 30px;
   position: relative;
   width: 100vw;
 
@@ -86,20 +85,39 @@ const Main = styled.main`
   align-content: center;
   background: ${color.darkest};
   color: ${color.lighter};
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 10px;
   min-height: 100vh;
   justify-content: center;
-  max-width: 1040px;
-  margin: 0 auto;
-  padding: 0 20px;
+  /* max-width: 1040px; */
   overflow: hidden;
 `;
 
 const Section = styled.section`
+  display: grid;
+  /* grid-template-columns: repeat(12, 1fr); */
+  grid-template-columns:
+    [full-start] minmax(1rem, 1fr)
+    [main-start] minmax(0, 104rem) [main-end]
+    minmax(1rem, 1fr) [full-end];
+  grid-gap: 10px;
   color: #fff;
-  grid-column: span 12;
+  grid-column: main;
+
+  > * {
+    grid-column: main;
+  }
+
+  &.full {
+  }
+
+  &.about-me {
+    background-color: #fff;
+    color: #1e1e1e;
+  }
+
+  .split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
 `;
 
 const LinkStyle = styled(Link)`
@@ -155,15 +173,17 @@ export const IndexPageTemplate = ({
       </Banner>
     </Hero>
     <Main>
-      <Section>
-        <H2 title={aboutme.title} />
+      <Section className="about-me">
+        <H2 color="light" title={aboutme.title} />
         <p>{aboutme.description}</p>
-        <div className="grid">
-          <H2 title="Contact" />
+        <H2 color="light" title="Contact" />
+        <div className="split">
           <p>nick@meincken.com</p>
+          <div>
+            <LinkTo to="/resumeDownload" title="Download Resume" />
+            <LinkTo title="Online Resume" to="/resume" />
+          </div>
         </div>
-        <LinkTo to="/resumeDownload" title="Download Resume" />
-        <LinkTo title="Online Resume" to="/resume" />
       </Section>
       <Section>
         <H2 title={education.title} />
