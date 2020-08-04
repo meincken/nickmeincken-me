@@ -21,6 +21,15 @@ const Heading2 = styled.h2`
   &.light {
     color: ${color.darkest};
   }
+
+  &.center {
+    border-bottom: 0;
+    color: ${color.darkest};
+    font-size: 1.6rem;
+    margin-bottom: 4.8rem;
+    text-align: center;
+    text-transform: uppercase;
+  }
 `;
 
 export const H2 = ({ title, color }) => (

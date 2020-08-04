@@ -109,9 +109,18 @@ const Section = styled.section`
   &.full {
   }
 
-  &.about-me {
+  &.skills,
+  &.contracts,
+  &.education {
     background-color: #fff;
     color: #1e1e1e;
+  }
+
+  &.portfolio {
+    background: rgb(225, 225, 225);
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
   }
 
   .split {
@@ -174,9 +183,9 @@ export const IndexPageTemplate = ({
     </Hero>
     <Main>
       <Section className="about-me">
-        <H2 color="light" title={aboutme.title} />
+        <H2 title={aboutme.title} />
         <p>{aboutme.description}</p>
-        <H2 color="light" title="Contact" />
+        <H2 title="Contact" />
         <div className="split">
           <p>nick@meincken.com</p>
           <div>
@@ -185,22 +194,24 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </Section>
-      <Section>
-        <H2 title={education.title} />
+      <Section className="education">
+        <H2 color="light" title={education.title} />
         <Education educationItems={education.courses} />
       </Section>
-      <Section>
-        <H2 title={contracts.title} />
+      <Section className="contracts">
+        <H2 color="light" title={contracts.title} />
         <ContractorHistory />
       </Section>
-      <Section>
-        <H2 title={skills.title} />
+      <Section className="skills">
+        <H2 color="light" title={skills.title} />
         <p>{skills.description}</p>
         <Skills skillItems={skills.skillset} />
       </Section>
-      <Section id="portfolio">
-        <H2 title="Check out some of my previous works" />
-        <BlogRoll />
+      <Section id="portfolio" className="portfolio">
+        <section>
+          <H2 color="center" title="Check out some of my previous works" />
+          <BlogRoll />
+        </section>
       </Section>
     </Main>
   </>

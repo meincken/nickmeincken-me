@@ -1,6 +1,47 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql, StaticQuery } from "gatsby";
+import styled from "styled-components";
+
+const Article = styled.article`
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 215px;
+  position: relative;
+  background: rgb(30, 30, 30);
+  overflow: hidden;
+  transition: all 0.3s ease-in-out 0s;
+
+  .overlay {
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    padding: 1.8rem;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 0.3s ease-in-out 0s;
+
+    .post-meta {
+      text-align: center;
+    }
+  }
+
+  &:hover {
+    .overlay {
+      opacity: 1;
+    }
+  }
+`;
+
+const Section = styled.section`
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  row-gap: 1rem;
+`;
 
 class BlogRoll extends React.Component {
   render() {
@@ -9,26 +50,28 @@ class BlogRoll extends React.Component {
 
     return (
       <>
-        {posts &&
-          posts.map(({ node: post }) => (
-            <article key={post.id} style={{ backgroundColor: "blue" }}>
-              <img
-                alt={post.frontmatter.featuredimage.name}
-                src={post.frontmatter.featuredimage.publicURL}
-              />
-              <header>
-                <p className="post-meta">
-                  <Link
-                    className="title has-text-primary is-size-4"
-                    to={post.fields.slug}
-                  >
-                    {post.frontmatter.title}
-                  </Link>
-                </p>
-              </header>
-              <p>{post.excerpt}</p>
-            </article>
-          ))}
+        <Section>
+          {posts &&
+            posts.map(({ node: post }) => (
+              <Article key={post.id}>
+                <img
+                  alt={post.frontmatter.featuredimage.name}
+                  src={post.frontmatter.featuredimage.publicURL}
+                />
+                <div className="overlay">
+                  <p>{post.excerpt}</p>
+                  <p className="post-meta">
+                    <Link
+                      className="title has-text-primary is-size-4"
+                      to={post.fields.slug}
+                    >
+                      {post.frontmatter.title}
+                    </Link>
+                  </p>
+                </div>
+              </Article>
+            ))}
+        </Section>
       </>
     );
   }
