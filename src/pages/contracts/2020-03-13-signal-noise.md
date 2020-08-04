@@ -2,7 +2,7 @@
 templateKey: contract-history
 title: Signal Noise
 jobTitle: Front End Developer
-date: 2020-03-13T15:26:54.160Z
+date: 2020-08-02T14:26:54.160Z
 startDate: August 2019
 finishDate: October 2019
 description: >-
