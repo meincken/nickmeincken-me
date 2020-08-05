@@ -141,11 +141,12 @@ const Section = styled.section`
 
   &.contracts,
   &.education {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
 
     > div {
-      border-bottom: 0.1rem solid ${color.darkest};
+      border-bottom: 0.1rem solid rgb(225, 225, 225);
+      padding-bottom: 6rem;
     }
   }
 
