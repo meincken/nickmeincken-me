@@ -3,11 +3,16 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import styled from "styled-components";
 
 const SocialLinks = styled.div`
-  margin: 18px 0px 30px;
+  margin: 1.8rem 0 3rem;
   padding: 0px;
 
+  svg {
+    height: 3.2rem;
+    width: 3.2rem;
+  }
+
   a + a {
-    margin-left: 42px;
+    margin-left: 4.2rem;
   }
 `;
 

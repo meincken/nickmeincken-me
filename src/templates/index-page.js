@@ -225,7 +225,7 @@ export const IndexPageTemplate = ({
     <Main>
       <Section className="about-me">
         <div className="profile">
-          <img src={aboutme.image.publicURL} />
+          <img alt="Nick Meincken" src={aboutme.image.publicURL} />
           <article>
             <H2alt title={aboutme.title} />
             <p>{aboutme.description}</p>
