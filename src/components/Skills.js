@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-const BarBlock = styled.li`
+const BarBlock = styled.ul`
   position: relative;
   margin-bottom: 60px;
   height: 42px;

@@ -18,4 +18,5 @@ description: >-
   <li>Handlebars, GIT</li>
 
   <li>Bootstrap, HTML templates</li>
+  </ul>
 ---

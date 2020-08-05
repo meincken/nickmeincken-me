@@ -23,6 +23,9 @@ const Hero = styled.section`
   position: relative;
   width: 100vw;
 
+  &::after {
+  }
+
   @media (min-width: 960px) {
     height: 100vh;
     min-height: 600px;
@@ -207,7 +210,10 @@ export const IndexPageTemplate = ({
     <GlobalStyle />
     <Hero
       style={{
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${hero.image.publicURL})`
+        backgroundImage: `url(${
+          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+        })`,
+        backgroundPosition: `top left`
       }}
     >
       <Banner>
@@ -233,7 +239,7 @@ export const IndexPageTemplate = ({
             <div className="split">
               <p>nick@meincken.com</p>
               <div>
-                <LinkTo to="/resumeDownload" title="Download Resume" />
+                {/*<LinkTo to="/resumeDownload" title="Download Resume" />*/}
                 <LinkTo title="Online Resume" to="/resume" />
               </div>
             </div>
@@ -283,7 +289,7 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   hero: PropTypes.object,
-  image: PropTypes.object,
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
@@ -308,7 +314,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         hero={frontmatter.hero}
-        image={frontmatter.image}
+        image={frontmatter.hero.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
@@ -340,7 +346,11 @@ export const pageQuery = graphql`
       frontmatter {
         hero {
           image {
-            publicURL
+            childImageSharp {
+              fluid(maxWidth: 2048, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
           }
           heading
           subheading
