@@ -210,10 +210,9 @@ export const IndexPageTemplate = ({
     <GlobalStyle />
     <Hero
       style={{
-        backgroundImage: `url(${
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`
+        })`
       }}
     >
       <Banner>
