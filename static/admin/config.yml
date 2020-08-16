@@ -50,9 +50,9 @@ collections:
       - { label: "Description", name: "description", widget: "markdown" }
       - {
           label: "Skills used",
-          name: "skillsused",
+          name: "skillset",
           widget: list,
-          fields: [{ label: Skills, name: skillset, widget: string }],
+          fields: [{ label: Skills, name: item, widget: string }],
         }
   - name: "pages"
     label: "Pages"
