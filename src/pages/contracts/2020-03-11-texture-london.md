@@ -8,6 +8,7 @@ finishDate: December 2019
 description: >
   <p>Front end developer role with minimal back end skills for Shopify. Building
   online shopping portal for a luxury brand.</p>
-
-  <ul class="grid"><li>Shopify, Liquid, SCSS</li><li>jQuery, jQueryUI</li></ul>
+skillset:
+  - item: Shopify, Liquid, SCSS
+  - item: jQuery, jQueryUI
 ---

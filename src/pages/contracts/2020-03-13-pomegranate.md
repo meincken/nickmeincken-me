@@ -9,14 +9,8 @@ description: >-
   Building components around the bootstrap framework for a Medical website
   utilising Handlebars, LESS and jQuery. Sample components and page templates
   for a CMS. Built the base for reusable components and sections.
-
-
-  <ul>
-
-  <li>Less, Gulp</li>
-
-  <li>Handlebars, GIT</li>
-
-  <li>Bootstrap, HTML templates</li>
-  </ul>
+skillset:
+  - item: Less, Gulp
+  - item: Handlebars, GIT
+  - item: Bootstrap, HTML templates
 ---

@@ -11,6 +11,9 @@ description: >-
   also utilising a custom VueJS front end design system using BEM Atomic Design
   principles.</p>
 
-  <ul class="grid"><li>AEM, VueJS, SCSS</li><li>Atomic BEM</li><li>Sightly,
-  AEM_Dialog, Sling</li><li>node.js, NPM</li></ul>
+skillset:
+  - item: AEM, VueJS, SCSS
+  - item: Atomic BEM
+  - item: Sightly, AEM_Dialog, Sling
+  - item: node.js, NPM
 ---

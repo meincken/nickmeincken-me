@@ -24,6 +24,11 @@ class ContractorHistory extends React.Component {
                   __html: post.frontmatter.description
                 }}
               />
+              <ul>
+                {post.frontmatter.skillset.map(skill => (
+                  <li key={skill.item}>{skill.item}</li>
+                ))}
+              </ul>
             </article>
           ))}
       </>
@@ -61,6 +66,9 @@ export default () => (
                 startDate
                 finishDate
                 description
+                skillset {
+                  item
+                }
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
               }

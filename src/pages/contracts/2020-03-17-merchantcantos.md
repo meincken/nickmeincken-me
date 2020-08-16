@@ -9,15 +9,8 @@ description: >-
   Working as part of a small development team building custom websites for
   corporate finance using .Net and Umbraco. Support for existing websites and
   updating an older site to newer code base.
-
-
-  <ul>
-
-  <li>SCSS, jQuery</li>
-
-  <li>Umbraco</li>
-
-  <li>Responsive design</li>
-
-  </ul>
+skillset:
+  - item: SCSS, jQuery
+  - item: Umbraco
+  - item: Responsive design
 ---

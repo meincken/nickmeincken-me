@@ -13,19 +13,11 @@ description: >-
   components within AEM to modified and customised versions specifically for
   Virgin Media, as well as custom components.
 
-  <ul>
-
-  <li>Building components for AEM</li>
-
-  <li>Usage of HTML5, jQuery and CSS3</li>
-
-  <li>Building online styleguide</li>
-
-  <li>Tactical and Strategic redesign HTML</li>
-
-  <li>Agile work process</li>
-
-  <li>Responsive and Adaptive builds</li>
-
-  </ul>
+skillset:
+  - item: Building components for AEM
+  - item: Usage of HTML5, jQuery and CSS3
+  - item: Building online styleguide
+  - item: Tactical and Strategic redesign HTML
+  - item: Agile work process
+  - item: Responsive and Adaptive builds
 ---

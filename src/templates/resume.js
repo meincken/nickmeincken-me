@@ -28,9 +28,14 @@ const Section = styled.section`
   color: #fff;
   grid-column: span 12;
 
-  &.contractor-history ul {
-    li {
-      grid-column: span 6;
+  &.contractor-history {
+    h2 {
+      float: none;
+    }
+    ul {
+      li {
+        grid-column: span 6;
+      }
     }
   }
 
