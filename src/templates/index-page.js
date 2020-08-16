@@ -7,7 +7,7 @@ import { color } from "../shared/styles";
 import Layout from "../components/Layout";
 import Social from "../components/Social";
 import Education from "../components/Education";
-import ContractorHistory from "../components/ContractorHistory";
+import IndexContract from "../components/IndexContract";
 import Skills from "../components/Skills";
 import BlogRoll from "../components/BlogRoll";
 import { H2, H2alt, HR } from "../ui-kit/Index";
@@ -261,7 +261,7 @@ export const IndexPageTemplate = ({
             <H2 color="light" title={contracts.title} />
           </header>
           <section>
-            <ContractorHistory />
+            <IndexContract />
           </section>
         </div>
       </Section>

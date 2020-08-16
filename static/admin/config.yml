@@ -51,8 +51,8 @@ collections:
       - {
           label: "Skills used",
           name: "skillsused",
-          widget: object,
-          fields: [{ label: Skills, name: skillset, widget: list }],
+          widget: list,
+          fields: [{ label: Skills, name: skillset, widget: string }],
         }
   - name: "pages"
     label: "Pages"
