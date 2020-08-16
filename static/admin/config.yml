@@ -48,6 +48,11 @@ collections:
       - { label: "From Date", name: "startDate", widget: "string" }
       - { label: "Finish Date", name: "finishDate", widget: "string" }
       - { label: "Description", name: "description", widget: "markdown" }
+      - {
+          label: "Skills used",
+          name: "skillsused",
+          fields: [{ label: Skills, name: skillset, widget: text }],
+        }
   - name: "pages"
     label: "Pages"
     files:
