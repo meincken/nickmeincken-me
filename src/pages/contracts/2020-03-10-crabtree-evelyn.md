@@ -11,8 +11,4 @@ skillset:
   - item: jQuery
 description: <p>Full stack dev, dealing with build and deployment of new
   features on the Crabtree & Evelyn website.</p>
-skillsused:
-  - skillset: Shopify
-  - skillset: Liquid
-  - skillset: jQuery
 ---
