@@ -3,7 +3,7 @@ module.exports = {
     title: "Nick Meincken",
     subtitle: "Front End Developer",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution."
+      "Welcome to the online profile of Nick Meincken, full stack, front end developer. I specialise in reusable UI component libraries and front end styleguides for rapid development."
   },
   plugins: [
     "gatsby-plugin-react-helmet",
