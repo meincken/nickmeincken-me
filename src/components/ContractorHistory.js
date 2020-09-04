@@ -11,7 +11,7 @@ class ContractorHistory extends React.Component {
       <>
         {posts &&
           posts.map(({ node: post }) => (
-            <article key={post.id}>
+            <article key={post.id} className={post.frontmatter.columns}>
               <header>
                 <h3>{post.frontmatter.title}</h3>
                 <h4>{post.frontmatter.jobTitle}</h4>
@@ -61,6 +61,7 @@ export default () => (
                 slug
               }
               frontmatter {
+                columns
                 title
                 jobTitle
                 startDate

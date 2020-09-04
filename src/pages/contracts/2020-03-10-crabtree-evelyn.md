@@ -5,6 +5,7 @@ jobTitle: Full Stack Developer
 date: 2020-09-16T13:00:17.774Z
 startDate: April 2019
 finishDate: current
+columns: twelve
 skillset:
   - item: Shopify
   - item: Liquid
