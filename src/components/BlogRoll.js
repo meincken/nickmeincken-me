@@ -38,9 +38,13 @@ const Article = styled.article`
 
 const Section = styled.section`
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-gap: 1rem;
   row-gap: 1rem;
+
+  @media (min-width: 768px) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 `;
 
 class BlogRoll extends React.Component {

@@ -136,10 +136,11 @@ const Section = styled.section`
   }
 
   &.portfolio {
-    background: rgb(225, 225, 225);
-    height: 100vh;
-    justify-content: center;
     align-items: center;
+    background: rgb(225, 225, 225);
+    min-height: 100vh;
+    padding: 2rem 0;
+    justify-content: center;
   }
 
   &.contracts,
@@ -154,9 +155,11 @@ const Section = styled.section`
   }
 
   > div {
-    display: grid;
-    grid-template-areas: "header section";
-    grid-template-columns: 30rem 1fr;
+    @media (min-width: 768px) {
+      display: grid;
+      grid-template-areas: "header section";
+      grid-template-columns: 30rem 1fr;
+    }
 
     header {
       grid-area: header;

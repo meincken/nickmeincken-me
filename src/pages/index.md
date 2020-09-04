@@ -17,7 +17,6 @@ aboutme:
     enjoy working as part of an Agile team and have worked on some of the
     countries largest e-commerce sites.
   title: About Me
-manual_pdf: /img/nick-meincken.pdf
 education:
   courses:
     - course: AEM Sites developer
@@ -33,7 +32,8 @@ education:
 contracts:
   positions:
     - company: Grundfos Denmark
-      description: Grundfos is a globally recognised company which develops water
+      description:
+        Grundfos is a globally recognised company which develops water
         solutions around the world. Building components for AEM in standard HTM
         in Sightly but also utilising a custom VueJS front end design system
         using BEM Atomic Design principles.

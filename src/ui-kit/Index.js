@@ -25,6 +25,9 @@ const Heading2 = styled.h2`
 
   &.light {
     color: ${color.darkest};
+    @media (min-width: 768px) {
+      float: left;
+    }
   }
 
   &.center {
