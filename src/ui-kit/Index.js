@@ -18,6 +18,11 @@ const Heading2 = styled.h2`
   font-weight: ${typography.weight.bold};
   margin-bottom: 12px;
 
+  @media print {
+    border-bottom: 1px solid #000;
+    margin-bottom: 0.6rem;
+  }
+
   &.light {
     color: ${color.darkest};
   }
@@ -75,7 +80,7 @@ const HeaderStyle = styled.header`
     small {
       color: #e1e1e1;
       font-size: 65%;
-      display: block;
+      /* display: block; */
 
       @media (min-width: 768px) {
         display: inline-block;

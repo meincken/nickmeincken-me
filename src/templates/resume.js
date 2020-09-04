@@ -32,6 +32,19 @@ const Section = styled.section`
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 1rem;
+    @media print {
+      grid-gap: 0 1rem;
+    }
+
+    header p {
+      margin-bottom: 5px;
+    }
+
+    .break {
+      @media print {
+        margin-top: 10rem;
+      }
+    }
 
     .twelve {
       grid-column: span 2;
@@ -91,7 +104,7 @@ export const ResumePageTemplate = ({
   return (
     <>
       <GlobalStyle />
-      <div className="">
+      <div className="hidden-print-block">
         <button className="print" onClick={() => window.print()}>
           PRINT
         </button>
@@ -103,7 +116,6 @@ export const ResumePageTemplate = ({
       <Main>
         <Section className="personal-information">
           <H2 title={personalinfo.title} />
-          <H3 title={personalinfo.subtitle} />
           <PageContent content={personalinfo.description} />
         </Section>
         <Section className="professional-skills grid">

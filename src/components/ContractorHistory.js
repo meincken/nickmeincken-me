@@ -11,7 +11,12 @@ class ContractorHistory extends React.Component {
       <>
         {posts &&
           posts.map(({ node: post }) => (
-            <article key={post.id} className={post.frontmatter.columns}>
+            <article
+              key={post.id}
+              className={`${post.frontmatter.columns}${
+                post.frontmatter.break ? " break" : ""
+              }`}
+            >
               <header>
                 <h3>{post.frontmatter.title}</h3>
                 <h4>{post.frontmatter.jobTitle}</h4>
@@ -67,6 +72,7 @@ export default () => (
                 startDate
                 finishDate
                 description
+                break
                 skillset {
                   item
                 }

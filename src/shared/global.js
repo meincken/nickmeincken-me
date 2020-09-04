@@ -163,10 +163,6 @@ export const bodyStyles = css`
       font-size: 1.3rem;
       color: #000;
     }
-
-    .contractor-history {
-      page-break-after: always;
-    }
   }
 `;
 
