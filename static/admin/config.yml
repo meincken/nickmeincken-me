@@ -55,7 +55,12 @@ collections:
           options: ["twelve", "six"],
           default: "six",
         }
-      - { label: "Add break", name: "break", widget: "boolean" }
+      - {
+          label: "Add break",
+          name: "break",
+          widget: "boolean",
+          default: "false",
+        }
       - { label: "Description", name: "description", widget: "markdown" }
       - {
           label: "Skills used",
