@@ -16,7 +16,6 @@ const Heading2 = styled.h2`
   border-bottom: 3px solid ${color.primary};
   color: ${color.lightest};
   font-weight: ${typography.weight.bold};
-  float: left;
   margin-bottom: 12px;
 
   &.light {

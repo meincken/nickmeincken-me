@@ -6,6 +6,7 @@ date: 2020-07-31T13:00:17.774Z
 startDate: December 2019
 finishDate: January 2020
 columns: six
+break: false
 description: >-
   <p>Grundfos is a globally recognised company which develops water solutions
   around the world. Building components for AEM in standard HTM in Sightly but

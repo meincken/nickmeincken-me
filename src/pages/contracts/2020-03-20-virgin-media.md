@@ -6,6 +6,7 @@ date: 2020-07-21T13:00:17.774Z
 startDate: November 2009
 finishDate: August 2016
 columns: twelve
+break: false
 description: >-
   One of the UK's leading entertainment and communication providers, I was a
   member of a team of developers working on moving Virgin Media to a fully

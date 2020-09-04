@@ -6,6 +6,7 @@ date: 2020-07-26T13:00:17.774Z
 startDate: January 2018
 finishDate: May 2018
 columns: six
+break: false
 description: >-
   GTA Travel have been powering global travel for 40 years. I came on board as
   part of the marketing team to work on marketing projects and general site

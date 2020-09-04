@@ -6,6 +6,7 @@ date: 2020-09-16T13:00:17.774Z
 startDate: April 2019
 finishDate: current
 columns: twelve
+break: false
 skillset:
   - item: Shopify
   - item: Liquid

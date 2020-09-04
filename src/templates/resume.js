@@ -15,7 +15,7 @@ const Main = styled.main`
   background: ${color.darkest};
   color: ${color.lighter};
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
   justify-content: center;
   max-width: 1040px;
@@ -26,26 +26,41 @@ const Main = styled.main`
 
 const Section = styled.section`
   color: #fff;
-  grid-column: span 12;
+  grid-column: span 2;
 
   &.contractor-history {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+
+    .twelve {
+      grid-column: span 2;
+    }
+
+    .six {
+      grid-column: span 1;
+    }
+
     h2 {
-      float: none;
+      grid-column: span 2;
     }
     ul {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+
       li {
-        grid-column: span 6;
+        grid-column: span 1;
       }
     }
   }
 
   &.professional-skills {
     h2 {
-      grid-column: span 12;
+      grid-column: span 2;
     }
 
     div {
-      grid-column: span 6;
+      grid-column: span 1;
     }
 
     strong {
@@ -55,11 +70,11 @@ const Section = styled.section`
 
   &.misc {
     h2 {
-      grid-column: span 12;
+      grid-column: span 2;
     }
 
     div {
-      grid-column: span 6;
+      grid-column: span 1;
     }
   }
 `;
@@ -76,12 +91,14 @@ export const ResumePageTemplate = ({
   return (
     <>
       <GlobalStyle />
-      <button className="print" onClick={() => window.print()}>
-        PRINT
-      </button>
-      <Link className="btn" to="/">
-        Home
-      </Link>
+      <div className="">
+        <button className="print" onClick={() => window.print()}>
+          PRINT
+        </button>
+        <Link className="btn" to="/">
+          Home
+        </Link>
+      </div>
       <Header title={title} subtitle={subtitle} />
       <Main>
         <Section className="personal-information">
