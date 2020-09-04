@@ -3,9 +3,8 @@ templateKey: index-page
 hero:
   heading: MEINCKEN
   image: /img/header-background.jpg
-  introduction: >-
-    I'm a London based Front End Developer. I build websites and component
-    libraries for pretty much anything.
+  introduction: I'm a London based Front End Developer. I build websites and
+    component libraries for pretty much anything.
   subheading: Front End Developer
 aboutme:
   image: /img/profilepic.jpg
@@ -18,6 +17,7 @@ aboutme:
     enjoy working as part of an Agile team and have worked on some of the
     countries largest e-commerce sites.
   title: About Me
+manual_pdf: /img/nick-meincken.pdf
 education:
   courses:
     - course: AEM Sites developer
@@ -27,17 +27,16 @@ education:
       title: The Community College Hackney
       year: March 2006
     - course: BTEC Photography & Business Skills
-      title: "Spelthorne College, Middlesex"
+      title: Spelthorne College, Middlesex
       year: April 1997
   title: Education
 contracts:
   positions:
     - company: Grundfos Denmark
-      description: >-
-        Grundfos is a globally recognised company which develops water solutions
-        around the world. Building components for AEM in standard HTM in Sightly
-        but also utilising a custom VueJS front end design system using BEM
-        Atomic Design principles.
+      description: Grundfos is a globally recognised company which develops water
+        solutions around the world. Building components for AEM in standard HTM
+        in Sightly but also utilising a custom VueJS front end design system
+        using BEM Atomic Design principles.
       role: Front End Engineer
       service: December 2019 -
     - company: Texture London
@@ -46,10 +45,9 @@ contracts:
       service: November 2019 - December 2019
   title: Contractor History
 skills:
-  description: >-
-    I am a competent Front End Developer with good skills with many frameworks
-    and content management systems. Below is my level of competency with various
-    technologies.
+  description: I am a competent Front End Developer with good skills with many
+    frameworks and content management systems. Below is my level of competency
+    with various technologies.
   skillset:
     - level: 90%
       name: AEM
