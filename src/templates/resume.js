@@ -14,8 +14,6 @@ const Main = styled.main`
   align-content: center;
   background: ${color.darkest};
   color: ${color.lighter};
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
   justify-content: center;
   max-width: 1040px;
@@ -24,6 +22,22 @@ const Main = styled.main`
   overflow: hidden;
 `;
 
+const HeaderBlock = styled.header`
+  display: grid;
+  grid-template-columns: 50% 1fr 10rem;
+  max-width: 104rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+
+  .contact-info {
+    p,
+    a {
+      display: block;
+      text-align: right;
+      margin: 0 1rem 0 0;
+    }
+  }
+`;
 const CVLinks = styled.div`
   display: flex;
   justify-content: center;
@@ -50,34 +64,29 @@ const Section = styled.section`
       margin-bottom: 5px;
     }
 
-    .break {
-      @media print {
-        margin-top: 10rem;
+    header {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+
+      div:nth-of-type(2) {
+        text-align: right;
       }
     }
-  }
 
-  &.professional-skills {
-    h2 {
-      grid-column: span 2;
+    .break {
+      @media print {
+        page-break-after: always;
+      }
     }
 
-    div {
-      grid-column: span 1;
-    }
+    span {
+      &:after {
+        content: ",";
+      }
 
-    strong {
-      display: block;
-    }
-  }
-
-  &.misc {
-    h2 {
-      grid-column: span 2;
-    }
-
-    div {
-      grid-column: span 1;
+      &:last-child:after {
+        content: "";
+      }
     }
   }
 `;
@@ -102,32 +111,48 @@ export const ResumePageTemplate = ({
           Print
         </Link>
       </CVLinks>
-      <Header title={title} subtitle={subtitle} />
+      <HeaderBlock>
+        <div>
+          <Header title={title} subtitle={subtitle}></Header>
+        </div>
+        <div className="contact-info">
+          <a href="https://nickmeincken.me">nickmeincken.me</a>
+          <p>Surbiton, Surrey UK</p>
+          <a href="tel:+44 7496 084977">+44 7496 084977</a>
+          <a href="mailto:nick@meincken.com">nick@meincken.com</a>
+          <a href="https://github.com/meincken">Meincken GitHub</a>
+        </div>
+        <div>
+          <img width="100" alt="qr-code" src="nickmeincken-website.png" />
+        </div>
+      </HeaderBlock>
       <Main>
-        <Section className="personal-information">
-          <H2 title={personalinfo.title} />
+        <Section>
           <PageContent content={personalinfo.description} />
         </Section>
-        <Section className="professional-skills grid">
-          <H2 title="Professional Skills" />
+        <Section className="contractor-history">
+          <H2 title="Contractor History" />
+          <ContractorHistory />
+        </Section>
+        <Section className="professional-skills">
           <div>
             <H3 title="Qualifications" />
             <ul>
               <li>
-                Adobe Training Center (2015){" "}
-                <strong>AEM Sites developer</strong>
+                <strong>Adobe Training Center (2015)</strong> - AEM Sites
+                developer
               </li>
               <li>
-                The Community College Hackney (2006){" "}
-                <strong>BTEC Web Authoring Level II (distinction)</strong>
+                <strong>The Community College Hackney (2006)</strong> - BTEC Web
+                Authoring Level II (distinction)
               </li>
               <li>
-                Spelthorne College, Middlesex (1997){" "}
-                <strong>BTEC Photography &amp; Business Skills</strong>
+                <strong>Spelthorne College, Middlesex (1997)</strong> - BTEC
+                Photography &amp; Business Skills
               </li>
               <li>
-                Ashford High School (1994){" "}
-                <strong>6 GCSEs including Maths, English and Science</strong>
+                <strong>Ashford High School (1994)</strong> - 6 GCSEs including
+                Maths, English and Science
               </li>
             </ul>
           </div>
@@ -143,35 +168,6 @@ export const ResumePageTemplate = ({
               <li>SASS, PostCSS, Grunt, Gulp, Webpack, Parcel</li>
               <li>JS frameworks - React</li>
             </ul>
-          </div>
-        </Section>
-        <Section className="contractor-history">
-          <H2 title="Contractor History" />
-          <ContractorHistory />
-        </Section>
-        <Section className="misc grid">
-          <H2 title="Personal" />
-          <div>
-            <ul>
-              <li>Date of Birth: April 1978</li>
-              <li>Nationality: British</li>
-              <li>Marital Status</li>
-              <li>Address: Surbiton, Surrey</li>
-            </ul>
-          </div>
-          <div>
-            <dl>
-              <dt>
-                <a href="http://www.builtbymoustache.com/">
-                  Built By Moustache
-                </a>
-              </dt>
-              <dd>My business site, built using Jekyll single page</dd>
-              <dt>
-                <a href="http://github.com/meincken">Meincken GitHub</a>
-              </dt>
-              <dd>My GitHub space</dd>
-            </dl>
           </div>
         </Section>
       </Main>

@@ -61,19 +61,13 @@ const Heading3 = styled.h2`
 
 export const H3 = ({ title }) => <Heading3>{title}</Heading3>;
 
-const HeaderStyle = styled.header`
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  max-width: 1040px;
-  margin: 0 auto;
-  padding: 0 20px;
-
+const HeaderStyle = styled.div`
   h1 {
     color: #a9cc17;
     font-weight: 200;
     font-size: 80px;
-    grid-column: span 12;
-    line-height: 1.25;
+    grid-column: span 2;
+    line-height: 1;
     margin: 0;
 
     @media print {
@@ -83,11 +77,7 @@ const HeaderStyle = styled.header`
     small {
       color: #e1e1e1;
       font-size: 65%;
-      /* display: block; */
-
-      @media (min-width: 768px) {
-        display: inline-block;
-      }
+      display: block;
     }
   }
 `;

@@ -22,9 +22,4 @@ tags:
   - Sling
   - node.js
   - NPM
-skillset:
-  - item: AEM, VueJS, SCSS
-  - item: Atomic BEM
-  - item: Sightly, AEM_Dialog, Sling
-  - item: node.js, NPM
 ---

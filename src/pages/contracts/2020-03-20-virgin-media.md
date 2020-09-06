@@ -3,8 +3,8 @@ templateKey: contract-history
 title: Virgin Media
 jobTitle: Front End Developer
 date: 2020-07-21T13:00:17.774Z
-startDate: November 2009
-finishDate: August 2016
+startDate: Nov 2009
+finishDate: Aug 2016
 columns: twelve
 break: false
 description: >-
@@ -23,11 +23,4 @@ tags:
   - Tactical and Strategic redesign HTML
   - Agile work process
   - Responsive and Adaptive builds
-skillset:
-  - item: Building components for AEM
-  - item: Usage of HTML5, jQuery and CSS3
-  - item: Building online styleguide
-  - item: Tactical and Strategic redesign HTML
-  - item: Agile work process
-  - item: Responsive and Adaptive builds
 ---

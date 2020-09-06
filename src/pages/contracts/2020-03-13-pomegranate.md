@@ -3,8 +3,8 @@ templateKey: contract-history
 title: Pomegranate
 jobTitle: Front End Developer
 date: 2020-07-28T13:00:17.774Z
-startDate: July 2019
-finishDate: August 2019
+startDate: Jul 2019
+finishDate: Aug 2019
 columns: six
 break: false
 description: Building components around the bootstrap framework for a Medical
@@ -17,8 +17,4 @@ tags:
   - GIT
   - Bootstrap
   - HTML templates
-skillset:
-  - item: Less, Gulp
-  - item: Handlebars, GIT
-  - item: Bootstrap, HTML templates
 ---

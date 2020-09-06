@@ -3,8 +3,8 @@ templateKey: contract-history
 title: Texture London
 jobTitle: Front End Developer
 date: 2020-07-30T13:00:17.774Z
-startDate: November 2019
-finishDate: December 2019
+startDate: Nov 2019
+finishDate: Dec 2019
 columns: six
 break: false
 description: >
@@ -16,7 +16,4 @@ tags:
   - SCSS
   - jQuery
   - jQueryUI
-skillset:
-  - item: Shopify, Liquid, SCSS
-  - item: jQuery, jQueryUI
 ---

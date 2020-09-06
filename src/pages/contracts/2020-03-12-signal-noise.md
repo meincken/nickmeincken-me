@@ -3,8 +3,8 @@ templateKey: contract-history
 title: Signal Noise
 jobTitle: Front End Developer
 date: 2020-07-29T13:00:17.774Z
-startDate: August 2019
-finishDate: October 2019
+startDate: Aug 2019
+finishDate: Oct 2019
 columns: six
 break: false
 description: >-
@@ -20,8 +20,4 @@ tags:
   - React
   - Bootstrap
   - GIT
-skillset:
-  - item: PostCSS, Stylint, BEM
-  - item: PatternLab, Handlebars
-  - item: React, Bootstrap, GIT
 ---

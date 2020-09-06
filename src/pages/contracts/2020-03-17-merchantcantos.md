@@ -3,8 +3,8 @@ templateKey: contract-history
 title: MerchantCantos
 jobTitle: Front End Developer
 date: 2020-07-24T13:00:17.774Z
-startDate: January 2017
-finishDate: February 2017 & March 2017
+startDate: Jan 2017
+finishDate: Feb 2017 & Mar 2017
 columns: six
 break: false
 description: >-
@@ -16,8 +16,4 @@ tags:
   - jQuery
   - Umbraco
   - Responsive design
-skillset:
-  - item: SCSS, jQuery
-  - item: Umbraco
-  - item: Responsive design
 ---

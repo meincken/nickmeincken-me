@@ -3,10 +3,10 @@ templateKey: contract-history
 title: GTA Travel
 jobTitle: Front End UI Developer
 date: 2020-07-26T13:00:17.774Z
-startDate: January 2018
+startDate: Jan 2018
 finishDate: May 2018
 columns: six
-break: false
+break: true
 description: >-
   GTA Travel have been powering global travel for 40 years. I came on board as
   part of the marketing team to work on marketing projects and general site
@@ -24,8 +24,4 @@ tags:
   - RESTful API
   - Handlebars
   - WebPack/Gulp
-skillset:
-  - item: SCSS, React, ATG, Jira, GIT
-  - item: Sketch, PhotoShop, InDesign
-  - item: RESTful API, Handlebars, WebPack/Gulp
 ---

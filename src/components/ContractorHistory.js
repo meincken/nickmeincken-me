@@ -16,25 +16,27 @@ class ContractorHistory extends React.Component {
               className={`${post.frontmatter.break ? " break" : ""}`}
             >
               <header>
-                <h3>{post.frontmatter.title}</h3>
-                {/*<h4>{post.frontmatter.jobTitle}</h4>*/}
-                <p>
-                  {post.frontmatter.startDate} - {post.frontmatter.finishDate}
-                </p>
+                <div>
+                  <h3>{post.frontmatter.title}</h3>
+                  <h4>{post.frontmatter.jobTitle}</h4>
+                </div>
+                <div>
+                  <p>
+                    {post.frontmatter.startDate} - {post.frontmatter.finishDate}
+                  </p>
+                </div>
               </header>
               <div
                 dangerouslySetInnerHTML={{
                   __html: post.frontmatter.description
                 }}
               />
-              {tags && tags.length ? (
-                <p>
-                  Relevent skills:
-                  {tags.map(tag => (
-                    <span key={tag + `tag`}>{tag}</span>
-                  ))}
-                </p>
-              ) : null}
+              <p>
+                <strong>Relevent skills:</strong>
+                {post.frontmatter.tags.map(tag => (
+                  <span key={tag + `tag`}> {tag} </span>
+                ))}
+              </p>
             </article>
           ))}
       </>
@@ -75,9 +77,6 @@ export default () => (
                 description
                 tags
                 break
-                skillset {
-                  item
-                }
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
               }

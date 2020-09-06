@@ -11,10 +11,7 @@ tags:
   - Shopify
   - Liquid
   - jQuery
-skillset:
-  - item: Shopify
-  - item: Liquid
-  - item: jQuery
+  - CI/CD
 description: <p>Full stack dev, dealing with build and deployment of new
-  features on the Crabtree & Evelyn website.</p>
+  features on the Crabtree & Evelyn website. Built on Shopify and migrating to a distributed development process with Bitbucket integration to setting up deployment environments.</p>
 ---
