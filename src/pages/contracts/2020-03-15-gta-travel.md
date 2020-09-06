@@ -12,6 +12,18 @@ description: >-
   part of the marketing team to work on marketing projects and general site
   optimisation. I am also part of a wider group that has been tasked to create
   new components and develop a style guide for the site.
+tags:
+  - SCSS
+  - React
+  - ATG
+  - Jira
+  - GIT
+  - Sketch
+  - PhotoShop
+  - InDesign
+  - RESTful API
+  - Handlebars
+  - WebPack/Gulp
 skillset:
   - item: SCSS, React, ATG, Jira, GIT
   - item: Sketch, PhotoShop, InDesign

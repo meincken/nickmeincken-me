@@ -14,7 +14,15 @@ description: >-
   version of AEM6. First hand experience with AEM adapting many of the core
   components within AEM to modified and customised versions specifically for
   Virgin Media, as well as custom components.
-
+tags:
+  - Building components for AEM
+  - HTML5
+  - jQuery
+  - CSS3
+  - Building online styleguide
+  - Tactical and Strategic redesign HTML
+  - Agile work process
+  - Responsive and Adaptive builds
 skillset:
   - item: Building components for AEM
   - item: Usage of HTML5, jQuery and CSS3

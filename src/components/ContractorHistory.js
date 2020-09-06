@@ -13,13 +13,11 @@ class ContractorHistory extends React.Component {
           posts.map(({ node: post }) => (
             <article
               key={post.id}
-              className={`${post.frontmatter.columns}${
-                post.frontmatter.break ? " break" : ""
-              }`}
+              className={`${post.frontmatter.break ? " break" : ""}`}
             >
               <header>
                 <h3>{post.frontmatter.title}</h3>
-                <h4>{post.frontmatter.jobTitle}</h4>
+                {/*<h4>{post.frontmatter.jobTitle}</h4>*/}
                 <p>
                   {post.frontmatter.startDate} - {post.frontmatter.finishDate}
                 </p>
@@ -29,11 +27,14 @@ class ContractorHistory extends React.Component {
                   __html: post.frontmatter.description
                 }}
               />
-              <ul>
-                {post.frontmatter.skillset.map(skill => (
-                  <li key={skill.item}>{skill.item}</li>
-                ))}
-              </ul>
+              {tags && tags.length ? (
+                <p>
+                  Relevent skills:
+                  {tags.map(tag => (
+                    <span key={tag + `tag`}>{tag}</span>
+                  ))}
+                </p>
+              ) : null}
             </article>
           ))}
       </>
@@ -72,6 +73,7 @@ export default () => (
                 startDate
                 finishDate
                 description
+                tags
                 break
                 skillset {
                   item

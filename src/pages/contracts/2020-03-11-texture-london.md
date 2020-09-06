@@ -10,6 +10,12 @@ break: false
 description: >
   <p>Front end developer role with minimal back end skills for Shopify. Building
   online shopping portal for a luxury brand.</p>
+tags:
+  - Shopify
+  - Liquid
+  - SCSS
+  - jQuery
+  - jQueryUI
 skillset:
   - item: Shopify, Liquid, SCSS
   - item: jQuery, jQueryUI

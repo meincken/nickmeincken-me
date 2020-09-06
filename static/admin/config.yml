@@ -62,6 +62,7 @@ collections:
           default: "false",
         }
       - { label: "Description", name: "description", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
       - {
           label: "Skills used",
           name: "skillset",

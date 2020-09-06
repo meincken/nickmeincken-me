@@ -46,13 +46,6 @@ const Section = styled.section`
   grid-column: span 2;
 
   &.contractor-history {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 1rem;
-    @media print {
-      grid-gap: 0 1rem;
-    }
-
     header p {
       margin-bottom: 5px;
     }
@@ -60,26 +53,6 @@ const Section = styled.section`
     .break {
       @media print {
         margin-top: 10rem;
-      }
-    }
-
-    .twelve {
-      grid-column: span 2;
-    }
-
-    .six {
-      grid-column: span 1;
-    }
-
-    h2 {
-      grid-column: span 2;
-    }
-    ul {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-
-      li {
-        grid-column: span 1;
       }
     }
   }

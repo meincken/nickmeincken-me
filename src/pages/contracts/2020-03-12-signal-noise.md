@@ -11,6 +11,15 @@ description: >-
   Building AEM components for Siemens using postcss and PatternLab. This project
   contained the use of Stylelint, PostCSS and BEM within Gulp. It drew in a lot
   of style rules from other projects created by Signal Noise for Siemens.
+tags:
+  - PostCSS
+  - Stylint
+  - BEM
+  - PatternLab
+  - Handlebars
+  - React
+  - Bootstrap
+  - GIT
 skillset:
   - item: PostCSS, Stylint, BEM
   - item: PatternLab, Handlebars

@@ -11,6 +11,16 @@ description: >-
   Working as part of a small agile development team in Old Street on a high
   quality, design led project updating a boutique travel website. Building on
   modular patterns for CSS, JS and HTML for a CMS.
+tags:
+  - SCSS
+  - jQuery
+  - jQueryUI
+  - Jira
+  - GIT
+  - Sketch
+  - Handlebars
+  - WebPack
+  - Responsive component design
 skillset:
   - item: SCSS, jQuery, jQueryUI, Jira, GIT
   - item: Sketch, Handlebars, WebPack

@@ -3,10 +3,14 @@ templateKey: contract-history
 title: Crabtree & Evelyn
 jobTitle: Full Stack Developer
 date: 2020-09-16T13:00:17.774Z
-startDate: April 2019
+startDate: Apr 2019
 finishDate: current
 columns: twelve
 break: false
+tags:
+  - Shopify
+  - Liquid
+  - jQuery
 skillset:
   - item: Shopify
   - item: Liquid
