@@ -125,9 +125,9 @@ export const ResumePageTemplate = ({
         <Link className="btn" to="/">
           Home
         </Link>{" "}
-        <button className="btn print" onClick={() => window.print()}>
+        <Link className="btn print" to="/nick-meincken.pdf">
           Print
-        </button>
+        </Link>
       </CVLinks>
       <Header title={title} subtitle={subtitle} />
       <Main>
