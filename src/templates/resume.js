@@ -24,6 +24,23 @@ const Main = styled.main`
   overflow: hidden;
 `;
 
+const CVLinks = styled.div`
+  display: flex;
+  justify-content: center;
+
+  .btn {
+    background: white;
+    border: 1px solid white;
+    border-radius: 3px;
+    color: black;
+    cursor: pointer;
+    font-size: 1.4rem;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    text-decoration: none;
+  }
+`;
+
 const Section = styled.section`
   color: #fff;
   grid-column: span 2;
@@ -104,14 +121,14 @@ export const ResumePageTemplate = ({
   return (
     <>
       <GlobalStyle />
-      <div className="hidden-print-block">
-        <button className="print" onClick={() => window.print()}>
-          PRINT
-        </button>
+      <CVLinks className="hidden-print-block">
         <Link className="btn" to="/">
           Home
-        </Link>
-      </div>
+        </Link>{" "}
+        <button className="btn print" onClick={() => window.print()}>
+          Print
+        </button>
+      </CVLinks>
       <Header title={title} subtitle={subtitle} />
       <Main>
         <Section className="personal-information">

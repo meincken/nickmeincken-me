@@ -1,3 +1,4 @@
+import path from "path";
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql, Link } from "gatsby";
@@ -154,6 +155,12 @@ const Section = styled.section`
     }
   }
 
+  &.skills {
+    section p {
+      padding-bottom: 2rem;
+    }
+  }
+
   > div {
     @media (min-width: 768px) {
       display: grid;
@@ -241,7 +248,7 @@ export const IndexPageTemplate = ({
             <div className="split">
               <p>nick@meincken.com</p>
               <div>
-                {/*<LinkTo to="/resumeDownload" title="Download Resume" />*/}
+                <LinkTo to="/nick-meincken.pdf" title="Download Resume" />
                 <LinkTo title="Online Resume" to="/resume" />
               </div>
             </div>

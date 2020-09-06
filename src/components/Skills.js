@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-const BarBlock = styled.ul`
+const BarBlock = styled.li`
   position: relative;
   margin-bottom: 60px;
   height: 42px;
@@ -36,18 +36,14 @@ const BarBlock = styled.ul`
 `;
 
 const Skills = ({ skillItems }) => (
-  <>
+  <ul>
     {skillItems.map(item => (
-      <section key={item.name}>
-        <BarBlock>
-          <li>
-            <em>{item.name}</em>
-            <span style={{ width: item.level }}></span>
-          </li>
-        </BarBlock>
-      </section>
+      <BarBlock key={item.name}>
+        <em>{item.name}</em>
+        <span style={{ width: item.level }}></span>
+      </BarBlock>
     ))}
-  </>
+  </ul>
 );
 
 Skills.propTypes = {
