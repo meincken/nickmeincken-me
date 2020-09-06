@@ -123,7 +123,7 @@ export const ResumePageTemplate = ({
           <a href="https://github.com/meincken">Meincken GitHub</a>
         </div>
         <div>
-          <img width="100" alt="qr-code" src="nickmeincken-website.png" />
+          <img width="100" alt="qr-code" src="/nickmeincken-website.png" />
         </div>
       </HeaderBlock>
       <Main>
