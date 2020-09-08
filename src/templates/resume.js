@@ -287,7 +287,7 @@ export const ResumePageTemplate = ({
       </Main>
       <FooterBlock
         title="References available upon request"
-        copyright={`\u00a92012 -  ${new Date().getFullYear()} ${title}`}
+        copyright={`\u00a92000 -  ${new Date().getFullYear()} ${title}`}
         className="hidden-print-block"
       />
     </>
