@@ -7,9 +7,8 @@ startDate: Nov 2019
 finishDate: Dec 2019
 columns: six
 break: false
-description: >
-  <p>Front end developer role with minimal back end skills for Shopify. Building
-  online shopping portal for a luxury brand.</p>
+description: Front end developer role with minimal back end skills for Shopify.
+  Building online shopping portal for a luxury brand.
 tags:
   - Shopify
   - Liquid
