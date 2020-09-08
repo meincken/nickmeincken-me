@@ -89,6 +89,40 @@ const Section = styled.section`
       }
     }
   }
+
+  &.professional-skills {
+    article {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 1rem;
+
+      @media print {
+        display: flex;
+        flex-flow: row wrap;
+        grid-gap: 0;
+      }
+
+      > div {
+        border: 1px solid white;
+        padding: 1rem;
+
+        @media print {
+          width: 50%;
+          border: 0;
+          padding: 0 1rem 0 0;
+        }
+
+        progress {
+          float: right;
+          background-color: green;
+        }
+      }
+
+      small {
+        display: block;
+      }
+    }
+  }
 `;
 
 export const ResumePageTemplate = ({
@@ -136,6 +170,99 @@ export const ResumePageTemplate = ({
         </Section>
         <Section className="professional-skills">
           <div>
+            <H3 title="Technical Skills" />
+            <article>
+              <div>
+                <h3>Photoshop CC</h3>
+                <span>20 years </span>
+                <progress id="photoshop" value="80" max="100">
+                  100%
+                </progress>
+              </div>
+              <div>
+                <h3>Sketch/Zeplin</h3>
+                <span>4 years </span>
+                <progress id="Sketch" value="50" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>CSS</h3>
+                <span>20 years </span>
+                <progress id="css" value="100" max="100">
+                  100%
+                </progress>
+                <small>
+                  <strong>Frameworks:</strong> Bootstrap, Skeleton, Foundation,
+                  Tailwind
+                </small>
+              </div>
+              <div>
+                <h3>Semantic HTML</h3>
+                <span>20 years </span>
+                <progress id="semantic-html" value="100" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>Vanilla JS/jQuery</h3>
+                <span>15 years </span>
+                <progress id="javascript" value="80" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>React</h3>
+                <span>3 years </span>
+                <progress id="react" value="80" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>Gatsby</h3>
+                <span>2 years </span>
+                <progress id="gatsby" value="80" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>SCSS</h3>
+                <span>5 years </span>
+                <progress id="scss" value="90" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>PostCSS</h3>
+                <span>5 years </span>
+                <progress id="postcss" value="190" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>Bundlers</h3>
+                <span>5 years </span>
+                <progress id="bundlers" value="90" max="100">
+                  90%
+                </progress>
+                <small>
+                  <strong>Bundlers</strong>: Webpack, Grunt, Gulp, Parcel
+                </small>
+              </div>
+              <div>
+                <h3>CMS</h3>
+                <span>5 years </span>
+                <progress id="scss-postcss" value="80" max="100">
+                  90%
+                </progress>
+                <small>
+                  <strong>CMS's</strong>: AEM, Shopify, Wordpress, Jekyll
+                </small>
+              </div>
+            </article>
+          </div>
+
+          <div>
             <H3 title="Qualifications" />
             <ul>
               <li>
@@ -154,19 +281,6 @@ export const ResumePageTemplate = ({
                 <strong>Ashford High School (1994)</strong> - 6 GCSEs including
                 Maths, English and Science
               </li>
-            </ul>
-          </div>
-          <div>
-            <H3 title="Technical Skills" />
-            <ul>
-              <li>Adobe CC, Sketch</li>
-              <li>CSS and HTML editing using text editor</li>
-              <li>HTML5, CSS3, JavaScript (jQuery, ES6), PHP</li>
-              <li>Mac oSX, Linux and Windows compliant</li>
-              <li>CMS's - Wordpress, AEM, Jekyll</li>
-              <li>CSS frameworks - Bootstrap, Skeleton, Foundation</li>
-              <li>SASS, PostCSS, Grunt, Gulp, Webpack, Parcel</li>
-              <li>JS frameworks - React</li>
             </ul>
           </div>
         </Section>

@@ -154,6 +154,22 @@ const Section = styled.section`
     }
   }
 
+  &.contracts {
+    h3 {
+      font-size: 2.5rem;
+      font-weight: 300;
+      line-height: 1.5;
+    }
+
+    p {
+      font-weight: 200;
+
+      strong {
+        font-weight: 400;
+      }
+    }
+  }
+
   &.skills {
     section p {
       padding-bottom: 2rem;
