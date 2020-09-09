@@ -234,6 +234,7 @@ export const IndexPageTemplate = ({
   <>
     <GlobalStyle />
     <Hero
+      id="home"
       style={{
         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -253,7 +254,7 @@ export const IndexPageTemplate = ({
       </Banner>
     </Hero>
     <Main>
-      <Section className="about-me">
+      <Section id="about" className="about-me">
         <div className="profile">
           <img alt="Nick Meincken" src={aboutme.image.publicURL} />
           <article>
@@ -270,7 +271,7 @@ export const IndexPageTemplate = ({
           </article>
         </div>
       </Section>
-      <Section className="education">
+      <Section id="resume" className="education">
         <div>
           <header>
             <H2 color="light" title={education.title} />

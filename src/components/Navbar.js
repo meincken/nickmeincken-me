@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+import { Link } from "react-scroll";
 import styled from "styled-components";
 
 const Nav = styled.nav`
@@ -60,18 +60,30 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/">
-                Home
-              </Link>
-              <Link className="navbar-item" to="/">
-                About
-              </Link>
-              <Link className="navbar-item" to="/">
-                Resume
-              </Link>
-              <Link className="navbar-item" to="/">
-                Works
-              </Link>
+              <NavLink
+                className="navbar-item"
+                target="home"
+                title="Home"
+                onClick={e => this.handleToggle(e)}
+              />
+              <NavLink
+                className="navbar-item"
+                target="about"
+                title="About"
+                onClick={e => this.handleToggle(e)}
+              />
+              <NavLink
+                className="navbar-item"
+                target="resume"
+                title="Resume"
+                onClick={e => this.handleToggle(e)}
+              />
+              <NavLink
+                className="navbar-item"
+                target="portfolio"
+                title="Works"
+                onClick={e => this.handleToggle(e)}
+              />
             </div>
           </div>
         </div>
@@ -79,5 +91,18 @@ const Navbar = class extends React.Component {
     );
   }
 };
+
+const NavLink = ({ target, title }) => (
+  <Link
+    activeClass="current"
+    to={target}
+    spy={true}
+    smooth={true}
+    offset={0}
+    duration={900}
+  >
+    {title}
+  </Link>
+);
 
 export default Navbar;
