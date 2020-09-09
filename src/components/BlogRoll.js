@@ -66,8 +66,9 @@ class BlogRoll extends React.Component {
                   <p>{post.excerpt}</p>
                   <p className="post-meta">
                     <Link
+                      target="_blank"
                       className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
+                      to={post.frontmatter.url}
                     >
                       {post.frontmatter.title}
                     </Link>
@@ -107,6 +108,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
+                url
                 date(formatString: "MMMM DD, YYYY")
                 featuredimage {
                   publicURL

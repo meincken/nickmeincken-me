@@ -15,6 +15,7 @@ const Nav = styled.nav`
     text-transform: uppercase;
     padding: 0.8rem 1.3rem;
     display: inline-block;
+    cursor: pointer;
   }
 `;
 
