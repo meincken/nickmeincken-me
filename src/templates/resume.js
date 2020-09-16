@@ -24,10 +24,13 @@ const Main = styled.main`
 
 const HeaderBlock = styled.header`
   display: grid;
-  grid-template-columns: 50% 1fr 10rem;
   max-width: 104rem;
   margin: 0 auto;
   padding: 0 2rem;
+
+  @media (min-width: 768px) {
+    grid-template-columns: 50% 1fr 10rem;
+  }
 
   .contact-info {
     p,
