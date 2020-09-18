@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import { GlobalStyle } from "../shared/global";
 import { color } from "../shared/styles";
-import { H2, H3, Header, FooterBlock } from "../ui-kit/Index";
+import { H2, H3, Header, FooterBlock } from "../shared/ui-kit";
 
 import Layout from "../components/LayoutCV";
 import ContractorHistory from "../components/ContractorHistory";

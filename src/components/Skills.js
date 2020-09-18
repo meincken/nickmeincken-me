@@ -2,55 +2,52 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-const BarBlock = styled.li`
-  position: relative;
-  margin-bottom: 60px;
-  height: 42px;
-  margin-left: 0px;
-  list-style: none;
-  background: rgb(204, 204, 204);
-  border-radius: 3px;
-
+const BarBlock = styled.div`
   em {
-    color: rgb(30, 30, 30);
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-weight: 400;
+    display: block;
     font-style: normal;
-    position: relative;
-    top: -25px;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
   }
 
-  span {
-    display: inline-block;
-    height: 42px;
-    left: 0px;
-    line-height: 42px;
-    padding-right: 24px;
-    position: absolute;
-    top: 0px;
-    background: rgb(30, 30, 30);
-    border-radius: 3px 0px 0px 3px;
-    margin: 0px;
+  progress {
+    appearance: none;
+    border-radius: 0.3rem;
+    background-color: #1e1e1e;
+    height: 4.2rem;
+    margin-bottom: 1rem;
+    width: 100%;
+
+    &::-webkit-progress-bar {
+      background-color: #e1e1e1;
+      border-radius: 0.3rem;
+    }
+
+    &::-webkit-progress-value {
+      background-color: #1e1e1e;
+      border-radius: 0.3rem;
+    }
   }
 `;
 
 const Skills = ({ skillItems }) => (
-  <ul>
+  <>
     {skillItems.map(item => (
       <BarBlock key={item.name}>
         <em>{item.name}</em>
-        <span style={{ width: item.level }}></span>
+        <progress id={item.name} value={item.level} max="100">
+          {item.level}
+        </progress>
       </BarBlock>
     ))}
-  </ul>
+  </>
 );
 
 Skills.propTypes = {
   skillItems: PropTypes.arrayOf(
     PropTypes.shape({
       name: PropTypes.string,
-      level: PropTypes.string
+      level: PropTypes.number
     })
   )
 };

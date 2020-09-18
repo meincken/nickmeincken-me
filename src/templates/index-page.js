@@ -10,7 +10,7 @@ import Education from "../components/Education";
 import IndexContract from "../components/IndexContract";
 import Skills from "../components/Skills";
 import BlogRoll from "../components/BlogRoll";
-import { H2, H2alt, HR } from "../ui-kit/Index";
+import { H2, H2alt, HR } from "../shared/ui-kit";
 import styled from "styled-components";
 
 const Hero = styled.section`

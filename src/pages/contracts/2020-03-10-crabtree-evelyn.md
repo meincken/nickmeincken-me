@@ -3,7 +3,7 @@ templateKey: contract-history
 title: Crabtree & Evelyn
 jobTitle: Full Stack Developer
 date: 2020-09-16T13:00:17.774Z
-startDate: Apr 2019
+startDate: Apr 2020
 finishDate: current
 columns: twelve
 break: false

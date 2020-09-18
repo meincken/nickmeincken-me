@@ -46,11 +46,16 @@ const TemplateWrapper = ({ children }) => {
         <meta name="theme-color" content="#fff" />
 
         <meta property="og:type" content="business.business" />
-        <meta property="og:title" content={title} />
+        <meta
+          property="og:title"
+          content="Nick Meincken : Front End Developer"
+        />
         <meta property="og:url" content="/" />
+        <meta property="og:description" content={description} />
         <meta
           property="og:image"
           content={`${withPrefix("/")}img/og-image.jpg`}
+          title={title}
         />
       </Helmet>
       {children}

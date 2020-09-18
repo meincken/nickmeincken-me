@@ -49,21 +49,21 @@ skills:
     frameworks and content management systems. Below is my level of competency
     with various technologies.
   skillset:
-    - level: 90%
+    - level: 90
       name: AEM
-    - level: 90%
+    - level: 90
       name: Wordpress
-    - level: 90%
+    - level: 90
       name: HTML5
-    - level: 80%
+    - level: 80
       name: JavaScript/Jquery
-    - level: 99%
+    - level: 99
       name: CSS
-    - level: 90%
+    - level: 90
       name: ReactJS/Gastby
-    - level: 80%
+    - level: 80
       name: Git
-    - level: 70%
+    - level: 70
       name: Email build
   title: Skills
 ---

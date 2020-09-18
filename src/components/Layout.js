@@ -52,7 +52,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:title"
           content="Nick Meincken : Front End Developer"
         />
-        <meta property="og:url" content="/" />
+        <meta property="og:url" content="https://nickmeincken.me" />
         <meta property="og:description" content={description} />
         <meta
           property="og:image"
