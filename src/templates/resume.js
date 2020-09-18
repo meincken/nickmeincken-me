@@ -32,6 +32,10 @@ const HeaderBlock = styled.header`
     grid-template-columns: 50% 1fr 10rem;
   }
 
+  @media print {
+    grid-template-columns: 50% 1fr 10rem;
+  }
+
   .contact-info {
     p,
     a {
