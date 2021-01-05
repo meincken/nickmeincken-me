@@ -17,6 +17,11 @@ export const bodyStyles = css`
   -webkit-tap-highlight-color: transparent;
   -webkit-overflow-scrolling: touch;
 
+  @media print {
+    background: #fff;
+    color: #1e1e1e;
+  }
+
   * {
     box-sizing: border-box;
   }
@@ -110,6 +115,7 @@ export const bodyStyles = css`
 
     @media print {
       font-size: 12px !important;
+      color: #1e1e1e;
     }
   }
 

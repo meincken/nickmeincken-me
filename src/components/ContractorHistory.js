@@ -34,7 +34,7 @@ class ContractorHistory extends React.Component {
               <p>
                 <strong>Relevant skills:</strong>
                 {post.frontmatter.tags.map(tag => (
-                  <span key={tag + `tag`}>{tag} </span>
+                  <span key={tag + `tag`}> {tag}</span>
                 ))}
               </p>
             </article>

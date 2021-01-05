@@ -4,7 +4,7 @@ title: Crabtree & Evelyn
 jobTitle: Full Stack Developer
 date: 2020-09-16T13:00:17.774Z
 startDate: Apr 2020
-finishDate: current
+finishDate: Oct 2020
 columns: twelve
 break: false
 description: Full stack dev, dealing with build and deployment of new features

@@ -20,6 +20,7 @@ const Heading2 = styled.h2`
 
   @media print {
     border-bottom: 1px solid #000;
+    color: #1e1e1e;
     margin-bottom: 0.6rem;
   }
 
@@ -27,6 +28,10 @@ const Heading2 = styled.h2`
     color: ${color.darkest};
     @media (min-width: 768px) {
       float: left;
+    }
+
+    @media print {
+      color: #1e1e1e;
     }
   }
 
@@ -57,6 +62,10 @@ const Heading3 = styled.h2`
   color: ${color.lightest};
   font-weight: ${typography.weight.bold};
   margin-bottom: 12px;
+
+  @media print {
+    color: #1e1e1e;
+  }
 `;
 
 export const H3 = ({ title }) => <Heading3>{title}</Heading3>;
@@ -78,6 +87,10 @@ const HeaderStyle = styled.div`
       color: #e1e1e1;
       font-size: 65%;
       display: block;
+
+      @media print {
+        color: #1e1e1e;
+      }
     }
   }
 `;

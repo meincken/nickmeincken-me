@@ -20,6 +20,10 @@ const Main = styled.main`
   margin: 0 auto;
   padding: 0 20px;
   overflow: hidden;
+
+  @media print {
+    background: #fff;
+  }
 `;
 
 const HeaderBlock = styled.header`
@@ -66,6 +70,10 @@ const Section = styled.section`
   color: #fff;
   grid-column: span 2;
 
+  @media print {
+    color: #1e1e1e;
+  }
+
   &.contractor-history {
     header p {
       margin-bottom: 5px;
@@ -109,9 +117,30 @@ const Section = styled.section`
         grid-gap: 0;
       }
 
+      h3 {
+        grid-column: span 2;
+        width: 100%;
+
+        span {
+          display: block;
+          font-size: 65%;
+
+          @media print {
+            display: inline-block;
+          }
+        }
+      }
+
       > div {
+        align-items: center;
         border: 1px solid white;
+        display: flex;
+        flex-flow: row wrap;
         padding: 1rem;
+
+        h3 {
+          width: 50%;
+        }
 
         @media print {
           width: 50%;
@@ -121,12 +150,12 @@ const Section = styled.section`
 
         progress {
           float: right;
-          background-color: green;
         }
       }
 
       small {
         display: block;
+        width: 100%;
       }
     }
   }
@@ -179,76 +208,76 @@ export const ResumePageTemplate = ({
           <div>
             <H3 title="Technical Skills" />
             <article>
+              <h3>Languages</h3>
               <div>
-                <h3>Photoshop CC</h3>
-                <span>20 years </span>
-                <progress id="photoshop" value="80" max="100">
-                  100%
-                </progress>
-              </div>
-              <div>
-                <h3>Sketch/Zeplin</h3>
-                <span>4 years </span>
-                <progress id="Sketch" value="50" max="100">
-                  90%
-                </progress>
-              </div>
-              <div>
-                <h3>CSS</h3>
-                <span>20 years </span>
-                <progress id="css" value="100" max="100">
-                  100%
-                </progress>
-                <small>
-                  <strong>Frameworks:</strong> Bootstrap, Skeleton, Foundation,
-                  Tailwind
-                </small>
-              </div>
-              <div>
-                <h3>Semantic HTML</h3>
-                <span>20 years </span>
+                <h3>Semantic HTML <span>20 years</span></h3>
                 <progress id="semantic-html" value="100" max="100">
                   90%
                 </progress>
               </div>
               <div>
-                <h3>Vanilla JS/jQuery</h3>
-                <span>15 years </span>
+                <h3>CSS <span>20 years</span></h3>
+                <progress id="css" value="100" max="100">
+                  100%
+                </progress>
+              </div>
+              <div>
+                <h3>Vanilla JS/jQuery <span>15 years</span></h3>
                 <progress id="javascript" value="80" max="100">
                   90%
                 </progress>
               </div>
+
               <div>
-                <h3>React</h3>
-                <span>3 years </span>
-                <progress id="react" value="80" max="100">
-                  90%
-                </progress>
-              </div>
-              <div>
-                <h3>Gatsby</h3>
-                <span>2 years </span>
-                <progress id="gatsby" value="80" max="100">
-                  90%
-                </progress>
-              </div>
-              <div>
-                <h3>SCSS</h3>
-                <span>5 years </span>
+                <h3>SCSS <span>8 years</span></h3>
                 <progress id="scss" value="90" max="100">
                   90%
                 </progress>
               </div>
               <div>
-                <h3>PostCSS</h3>
-                <span>5 years </span>
+                <h3>PostCSS <span>3 years</span></h3>
                 <progress id="postcss" value="190" max="100">
                   90%
                 </progress>
               </div>
+
+              <h3>Framework/Libraries</h3>
               <div>
-                <h3>Bundlers</h3>
-                <span>5 years </span>
+                <h3>React <span>3 years </span></h3>
+                <progress id="react" value="80" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>Gatsby <span>2 years</span></h3>
+                <progress id="gatsby" value="80" max="100">
+                  90%
+                </progress>
+              </div>
+              <h3>Tools</h3>
+              <div>
+                <h3>Photoshop CC <span>20 years</span></h3>
+                <progress id="photoshop" value="80" max="100">
+                  100%
+                </progress>
+              </div>
+              <div>
+                <h3>Atom <span>4 years</span></h3>
+                <progress id="Photoshop" value="90" max="100">
+                  90%
+                </progress>
+              </div>
+              <div>
+                <h3>Sketch/Zeplin <span>4 years</span></h3>
+                <progress id="Sketch" value="50" max="100">
+                  90%
+                </progress>
+              </div>
+
+              <h3>Platforms</h3>
+
+              <div>
+                <h3>Bundlers <span>5 years</span></h3>
                 <progress id="bundlers" value="90" max="100">
                   90%
                 </progress>
@@ -257,8 +286,7 @@ export const ResumePageTemplate = ({
                 </small>
               </div>
               <div>
-                <h3>CMS</h3>
-                <span>5 years </span>
+                <h3>CMS <span>5 years</span></h3>
                 <progress id="scss-postcss" value="80" max="100">
                   90%
                 </progress>
