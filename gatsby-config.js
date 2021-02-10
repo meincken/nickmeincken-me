@@ -56,6 +56,13 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`source sans pro\:200,400,900`],
+        display: "swap"
+      }
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         icon: `static/img/favicon-32x32.png`,

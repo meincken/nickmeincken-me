@@ -20,34 +20,6 @@ const Nav = styled.nav`
 `;
 
 const Navbar = class extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      active: false,
-      navBarActiveClass: ""
-    };
-  }
-
-  toggleHamburger = () => {
-    // toggle the active boolean in the state
-    this.setState(
-      {
-        active: !this.state.active
-      },
-      // after state has been updated,
-      () => {
-        // set the class in state for the navbar accordingly
-        this.state.active
-          ? this.setState({
-              navBarActiveClass: "is-active"
-            })
-          : this.setState({
-              navBarActiveClass: ""
-            });
-      }
-    );
-  };
-
   render() {
     return (
       <Nav
@@ -55,39 +27,30 @@ const Navbar = class extends React.Component {
         role="navigation"
         aria-label="main-navigation"
       >
-        <div className="container">
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="navbar-start has-text-centered">
-              <NavLink
-                className="navbar-item"
-                target="home"
-                title="Home"
-                onClick={e => this.handleToggle(e)}
-              />
-              <NavLink
-                className="navbar-item"
-                target="about"
-                title="About"
-                onClick={e => this.handleToggle(e)}
-              />
-              <NavLink
-                className="navbar-item"
-                target="resume"
-                title="Resume"
-                onClick={e => this.handleToggle(e)}
-              />
-              <NavLink
-                className="navbar-item"
-                target="portfolio"
-                title="Works"
-                onClick={e => this.handleToggle(e)}
-              />
-            </div>
-          </div>
-        </div>
+        <NavLink
+          className="navbar-item"
+          target="home"
+          title="Home"
+          onClick={e => this.handleToggle(e)}
+        />
+        <NavLink
+          className="navbar-item"
+          target="about"
+          title="About"
+          onClick={e => this.handleToggle(e)}
+        />
+        <NavLink
+          className="navbar-item"
+          target="resume"
+          title="Resume"
+          onClick={e => this.handleToggle(e)}
+        />
+        <NavLink
+          className="navbar-item"
+          target="portfolio"
+          title="Works"
+          onClick={e => this.handleToggle(e)}
+        />
       </Nav>
     );
   }
