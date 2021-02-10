@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql, StaticQuery } from "gatsby";
+import { graphql, StaticQuery } from "gatsby";
 import styled from "styled-components";
 
 const Article = styled.article`
@@ -60,18 +60,22 @@ class BlogRoll extends React.Component {
               <Article key={post.id}>
                 <img
                   alt={post.frontmatter.featuredimage.name}
-                  src={post.frontmatter.featuredimage.publicURL}
+                  src={
+                    post.frontmatter.featuredimage.childImageSharp.fluid.srcWebp
+                  }
+                  width={`${post.frontmatter.featuredimage.childImageSharp.fluid.presentationWidth}px`}
+                  height={`${post.frontmatter.featuredimage.childImageSharp.fluid.presentationHeight}px`}
                 />
                 <div className="overlay">
                   <p>{post.excerpt}</p>
                   <p className="post-meta">
-                    <Link
-                      target="_blank"
-                      to={post.frontmatter.url}
+                    <a
                       rel="noreferrer"
+                      target="_blank"
+                      href={post.frontmatter.url}
                     >
                       {post.frontmatter.title}
-                    </Link>
+                    </a>
                   </p>
                 </div>
               </Article>
@@ -111,7 +115,13 @@ export default () => (
                 url
                 date(formatString: "MMMM DD, YYYY")
                 featuredimage {
-                  publicURL
+                  childImageSharp {
+                    fluid {
+                      srcWebp
+                      presentationHeight
+                      presentationWidth
+                    }
+                  }
                   name
                 }
               }
