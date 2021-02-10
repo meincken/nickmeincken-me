@@ -14,6 +14,10 @@ const SocialLinks = styled.div`
   a + a {
     margin-left: 4.2rem;
   }
+
+  span {
+    font-size: 0;
+  }
 `;
 
 var social = [
@@ -46,10 +50,10 @@ const SocialBlock = ({ social }) => (
         key={network.name}
         href={network.url}
         target="_blank"
-        name={network.name}
         rel="noopener noreferrer"
       >
         <FontAwesomeIcon icon={["fab", network.name]} size="2x" />
+        <span>{network.name}</span>
       </a>
     ))}
   </>

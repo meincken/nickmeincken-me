@@ -113,9 +113,14 @@ const Section = styled.section`
   }
 
   &.about-me {
-    height: 100vh;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    padding: 3rem 0;
+
+    @media (min-width: 768px) {
+      height: 100vh;
+      padding: 0;
+    }
 
     .profile {
       img {
@@ -194,14 +199,18 @@ const Section = styled.section`
 
   .split {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
+
+    @media (min-width: 768px) {
+      grid-template-columns: 1fr 1fr;
+    }
   }
 `;
 
 const LinkStyle = styled(Link)`
   background: ${color.primary};
   border-radius: 5px;
-  color: ${color.lightest};
+  color: ${color.darkest};
   display: block;
   margin-top: 6px;
   padding: 1rem 2rem;
