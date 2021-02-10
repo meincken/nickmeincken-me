@@ -1,4 +1,4 @@
-import { kebabCase } from "lodash";
+const _ = require("lodash/core");
 const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
 const { fmImagesToRelative } = require("gatsby-remark-relative-images");
