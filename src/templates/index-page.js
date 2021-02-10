@@ -237,7 +237,7 @@ export const IndexPageTemplate = ({
       id="home"
       style={{
         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          !!image.childImageSharp ? image.childImageSharp.fluid.srcWebp : image
         })`
       }}
     >
@@ -373,8 +373,8 @@ export const pageQuery = graphql`
         hero {
           image {
             childImageSharp {
-              fluid(maxWidth: 2048, quality: 100) {
-                ...GatsbyImageSharpFluid
+              fluid(maxWidth: 2048, webpQuality: 100) {
+                srcWebp
               }
             }
           }
