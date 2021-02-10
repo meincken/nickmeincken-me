@@ -18,7 +18,7 @@ const TemplateWrapper = ({ children }) => {
         <title>{title}</title>
         <meta name="description" content={description} />
         <link
-          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,900"
+          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,900&display=swap"
           rel="stylesheet"
         />
 

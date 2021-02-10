@@ -56,6 +56,17 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Nick Meincken`,
+        short_name: `nickmeincken`,
+        start_url: `/`,
+        background_color: `#e1e1e1`,
+        theme_color: `#a9cc17`,
+        display: `standalone`
+      }
+    },
+    {
       resolve: "gatsby-plugin-netlify-cms",
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`
