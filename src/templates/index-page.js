@@ -76,7 +76,7 @@ const Title = styled.h1`
   }
 `;
 
-const SubTitle = styled.h3`
+const SubTitle = styled.h2`
   color: ${color.lightest};
   font-size: 20px;
   line-height: 1.2;

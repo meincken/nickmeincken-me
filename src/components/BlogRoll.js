@@ -67,8 +67,8 @@ class BlogRoll extends React.Component {
                   <p className="post-meta">
                     <Link
                       target="_blank"
-                      className="title has-text-primary is-size-4"
                       to={post.frontmatter.url}
+                      rel="noreferrer"
                     >
                       {post.frontmatter.title}
                     </Link>

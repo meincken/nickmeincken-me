@@ -46,6 +46,7 @@ const SocialBlock = ({ social }) => (
         key={network.name}
         href={network.url}
         target="_blank"
+        name={network.name}
         rel="noopener noreferrer"
       >
         <FontAwesomeIcon icon={["fab", network.name]} size="2x" />
