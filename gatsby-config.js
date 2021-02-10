@@ -58,6 +58,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
+        icon: `static/img/favicon-32x32.png`,
         name: `Nick Meincken`,
         short_name: `nickmeincken`,
         start_url: `/`,
