@@ -108,8 +108,12 @@ const Section = styled.section`
   &.professional-skills {
     article {
       display: grid;
-      grid-template-columns: 1fr 1fr;
-      grid-gap: 1rem;
+      grid-template-columns: 1fr;
+
+      @media (min-width: 768px) {
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1rem;
+      }
 
       @media print {
         display: flex;
@@ -210,32 +214,42 @@ export const ResumePageTemplate = ({
             <article>
               <h3>Languages</h3>
               <div>
-                <h3>Semantic HTML <span>20 years</span></h3>
+                <h3>
+                  Semantic HTML <span>20 years</span>
+                </h3>
                 <progress id="semantic-html" value="100" max="100">
                   90%
                 </progress>
               </div>
               <div>
-                <h3>CSS <span>20 years</span></h3>
+                <h3>
+                  CSS <span>20 years</span>
+                </h3>
                 <progress id="css" value="100" max="100">
                   100%
                 </progress>
               </div>
               <div>
-                <h3>Vanilla JS/jQuery <span>15 years</span></h3>
+                <h3>
+                  Vanilla JS/jQuery <span>15 years</span>
+                </h3>
                 <progress id="javascript" value="80" max="100">
                   90%
                 </progress>
               </div>
 
               <div>
-                <h3>SCSS <span>8 years</span></h3>
+                <h3>
+                  SCSS <span>8 years</span>
+                </h3>
                 <progress id="scss" value="90" max="100">
                   90%
                 </progress>
               </div>
               <div>
-                <h3>PostCSS <span>3 years</span></h3>
+                <h3>
+                  PostCSS <span>3 years</span>
+                </h3>
                 <progress id="postcss" value="190" max="100">
                   90%
                 </progress>
@@ -243,32 +257,42 @@ export const ResumePageTemplate = ({
 
               <h3>Framework/Libraries</h3>
               <div>
-                <h3>React <span>3 years </span></h3>
+                <h3>
+                  React <span>3 years </span>
+                </h3>
                 <progress id="react" value="80" max="100">
                   90%
                 </progress>
               </div>
               <div>
-                <h3>Gatsby <span>2 years</span></h3>
+                <h3>
+                  Gatsby <span>2 years</span>
+                </h3>
                 <progress id="gatsby" value="80" max="100">
                   90%
                 </progress>
               </div>
               <h3>Tools</h3>
               <div>
-                <h3>Photoshop CC <span>20 years</span></h3>
+                <h3>
+                  Photoshop CC <span>20 years</span>
+                </h3>
                 <progress id="photoshop" value="80" max="100">
                   100%
                 </progress>
               </div>
               <div>
-                <h3>Atom <span>4 years</span></h3>
+                <h3>
+                  Atom <span>4 years</span>
+                </h3>
                 <progress id="Photoshop" value="90" max="100">
                   90%
                 </progress>
               </div>
               <div>
-                <h3>Sketch/Zeplin <span>4 years</span></h3>
+                <h3>
+                  Sketch/Zeplin <span>4 years</span>
+                </h3>
                 <progress id="Sketch" value="50" max="100">
                   90%
                 </progress>
@@ -277,7 +301,9 @@ export const ResumePageTemplate = ({
               <h3>Platforms</h3>
 
               <div>
-                <h3>Bundlers <span>5 years</span></h3>
+                <h3>
+                  Bundlers <span>5 years</span>
+                </h3>
                 <progress id="bundlers" value="90" max="100">
                   90%
                 </progress>
@@ -286,7 +312,9 @@ export const ResumePageTemplate = ({
                 </small>
               </div>
               <div>
-                <h3>CMS <span>5 years</span></h3>
+                <h3>
+                  CMS <span>5 years</span>
+                </h3>
                 <progress id="scss-postcss" value="80" max="100">
                   90%
                 </progress>

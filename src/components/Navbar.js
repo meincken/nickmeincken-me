@@ -9,24 +9,24 @@ const Nav = styled.nav`
   background: rgba(0, 0, 0, 0.5);
   text-align: center;
   border-bottom: 1px solid #a9cc17;
-
-  a {
-    text-decoration: none;
-    text-transform: uppercase;
-    padding: 0.8rem 1.3rem;
-    display: inline-block;
-    cursor: pointer;
-  }
 `;
 
-const Navbar = class extends React.Component {
-  render() {
-    return (
-      <Nav
-        className="navbar is-transparent"
-        role="navigation"
-        aria-label="main-navigation"
-      >
+const LinkTo = styled(Link)`
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 0.8rem 1.3rem;
+  display: inline-block;
+  cursor: pointer;
+`;
+
+const Navbar = () => {
+  return (
+    <Nav
+      className="navbar is-transparent"
+      role="navigation"
+      aria-label="main-navigation"
+    >
+      <div>
         <NavLink
           className="navbar-item"
           target="home"
@@ -51,13 +51,13 @@ const Navbar = class extends React.Component {
           title="Works"
           onClick={e => this.handleToggle(e)}
         />
-      </Nav>
-    );
-  }
+      </div>
+    </Nav>
+  );
 };
 
 const NavLink = ({ target, title }) => (
-  <Link
+  <LinkTo
     activeClass="current"
     to={target}
     spy={true}
@@ -66,7 +66,7 @@ const NavLink = ({ target, title }) => (
     duration={900}
   >
     {title}
-  </Link>
+  </LinkTo>
 );
 
 export default Navbar;
