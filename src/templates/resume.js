@@ -108,11 +108,11 @@ const Section = styled.section`
   &.professional-skills {
     article {
       display: grid;
+      grid-gap: 1rem;
       grid-template-columns: 1fr;
 
       @media (min-width: 768px) {
         grid-template-columns: 1fr 1fr;
-        grid-gap: 1rem;
       }
 
       @media print {
@@ -140,7 +140,12 @@ const Section = styled.section`
         border: 1px solid white;
         display: flex;
         flex-flow: row wrap;
+        grid-column: span 2 / auto;
         padding: 1rem;
+
+        @media (min-width: 768px) {
+          grid-column: span 1 / auto;
+        }
 
         h3 {
           width: 50%;
