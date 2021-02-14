@@ -1,5 +1,12 @@
 import React, { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faTwitter,
+  faStrava,
+  faLinkedin,
+  faGithub,
+  faInstagram
+} from "@fortawesome/free-brands-svg-icons";
 import styled from "styled-components";
 
 const SocialLinks = styled.div`

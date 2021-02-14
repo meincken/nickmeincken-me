@@ -6,6 +6,10 @@ module.exports = {
       "Welcome to the online profile of Nick Meincken, full stack, front end developer. I specialise in reusable UI component libraries and front end styleguides for rapid development."
   },
   plugins: [
+    {
+      resolve: "gatsby-plugin-webpack-bundle-analyser-v2",
+      options: { devMode: true }
+    },
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-plugin-styled-components"
