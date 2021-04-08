@@ -111,8 +111,9 @@ export const bodyStyles = css`
     margin-top: 0;
 
     @media print {
-      font-size: 12px !important;
       color: #1e1e1e;
+      font-size: 12px !important;
+      margin-bottom: 6px;      
     }
   }
 
