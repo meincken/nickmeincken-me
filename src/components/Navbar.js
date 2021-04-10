@@ -1,6 +1,6 @@
-import React from "react";
-import { Link } from "react-scroll";
-import styled from "styled-components";
+import React from 'react'
+import { Link } from 'react-scroll'
+import styled from 'styled-components'
 
 const Nav = styled.nav`
   position: fixed;
@@ -9,7 +9,7 @@ const Nav = styled.nav`
   background: rgba(0, 0, 0, 0.5);
   text-align: center;
   border-bottom: 1px solid #a9cc17;
-`;
+`
 
 const LinkTo = styled(Link)`
   text-decoration: none;
@@ -17,7 +17,7 @@ const LinkTo = styled(Link)`
   padding: 0.8rem 1.3rem;
   display: inline-block;
   cursor: pointer;
-`;
+`
 
 const Navbar = () => {
   return (
@@ -53,8 +53,8 @@ const Navbar = () => {
         />
       </div>
     </Nav>
-  );
-};
+  )
+}
 
 const NavLink = ({ target, title }) => (
   <LinkTo
@@ -67,6 +67,6 @@ const NavLink = ({ target, title }) => (
   >
     {title}
   </LinkTo>
-);
+)
 
-export default Navbar;
+export default Navbar

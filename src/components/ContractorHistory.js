@@ -1,11 +1,11 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { graphql, StaticQuery } from "gatsby";
+import React from 'react'
+import PropTypes from 'prop-types'
+import { graphql, StaticQuery } from 'gatsby'
 
 class ContractorHistory extends React.Component {
   render() {
-    const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { data } = this.props
+    const { edges: posts } = data.allMarkdownRemark
 
     return (
       <>
@@ -13,7 +13,7 @@ class ContractorHistory extends React.Component {
           posts.map(({ node: post }) => (
             <article
               key={post.id}
-              className={`${post.frontmatter.break ? " break" : ""}`}
+              className={`${post.frontmatter.break ? ' break' : ''}`}
             >
               <header>
                 <div>
@@ -28,7 +28,7 @@ class ContractorHistory extends React.Component {
               </header>
               <div
                 dangerouslySetInnerHTML={{
-                  __html: post.frontmatter.description
+                  __html: post.frontmatter.description,
                 }}
               />
               <p>
@@ -40,17 +40,17 @@ class ContractorHistory extends React.Component {
             </article>
           ))}
       </>
-    );
+    )
   }
 }
 
 ContractorHistory.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
-};
+      edges: PropTypes.array,
+    }),
+  }),
+}
 
 export default () => (
   <StaticQuery
@@ -87,4 +87,4 @@ export default () => (
     `}
     render={(data, count) => <ContractorHistory data={data} count={count} />}
   />
-);
+)

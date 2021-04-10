@@ -1,18 +1,18 @@
-import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faDownload } from "@fortawesome/free-solid-svg-icons";
-import { color, typography } from "./styles";
+import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faDownload } from '@fortawesome/free-solid-svg-icons'
+import { color, typography } from './styles'
 
-import styled from "styled-components";
+import styled from 'styled-components'
 
 // Heading
 const Title = styled.h2`
   color: ${color.lightest};
   font-weight: ${typography.weight.bold};
   margin-bottom: 12px;
-`;
+`
 
-export const Heading = ({ title }) => <Title>{title}</Title>;
+export const Heading = ({ title }) => <Title>{title}</Title>
 
 // Button
 const ButtonStyle = styled.a`
@@ -28,14 +28,14 @@ const ButtonStyle = styled.a`
   svg {
     margin-right: 10px;
   }
-`;
+`
 
 export const Button = ({ href, title }) => (
   <ButtonStyle href={href} target="_blank">
     <FontAwesomeIcon icon={faDownload} />
     {title}
   </ButtonStyle>
-);
+)
 
 const SectionTitle = styled.header`
   grid-column: span 3;
@@ -52,7 +52,7 @@ const SectionTitle = styled.header`
       padding-bottom: 6px;
     }
   }
-`;
+`
 
 export const SectionHeading = ({ title }) => (
   <SectionTitle>
@@ -60,4 +60,4 @@ export const SectionHeading = ({ title }) => (
       <span>{title}</span>
     </h2>
   </SectionTitle>
-);
+)

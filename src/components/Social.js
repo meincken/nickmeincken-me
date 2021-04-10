@@ -1,13 +1,6 @@
-import React, { Component } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faTwitter,
-  faStrava,
-  faLinkedin,
-  faGithub,
-  faInstagram
-} from "@fortawesome/free-brands-svg-icons";
-import styled from "styled-components";
+import React, { Component } from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import styled from 'styled-components'
 
 const SocialLinks = styled.div`
   margin: 1.8rem 0 3rem;
@@ -25,30 +18,30 @@ const SocialLinks = styled.div`
   span {
     font-size: 0;
   }
-`;
+`
 
 var social = [
   {
-    name: "twitter",
-    url: "http://twitter.com/meincken"
+    name: 'twitter',
+    url: 'http://twitter.com/meincken',
   },
   {
-    name: "linkedin",
-    url: "https://www.linkedin.com/in/meincken/"
+    name: 'linkedin',
+    url: 'https://www.linkedin.com/in/meincken/',
   },
   {
-    name: "instagram",
-    url: "http://instagram.com/meincken"
+    name: 'instagram',
+    url: 'http://instagram.com/meincken',
   },
   {
-    name: "github",
-    url: "http://github.com/meincken"
+    name: 'github',
+    url: 'http://github.com/meincken',
   },
   {
-    name: "strava",
-    url: "https://www.strava.com/athletes/meincken"
-  }
-];
+    name: 'strava',
+    url: 'https://www.strava.com/athletes/meincken',
+  },
+]
 
 const SocialBlock = ({ social }) => (
   <>
@@ -59,12 +52,12 @@ const SocialBlock = ({ social }) => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <FontAwesomeIcon icon={["fab", network.name]} size="2x" />
+        <FontAwesomeIcon icon={['fab', network.name]} size="2x" />
         <span>{network.name}</span>
       </a>
     ))}
   </>
-);
+)
 
 class Social extends Component {
   render() {
@@ -72,8 +65,8 @@ class Social extends Component {
       <SocialLinks>
         <SocialBlock social={social} />
       </SocialLinks>
-    );
+    )
   }
 }
 
-export default Social;
+export default Social

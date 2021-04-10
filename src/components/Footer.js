@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react'
 
-import Social from "./Social";
+import Social from './Social'
 
-import styled from "styled-components";
-import { color, typography } from "../shared/styles";
+import styled from 'styled-components'
+import { color, typography } from '../shared/styles'
 
 const FooterBlock = styled.footer`
   background-color: ${color.darkest};
@@ -30,11 +30,11 @@ const FooterBlock = styled.footer`
   a:hover {
     color: ${color.lightest};
   }
-`;
+`
 
 const Footer = class extends React.Component {
   getYear() {
-    return new Date().getFullYear();
+    return new Date().getFullYear()
   }
 
   render() {
@@ -45,7 +45,7 @@ const Footer = class extends React.Component {
         <small>
           &copy; Copyright {this.getYear()} Nick Meincken
           <span>•</span>
-          Design by{" "}
+          Design by{' '}
           <a
             title="Built By Moustache"
             href="https://www.builtbymoustache.com/"
@@ -54,8 +54,8 @@ const Footer = class extends React.Component {
           </a>
         </small>
       </FooterBlock>
-    );
+    )
   }
-};
+}
 
-export default Footer;
+export default Footer

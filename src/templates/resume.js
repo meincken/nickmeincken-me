@@ -1,14 +1,15 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { Link, graphql } from "gatsby";
-import { GlobalStyle } from "../shared/global";
-import { color } from "../shared/styles";
-import { H2, H3, Header, FooterBlock } from "../shared/ui-kit";
+import React from 'react'
+import PropTypes from 'prop-types'
+import { Link, graphql } from 'gatsby'
+import { GlobalStyle } from '../shared/global'
+import { color } from '../shared/styles'
+import { H2, H3, Header, FooterBlock } from '../shared/ui-kit'
 
-import Layout from "../components/LayoutCV";
-import ContractorHistory from "../components/ContractorHistory";
-import Content, { HTMLContent } from "../components/Content";
-import styled from "styled-components";
+import Layout from '../components/LayoutCV'
+import ContractorHistory from '../components/ContractorHistory'
+import Content, { HTMLContent } from '../components/Content'
+import QRCode from '../components/QRCode'
+import styled from 'styled-components'
 
 const Main = styled.main`
   align-content: center;
@@ -24,7 +25,7 @@ const Main = styled.main`
   @media print {
     background: #fff;
   }
-`;
+`
 
 const HeaderBlock = styled.header`
   display: grid;
@@ -48,7 +49,7 @@ const HeaderBlock = styled.header`
       margin: 0 1rem 0 0;
     }
   }
-`;
+`
 const CVLinks = styled.div`
   display: flex;
   justify-content: center;
@@ -64,7 +65,7 @@ const CVLinks = styled.div`
     padding: 1rem 2rem;
     text-decoration: none;
   }
-`;
+`
 
 const Section = styled.section`
   color: #fff;
@@ -96,11 +97,11 @@ const Section = styled.section`
 
     span {
       &:after {
-        content: ",";
+        content: ',';
       }
 
       &:last-child:after {
-        content: "";
+        content: '';
       }
     }
   }
@@ -168,16 +169,16 @@ const Section = styled.section`
       }
     }
   }
-`;
+`
 
 export const ResumePageTemplate = ({
   title,
   subtitle,
   content,
   contentComponent,
-  personalinfo
+  personalinfo,
 }) => {
-  const PageContent = contentComponent || Content;
+  const PageContent = contentComponent || Content
 
   return (
     <>
@@ -185,8 +186,8 @@ export const ResumePageTemplate = ({
       <CVLinks className="hidden-print-block">
         <Link className="btn" to="/">
           Home
-        </Link>{" "}
-        <Link className="btn print" to="/nick-meincken.pdf">
+        </Link>{' '}
+        <Link className="btn print" to="/public/exports/nick-meincken.pdf">
           Print
         </Link>
       </CVLinks>
@@ -201,9 +202,7 @@ export const ResumePageTemplate = ({
           <a href="mailto:nick@meincken.com">nick@meincken.com</a>
           <a href="https://github.com/meincken">Meincken GitHub</a>
         </div>
-        <div>
-          <img width="100" alt="qr-code" src="/nickmeincken-website.png" />
-        </div>
+        <QRCode />
       </HeaderBlock>
       <Main>
         <Section>
@@ -359,18 +358,18 @@ export const ResumePageTemplate = ({
         className="hidden-print-block"
       />
     </>
-  );
-};
+  )
+}
 
 ResumePageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   subtitle: PropTypes.string,
   contentComponent: PropTypes.func,
-  personalInformation: PropTypes.string
-};
+  personalInformation: PropTypes.string,
+}
 
 const ResumePage = ({ data }) => {
-  const { markdownRemark: post } = data;
+  const { markdownRemark: post } = data
 
   return (
     <Layout>
@@ -381,14 +380,14 @@ const ResumePage = ({ data }) => {
         personalinfo={post.frontmatter.personalInformation}
       />
     </Layout>
-  );
-};
+  )
+}
 
 ResumePage.propTypes = {
-  data: PropTypes.object.isRequired
-};
+  data: PropTypes.object.isRequired,
+}
 
-export default ResumePage;
+export default ResumePage
 
 export const aboutPageQuery = graphql`
   query ResumePage($id: String!) {
@@ -405,4 +404,4 @@ export const aboutPageQuery = graphql`
       }
     }
   }
-`;
+`

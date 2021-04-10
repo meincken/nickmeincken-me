@@ -1,16 +1,16 @@
-import React from "react";
-import { Helmet } from "react-helmet";
-import { library } from "@fortawesome/fontawesome-svg-core";
-import { fab } from "@fortawesome/free-brands-svg-icons";
-import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
-import useSiteMetadata from "./SiteMetadata";
-import { withPrefix } from "gatsby";
+import React from 'react'
+import { Helmet } from 'react-helmet'
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import Footer from '../components/Footer'
+import Navbar from '../components/Navbar'
+import useSiteMetadata from './SiteMetadata'
+import { withPrefix } from 'gatsby'
 
-library.add(fab);
+library.add(fab)
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata();
+  const { title, description } = useSiteMetadata()
   return (
     <>
       <Helmet>
@@ -21,24 +21,24 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href={`${withPrefix("/")}img/apple-touch-icon.png`}
+          href={`${withPrefix('/')}img/apple-touch-icon.png`}
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-32x32.png`}
+          href={`${withPrefix('/')}img/favicon-32x32.png`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-16x16.png`}
+          href={`${withPrefix('/')}img/favicon-16x16.png`}
           sizes="16x16"
         />
 
         <link
           rel="mask-icon"
-          href={`${withPrefix("/")}img/safari-pinned-tab.svg`}
+          href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
@@ -52,7 +52,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:description" content={description} />
         <meta
           property="og:image"
-          content={`${withPrefix("/")}img/og-image.jpg`}
+          content={`${withPrefix('/')}img/og-image.jpg`}
           title={title}
         />
       </Helmet>
@@ -60,7 +60,7 @@ const TemplateWrapper = ({ children }) => {
       {children}
       <Footer />
     </>
-  );
-};
+  )
+}
 
-export default TemplateWrapper;
+export default TemplateWrapper

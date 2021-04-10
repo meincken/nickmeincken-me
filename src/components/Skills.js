@@ -1,6 +1,6 @@
-import React from "react";
-import PropTypes from "prop-types";
-import styled from "styled-components";
+import React from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
 
 const BarBlock = styled.div`
   em {
@@ -28,7 +28,7 @@ const BarBlock = styled.div`
       border-radius: 0.3rem;
     }
   }
-`;
+`
 
 const Skills = ({ skillItems }) => (
   <>
@@ -41,15 +41,15 @@ const Skills = ({ skillItems }) => (
       </BarBlock>
     ))}
   </>
-);
+)
 
 Skills.propTypes = {
   skillItems: PropTypes.arrayOf(
     PropTypes.shape({
       name: PropTypes.string,
-      level: PropTypes.number
+      level: PropTypes.number,
     })
-  )
-};
+  ),
+}
 
-export default Skills;
+export default Skills

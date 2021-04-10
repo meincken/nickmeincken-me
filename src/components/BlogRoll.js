@@ -1,7 +1,7 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { graphql, StaticQuery } from "gatsby";
-import styled from "styled-components";
+import React from 'react'
+import PropTypes from 'prop-types'
+import { graphql, StaticQuery } from 'gatsby'
+import styled from 'styled-components'
 
 const Article = styled.article`
   align-items: center;
@@ -34,7 +34,7 @@ const Article = styled.article`
       opacity: 1;
     }
   }
-`;
+`
 
 const Section = styled.section`
   display: grid;
@@ -45,12 +45,12 @@ const Section = styled.section`
   @media (min-width: 768px) {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
-`;
+`
 
 class BlogRoll extends React.Component {
   render() {
-    const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { data } = this.props
+    const { edges: posts } = data.allMarkdownRemark
 
     return (
       <>
@@ -82,17 +82,17 @@ class BlogRoll extends React.Component {
             ))}
         </Section>
       </>
-    );
+    )
   }
 }
 
 BlogRoll.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
-};
+      edges: PropTypes.array,
+    }),
+  }),
+}
 
 export default () => (
   <StaticQuery
@@ -132,4 +132,4 @@ export default () => (
     `}
     render={(data, count) => <BlogRoll data={data} count={count} />}
   />
-);
+)

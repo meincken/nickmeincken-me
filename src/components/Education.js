@@ -1,5 +1,5 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const Education = ({ educationItems }) => (
   <>
@@ -12,16 +12,16 @@ const Education = ({ educationItems }) => (
       </article>
     ))}
   </>
-);
+)
 
 Education.propTypes = {
   educationItems: PropTypes.arrayOf(
     PropTypes.shape({
       title: PropTypes.string,
       course: PropTypes.string,
-      year: PropTypes.string
+      year: PropTypes.string,
     })
-  )
-};
+  ),
+}
 
-export default Education;
+export default Education

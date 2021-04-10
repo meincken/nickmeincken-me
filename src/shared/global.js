@@ -1,5 +1,5 @@
-import { createGlobalStyle, css } from "styled-components";
-import { color, typography } from "./styles";
+import { createGlobalStyle, css } from 'styled-components'
+import { color, typography } from './styles'
 
 export const bodyStyles = css`
   font-family: ${typography.type.primary};
@@ -113,7 +113,7 @@ export const bodyStyles = css`
     @media print {
       color: #1e1e1e;
       font-size: 12px !important;
-      margin-bottom: 6px;      
+      margin-bottom: 6px;
     }
   }
 
@@ -168,7 +168,7 @@ export const bodyStyles = css`
       color: #000;
     }
   }
-`;
+`
 
 export const GlobalStyle = createGlobalStyle`
   html {
@@ -186,4 +186,4 @@ export const GlobalStyle = createGlobalStyle`
       font-size: 13px;
     }
   }
-`;
+`

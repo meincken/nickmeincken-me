@@ -1,17 +1,17 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { graphql, Link } from "gatsby";
-import { GlobalStyle } from "../shared/global";
-import { color } from "../shared/styles";
+import React from 'react'
+import PropTypes from 'prop-types'
+import { graphql, Link } from 'gatsby'
+import { GlobalStyle } from '../shared/global'
+import { color } from '../shared/styles'
 
-import Layout from "../components/Layout";
-import Social from "../components/Social";
-import Education from "../components/Education";
-import IndexContract from "../components/IndexContract";
-import Skills from "../components/Skills";
-import BlogRoll from "../components/BlogRoll";
-import { H2, H2alt, HR } from "../shared/ui-kit";
-import styled from "styled-components";
+import Layout from '../components/Layout'
+import Social from '../components/Social'
+import Education from '../components/Education'
+import IndexContract from '../components/IndexContract'
+import Skills from '../components/Skills'
+import BlogRoll from '../components/BlogRoll'
+import { H2, H2alt, HR } from '../shared/ui-kit'
+import styled from 'styled-components'
 
 const Hero = styled.section`
   align-items: center;
@@ -30,7 +30,7 @@ const Hero = styled.section`
     height: 100vh;
     min-height: 600px;
   }
-`;
+`
 
 const Banner = styled.div`
   display: flex;
@@ -40,7 +40,7 @@ const Banner = styled.div`
   padding: 30px 0;
   text-align: center;
   width: 85%;
-`;
+`
 
 const BannerText = styled.div`
   width: 100%;
@@ -48,7 +48,7 @@ const BannerText = styled.div`
   span {
     display: inline-block;
   }
-`;
+`
 
 const Title = styled.h1`
   color: ${color.primary};
@@ -74,7 +74,7 @@ const Title = styled.h1`
   @media (min-width: 960px) {
     font-size: 90px;
   }
-`;
+`
 
 const SubTitle = styled.h2`
   color: ${color.lightest};
@@ -82,7 +82,7 @@ const SubTitle = styled.h2`
   line-height: 1.2;
   margin: 0 auto;
   width: 80%;
-`;
+`
 
 const Main = styled.main`
   align-content: center;
@@ -92,7 +92,7 @@ const Main = styled.main`
   justify-content: center;
   /* max-width: 1040px; */
   overflow: hidden;
-`;
+`
 
 const Section = styled.section`
   display: grid;
@@ -184,7 +184,7 @@ const Section = styled.section`
   > div {
     @media (min-width: 768px) {
       display: grid;
-      grid-template-areas: "header section";
+      grid-template-areas: 'header section';
       grid-template-columns: 30rem 1fr;
     }
 
@@ -205,7 +205,7 @@ const Section = styled.section`
       grid-template-columns: 1fr 1fr;
     }
   }
-`;
+`
 
 const LinkStyle = styled(Link)`
   background: ${color.primary};
@@ -218,13 +218,13 @@ const LinkStyle = styled(Link)`
   text-decoration: none;
   text-transform: uppercase;
   transition: all 0.5s;
-`;
+`
 
 const LinkTo = ({ to, title }) => (
   <LinkStyle to={to} title={title}>
     {title}
   </LinkStyle>
-);
+)
 
 export const IndexPageTemplate = ({
   hero,
@@ -238,7 +238,7 @@ export const IndexPageTemplate = ({
   aboutme,
   description,
   intro,
-  skills
+  skills,
 }) => (
   <>
     <GlobalStyle />
@@ -247,7 +247,7 @@ export const IndexPageTemplate = ({
       style={{
         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.srcWebp : image
-        })`
+        })`,
       }}
     >
       <Banner>
@@ -325,7 +325,7 @@ export const IndexPageTemplate = ({
       </Section>
     </Main>
   </>
-);
+)
 
 IndexPageTemplate.propTypes = {
   hero: PropTypes.object,
@@ -337,18 +337,18 @@ IndexPageTemplate.propTypes = {
   aboutme: PropTypes.object,
   description: PropTypes.string,
   education: PropTypes.shape({
-    courses: PropTypes.array
+    courses: PropTypes.array,
   }),
   contracts: PropTypes.shape({
-    positions: PropTypes.array
+    positions: PropTypes.array,
   }),
   skills: PropTypes.shape({
-    skillset: PropTypes.array
-  })
-};
+    skillset: PropTypes.array,
+  }),
+}
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark;
+  const { frontmatter } = data.markdownRemark
 
   return (
     <Layout>
@@ -367,18 +367,18 @@ const IndexPage = ({ data }) => {
         skills={frontmatter.skills}
       />
     </Layout>
-  );
-};
+  )
+}
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object
-    })
-  })
-};
+      frontmatter: PropTypes.object,
+    }),
+  }),
+}
 
-export default IndexPage;
+export default IndexPage
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
@@ -431,4 +431,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

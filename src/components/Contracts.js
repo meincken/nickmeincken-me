@@ -1,5 +1,5 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const Contracts = ({ contractItems }) => (
   <div>
@@ -13,7 +13,7 @@ const Contracts = ({ contractItems }) => (
       </section>
     ))}
   </div>
-);
+)
 
 Contracts.propTypes = {
   contractItems: PropTypes.arrayOf(
@@ -21,9 +21,9 @@ Contracts.propTypes = {
       company: PropTypes.string,
       role: PropTypes.string,
       service: PropTypes.string,
-      description: PropTypes.string
+      description: PropTypes.string,
     })
-  )
-};
+  ),
+}
 
-export default Contracts;
+export default Contracts

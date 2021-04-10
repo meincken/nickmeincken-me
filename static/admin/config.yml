@@ -3,78 +3,78 @@ backend:
   repo: nickmeincken-me
   branch: master
   commit_messages:
-    create: "Create {{collection}} “{{slug}}”"
-    update: "Update {{collection}} “{{slug}}”"
-    delete: "Delete {{collection}} “{{slug}}”"
-    uploadMedia: "[skip ci] Upload “{{path}}”"
-    deleteMedia: "[skip ci] Delete “{{path}}”"
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
 
 media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Portfolio"
-    folder: "src/pages/blog"
+  - name: 'blog'
+    label: 'Portfolio'
+    folder: 'src/pages/blog'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - {
-          label: "Template Key",
-          name: "templateKey",
-          widget: "hidden",
-          default: "blog-post",
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Website", name: "url", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Image", name: "featuredimage", widget: image }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "contracts"
-    label: "Contractor History"
-    folder: "src/pages/contracts"
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Website', name: 'url', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Featured Image', name: 'featuredimage', widget: image }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'contracts'
+    label: 'Contractor History'
+    folder: 'src/pages/contracts'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - {
-          label: "Template Key",
-          name: "templateKey",
-          widget: "hidden",
-          default: "contract-history",
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'contract-history',
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Job Title", name: "jobTitle", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "From Date", name: "startDate", widget: "string" }
-      - { label: "Finish Date", name: "finishDate", widget: "string" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Job Title', name: 'jobTitle', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'From Date', name: 'startDate', widget: 'string' }
+      - { label: 'Finish Date', name: 'finishDate', widget: 'string' }
       - {
-          label: "Columns",
-          name: "columns",
-          widget: "select",
-          options: ["twelve", "six"],
-          default: "six",
+          label: 'Columns',
+          name: 'columns',
+          widget: 'select',
+          options: ['twelve', 'six'],
+          default: 'six',
         }
       - {
-          label: "Add break",
-          name: "break",
-          widget: "boolean",
-          default: "false",
+          label: 'Add break',
+          name: 'break',
+          widget: 'boolean',
+          default: 'false',
         }
-      - { label: "Description", name: "description", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
-  - name: "pages"
-    label: "Pages"
+      - { label: 'Description', name: 'description', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+  - name: 'pages'
+    label: 'Pages'
     files:
-      - file: "src/pages/index.md"
-        label: "Landing Page"
-        name: "index"
+      - file: 'src/pages/index.md'
+        label: 'Landing Page'
+        name: 'index'
         fields:
           - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "index-page",
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'index-page',
             }
           - {
               label: Hero,
@@ -138,18 +138,18 @@ collections:
                   },
                 ],
             }
-      - file: "src/pages/resume/index.md"
-        label: "Resume"
-        name: "resume"
+      - file: 'src/pages/resume/index.md'
+        label: 'Resume'
+        name: 'resume'
         fields:
           - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "about-page",
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'about-page',
             }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Subtitle", name: "subtitle", widget: "string" }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
           - {
               label: Personal Information,
               name: personalInformation,
@@ -161,4 +161,4 @@ collections:
                   { label: Description, name: description, widget: markdown },
                 ],
             }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
