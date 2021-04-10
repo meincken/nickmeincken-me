@@ -104,6 +104,9 @@ module.exports = {
             left: '50px',
           },
         },
+        styleTagOptions: {
+          path: 'https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400;900&display=swap'
+        },
       },
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
