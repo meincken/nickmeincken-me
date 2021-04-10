@@ -187,7 +187,7 @@ export const ResumePageTemplate = ({
         <Link className="btn" to="/">
           Home
         </Link>{' '}
-        <Link className="btn print" to="/public/exports/nick-meincken.pdf">
+        <Link className="btn print" to="/exports/nick-meincken-resume.pdf">
           Print
         </Link>
       </CVLinks>

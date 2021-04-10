@@ -278,7 +278,7 @@ export const IndexPageTemplate = ({
             <div className="split">
               <p>nick@meincken.com</p>
               <div>
-                <LinkTo to="/nick-meincken.pdf" title="Download Resume PDF" />
+                <LinkTo to="/exports/nick-meincken-resume.pdf" title="Download Resume PDF" />
                 <LinkTo to="/nick-meincken.docx" title="Download Resume DOCX" />
                 <LinkTo title="Online Resume" to="/resume" />
               </div>

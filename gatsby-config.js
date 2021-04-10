@@ -92,7 +92,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-pdf',
       options: {
-        paths: ['/resume/index.html'],
+        allPages: false,
+        paths: ['/resume/'],
         outputPath: `/public/exports`,
         filePrefix: `nick-meincken-`,
         pdfOptions: {
