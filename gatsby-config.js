@@ -105,7 +105,7 @@ module.exports = {
           },
         },
         styleTagOptions: {
-          path: 'https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400;900&display=swap'
+          url: 'https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400;900&display=swap'
         },
       },
     },
