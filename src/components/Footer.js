@@ -8,14 +8,8 @@ const FooterBlock = styled.footer`
   border-top: 1px solid ${color.primary};
   color: ${color.lighter};
   font-size: ${typography.size.s2};
-  padding-bottom: 48px;
-  padding-top: 48px;
-  position: relative;
+  padding: 4.8rem 0;
   text-align: center;
-
-  .twelve {
-    max-width: 960px;
-  }
 
   & a,
   a:visited {

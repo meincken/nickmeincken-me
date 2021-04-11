@@ -4,11 +4,12 @@ import { Link, graphql } from 'gatsby'
 import { GlobalStyle } from '../shared/global'
 import { color } from '../shared/styles'
 import { H2, H3, Header, FooterBlock } from '../shared/ui-kit'
-
 import Layout from '../components/LayoutCV'
 import ContractorHistory from '../components/ContractorHistory'
 import Content, { HTMLContent } from '../components/Content'
 import QRCode from '../components/QRCode'
+import ProSkills from '../components/ProSkills'
+import Qualifications from '../components/Qualifications'
 import styled from 'styled-components'
 
 const Main = styled.main`
@@ -174,7 +175,6 @@ const Section = styled.section`
 export const ResumePageTemplate = ({
   title,
   subtitle,
-  content,
   contentComponent,
   personalinfo,
 }) => {
@@ -183,11 +183,11 @@ export const ResumePageTemplate = ({
   return (
     <>
       <GlobalStyle />
-      <CVLinks className="hidden-print-block">
-        <Link className="btn" to="/">
+      <CVLinks className={`hidden-print-block`}>
+        <Link className={`btn`} to={`/`}>
           Home
-        </Link>{' '}
-        <Link className="btn print" to="/exports/nick-meincken-resume.pdf">
+        </Link>
+        <Link className={`btn print`} to={`/exports/nick-meincken-resume.pdf`}>
           Print
         </Link>
       </CVLinks>
@@ -195,7 +195,7 @@ export const ResumePageTemplate = ({
         <div>
           <Header title={title} subtitle={subtitle}></Header>
         </div>
-        <div className="contact-info">
+        <div className={`contact-info`}>
           <a href="https://nickmeincken.me">nickmeincken.me</a>
           <p>Surbiton, Surrey UK</p>
           <a href="tel:+44 7496 084977">+44 7496 084977</a>
@@ -208,148 +208,13 @@ export const ResumePageTemplate = ({
         <Section>
           <PageContent content={personalinfo.description} />
         </Section>
-        <Section className="contractor-history">
-          <H2 title="Contractor History" />
+        <Section className={`contractor-history`}>
+          <H2 title={`Contractor History`} />
           <ContractorHistory />
         </Section>
-        <Section className="professional-skills">
-          <div>
-            <H3 title="Technical Skills" />
-            <article>
-              <h3>Languages</h3>
-              <div>
-                <h3>
-                  Semantic HTML <span>20 years</span>
-                </h3>
-                <progress id="semantic-html" value="100" max="100">
-                  90%
-                </progress>
-              </div>
-              <div>
-                <h3>
-                  CSS <span>20 years</span>
-                </h3>
-                <progress id="css" value="100" max="100">
-                  100%
-                </progress>
-              </div>
-              <div>
-                <h3>
-                  Vanilla JS/jQuery <span>15 years</span>
-                </h3>
-                <progress id="javascript" value="80" max="100">
-                  90%
-                </progress>
-              </div>
-
-              <div>
-                <h3>
-                  SCSS <span>8 years</span>
-                </h3>
-                <progress id="scss" value="90" max="100">
-                  90%
-                </progress>
-              </div>
-              <div>
-                <h3>
-                  PostCSS <span>3 years</span>
-                </h3>
-                <progress id="postcss" value="190" max="100">
-                  90%
-                </progress>
-              </div>
-
-              <h3>Framework/Libraries</h3>
-              <div>
-                <h3>
-                  React <span>3 years </span>
-                </h3>
-                <progress id="react" value="80" max="100">
-                  90%
-                </progress>
-              </div>
-              <div>
-                <h3>
-                  Gatsby <span>2 years</span>
-                </h3>
-                <progress id="gatsby" value="80" max="100">
-                  90%
-                </progress>
-              </div>
-              <h3>Tools</h3>
-              <div>
-                <h3>
-                  Photoshop CC <span>20 years</span>
-                </h3>
-                <progress id="photoshop" value="80" max="100">
-                  100%
-                </progress>
-              </div>
-              <div>
-                <h3>
-                  Atom <span>4 years</span>
-                </h3>
-                <progress id="Photoshop" value="90" max="100">
-                  90%
-                </progress>
-              </div>
-              <div>
-                <h3>
-                  Sketch/Zeplin <span>4 years</span>
-                </h3>
-                <progress id="Sketch" value="50" max="100">
-                  90%
-                </progress>
-              </div>
-
-              <h3>Platforms</h3>
-
-              <div>
-                <h3>
-                  Bundlers <span>5 years</span>
-                </h3>
-                <progress id="bundlers" value="90" max="100">
-                  90%
-                </progress>
-                <small>
-                  <strong>Bundlers</strong>: Webpack, Grunt, Gulp, Parcel
-                </small>
-              </div>
-              <div>
-                <h3>
-                  CMS <span>5 years</span>
-                </h3>
-                <progress id="scss-postcss" value="80" max="100">
-                  90%
-                </progress>
-                <small>
-                  <strong>CMS's</strong>: AEM, Shopify, Wordpress, Jekyll
-                </small>
-              </div>
-            </article>
-          </div>
-
-          <div>
-            <H3 title="Qualifications" />
-            <ul>
-              <li>
-                <strong>Adobe Training Center (2015)</strong> - AEM Sites
-                developer
-              </li>
-              <li>
-                <strong>The Community College Hackney (2006)</strong> - BTEC Web
-                Authoring Level II (distinction)
-              </li>
-              <li>
-                <strong>Spelthorne College, Middlesex (1997)</strong> - BTEC
-                Photography &amp; Business Skills
-              </li>
-              <li>
-                <strong>Ashford High School (1994)</strong> - 6 GCSEs including
-                Maths, English and Science
-              </li>
-            </ul>
-          </div>
+        <Section className={`professional-skills`}>
+          <ProSkills />
+          <Qualifications />
         </Section>
       </Main>
       <FooterBlock
