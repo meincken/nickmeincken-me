@@ -226,6 +226,19 @@ const LinkTo = ({ to, title }) => (
   </LinkStyle>
 )
 
+const FileLink = styled.a`
+  background: ${color.primary};
+  border-radius: 5px;
+  color: ${color.darkest};
+  display: block;
+  margin-top: 6px;
+  padding: 1rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.5s;
+`;
+
 export const IndexPageTemplate = ({
   hero,
   image,
@@ -278,8 +291,8 @@ export const IndexPageTemplate = ({
             <div className="split">
               <p>nick@meincken.com</p>
               <div>
-                <LinkTo to="/exports/nick-meincken-resume.pdf" title="Download Resume PDF" />
-                <LinkTo to="/nick-meincken.docx" title="Download Resume DOCX" />
+                <FileLink href={`/exports/nick-meincken-resume.pdf`}>Download Resume PDF</FileLink>
+                <FileLink href="/nick-meincken.docx">Download Resume DOCX</FileLink>
                 <LinkTo title="Online Resume" to="/resume" />
               </div>
             </div>
