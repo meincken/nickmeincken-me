@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import styled from 'styled-components'
 
 const SocialLinks = styled.div`
@@ -23,22 +22,27 @@ const SocialLinks = styled.div`
 var social = [
   {
     name: 'twitter',
+    svg: 'Github',
     url: 'http://twitter.com/meincken',
   },
   {
     name: 'linkedin',
+    svg: 'Github',
     url: 'https://www.linkedin.com/in/meincken/',
   },
   {
     name: 'instagram',
+    svg: 'Github',
     url: 'http://instagram.com/meincken',
   },
   {
     name: 'github',
+    svg: 'Github',
     url: 'http://github.com/meincken',
   },
   {
     name: 'strava',
+    svg: 'Github',
     url: 'https://www.strava.com/athletes/meincken',
   },
 ]
@@ -52,7 +56,9 @@ const SocialBlock = ({ social }) => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <FontAwesomeIcon icon={['fab', network.name]} size="2x" />
+        <svg className="icon">
+          <use xlinkHref={`#${network.name}`}></use>
+        </svg>
         <span>{network.name}</span>
       </a>
     ))}

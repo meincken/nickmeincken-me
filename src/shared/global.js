@@ -99,6 +99,10 @@ export const bodyStyles = css`
     color: ${color.primary};
   }
 
+  svg {
+    fill: currentColor;
+  }
+
   h1 {
     @media print {
       line-height: 1;

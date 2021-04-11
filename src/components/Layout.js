@@ -1,13 +1,10 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { fab } from '@fortawesome/free-brands-svg-icons'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
-
-library.add(fab)
+import SocialSprite from '../../static/img/social-sprite.svg'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
@@ -35,7 +32,6 @@ const TemplateWrapper = ({ children }) => {
           href={`${withPrefix('/')}img/favicon-16x16.png`}
           sizes="16x16"
         />
-
         <link
           rel="mask-icon"
           href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
@@ -59,6 +55,7 @@ const TemplateWrapper = ({ children }) => {
       <Navbar />
       {children}
       <Footer />
+      <SocialSprite />
     </>
   )
 }

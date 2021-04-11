@@ -1,7 +1,5 @@
 import React from 'react'
-
 import Social from './Social'
-
 import styled from 'styled-components'
 import { color, typography } from '../shared/styles'
 
@@ -39,21 +37,23 @@ const Footer = class extends React.Component {
 
   render() {
     return (
-      <FooterBlock>
-        <h2>Nick Meincken</h2>
-        <Social />
-        <small>
-          &copy; Copyright {this.getYear()} Nick Meincken
-          <span>•</span>
-          Design by{' '}
-          <a
-            title="Built By Moustache"
-            href="https://www.builtbymoustache.com/"
-          >
-            Built By Moustache
-          </a>
-        </small>
-      </FooterBlock>
+      <>
+        <FooterBlock>
+          <h2>Nick Meincken</h2>
+          <Social />
+          <small>
+            &copy; Copyright {this.getYear()} Nick Meincken
+            <span>•</span>
+            Design by{' '}
+            <a
+              title="Built By Moustache"
+              href="https://www.builtbymoustache.com/"
+            >
+              Built By Moustache
+            </a>
+          </small>
+        </FooterBlock>
+      </>
     )
   }
 }

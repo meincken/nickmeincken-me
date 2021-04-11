@@ -1,11 +1,6 @@
 import React from 'react'
-import { Helmet } from 'react-helmet'
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { fab } from '@fortawesome/free-brands-svg-icons'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
-
-library.add(fab)
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
