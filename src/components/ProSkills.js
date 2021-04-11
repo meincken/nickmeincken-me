@@ -96,8 +96,8 @@ var proskill = [
 const ProSkillsBlock = ({ proskill }) => (
   <>
     {proskill.map(section => (
-      <>
-        <h3 key={section.section}>{section.section}</h3>
+      <article key={section.section}>
+        <h3>{section.section}</h3>
         <>
           {section.skills.map(skills => (
             <div key={skills.skilltitle}>
@@ -116,7 +116,7 @@ const ProSkillsBlock = ({ proskill }) => (
             </div>
           ))}
         </>
-      </>
+      </article>
     ))}
   </>
 )
@@ -124,12 +124,10 @@ const ProSkillsBlock = ({ proskill }) => (
 class ProSkills extends Component {
   render() {
     return (
-      <div>
+      <>
         <H3 title="Technical Skills" />
-        <article>
-          <ProSkillsBlock proskill={proskill} />
-        </article>
-      </div>
+        <ProSkillsBlock proskill={proskill} />
+      </>
     )
   }
 }
