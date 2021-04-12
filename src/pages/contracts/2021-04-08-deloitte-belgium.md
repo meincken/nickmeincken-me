@@ -3,7 +3,7 @@ templateKey: contract-history
 title: Deloitte Belgium
 jobTitle: React UI Developer
 date: 2021-04-08T14:39:15.591Z
-startDate: March 2020
+startDate: March 2021
 finishDate: current
 columns: twelve
 break: false
