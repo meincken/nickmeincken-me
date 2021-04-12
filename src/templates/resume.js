@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import { GlobalStyle } from '../shared/global'
-import { color } from '../shared/styles'
+import { color, device } from '../shared/styles'
 import { H2, H3, Header, FooterBlock } from '../shared/ui-kit'
 import Layout from '../components/LayoutCV'
 import ContractorHistory from '../components/ContractorHistory'
@@ -34,7 +34,7 @@ const HeaderBlock = styled.header`
   margin: 0 auto;
   padding: 0 2rem;
 
-  @media (min-width: 768px) {
+  @media ${device.tablet} {
     grid-template-columns: 50% 1fr 10rem;
   }
 
@@ -113,7 +113,7 @@ const Section = styled.section`
       grid-gap: 1rem;
       grid-template-columns: 1fr;
 
-      @media (min-width: 768px) {
+      @media ${device.tablet} {
         grid-template-columns: 1fr 1fr;
       }
 
@@ -145,7 +145,7 @@ const Section = styled.section`
         grid-column: span 2 / auto;
         padding: 1rem;
 
-        @media (min-width: 768px) {
+        @media ${device.tablet} {
           grid-column: span 1 / auto;
         }
 
@@ -193,7 +193,7 @@ export const ResumePageTemplate = ({
       </CVLinks>
       <HeaderBlock>
         <div>
-          <Header title={title} subtitle={subtitle}></Header>
+          <Header title={title} subtitle={subtitle} />
         </div>
         <div className={`contact-info`}>
           <a href="https://nickmeincken.me">nickmeincken.me</a>
