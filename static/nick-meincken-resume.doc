@@ -1,0 +1,2172 @@
+{\rtf1\ansi\ansicpg1252{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\fswiss\fcharset0 Calibri;}{\f2\fswiss\fcharset0 Calibri;}}{\colortbl ;\red0 \green0 \blue0;\red98 \green120 \blue13;\red168 \green204 \blue23;\red29 \green29 \blue29;}{\stylesheet{\fs22\f2\sqformat\spriority1 Normal}{\s1\li119\sb23\f2\fs19\sbasedon0\sqformat\spriority1 Body Text}{\s2\li119\sb11\outlinelevel0\f2\fs29\sbasedon0\sqformat\spriority1 Heading 1}{\s3\li119\sb123\outlinelevel1\f2\fs23\sbasedon0\sqformat\spriority1 Heading 2}{\s4\li119\sl-849\sb97\f2\fs75\sbasedon0\sqformat\spriority1 Title}{\s5\sbasedon0\sqformat\spriority1 List Paragraph}{\s6\sbasedon0\sqformat\spriority1 Table Paragraph}}{\info{\creatim\yr2021\mo4\dy11\hr19\min39\sec16}{\revtim\yr2021\mo4\dy12\hr10\min28\sec52}}{\*\userprops {\propname Creator}\proptype30{\staticval Chromium}}\jexpand\dntblnsbdb\viewkind1\noxlattoyen\nospaceforul\useltbaln\paperw11900\paperh16840\margl920\margr900\margt540\margb280\noindnmbrts\sectd\sbknone\cols2\colno1\colw4500\colsr2010\colno2\colw3570\pard\plain\s4\nooverflow\nocwrap\lnbrkrule\li119\sl-849\sb97\f2\fs75\b0\expnd0\expndtw0\charscalex95\cf2 Nick\f2\expnd10\expndtw52\charscalex95  \f2\fs75\b0\i0\expnd0\expndtw0\charscalex95 Meincken\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl-519\f2\fs48\b0\expnd0\expndtw0\charscalex100\cf4 Front\f2\expnd2\expndtw8\charscalex100  \f2\fs48\b0\i0\expnd0\expndtw0\charscalex100 End\f2\expnd2\expndtw12\charscalex100  \f2\fs48\b0\i0\expnd0\expndtw0\charscalex100 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri1760\qr\sl240\slmult1\sb195 \column {\field {\fldinst { HYPERLINK "https://nickmeincken.me/" }}{\fldrslt \f2\fs19\b0\expnd0\expndtw0\charscalex105\cf2{\ul\ulc3 nickmeincken.me}}
+}\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf2 {\ul\ulc3 }\par
+{\shpgrp{\*\shpinst\shplid109
+\shpleft9469\shptop-224\shpright10782\shpbottom1157\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz0
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 9469}}
+{\sp{\sn groupTop}{\sv -224}}
+{\sp{\sn groupRight}{\sv 10782}}
+{\sp{\sn groupBottom}{\sv 1157}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shpgrp{\*\shpinst\shplid110
+{\sp{\sn groupLeft}{\sv 9469}}
+{\sp{\sn groupTop}{\sv -155}}
+{\sp{\sn groupRight}{\sv 10782}}
+{\sp{\sn groupBottom}{\sv 1157}}
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;7;(262,106);(105,106);(105,184);(105,262);(262,262);(262,184);(262,106)}}
+{\sp{\sn pSegmentInfo}{\sv 2;16;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(367,52);(315,52);(315,315);(367,315);(367,52)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(367,0);(0,0);(0,52);(0,316);(0,368);(367,368);(367,316);(52,316);(52,52);(367,52);(367,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(472,840);(262,840);(262,894);(420,894);(420,944);(420,944);(420,946);(472,946);(472,944);(472,894);(472,840)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;8;(577,106);(525,106);(525,156);(526,156);(526,158);(577,158);(577,156);(577,106)}}
+{\sp{\sn pSegmentInfo}{\sv 2;18;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;24;(682,0);(577,0);(577,52);(472,52);(472,2);(472,2);(472,0);(420,0);(420,2);(420,2);(420,52);(471,52);(471,54);(472,54);(472,104);(474,104);(474,106);(523,106);(523,104);(577,104);(577,54);(577,52);(682,52);(682,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;50;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;82;(735,840);(683,840);(683,842);(682,842);(682,894);(682,948);(682,996);(682,996);(682,998);(630,998);(630,996);(630,996);(630,948);(631,948);(631,946);(681,946);(681,948);(682,948);(682,894);(577,894);(577,944);(577,944);(577,946);(525,946);(525,948);(525,996);(525,998);(525,1000);(525,1050);(420,1050);(420,1052);(420,1102);(420,1104);(420,1156);(525,1156);(525,1208);(420,1208);(420,1210);(420,1260);(420,1262);(420,1312);(577,1312);(577,1262);(576,1262);(576,1260);(525,1260);(525,1210);(526,1210);(526,1208);(577,1208);(577,1156);(577,1104);(525,1104);(525,1102);(525,1102);(525,1052);(526,1052);(526,1050);(577,1050);(577,1000);(578,1000);(578,998);(630,998);(630,1050);(630,1052);(630,1102);(630,1104);(682,1104);(682,1102);(682,1102);(682,1052);(683,1052);(683,1050);(735,1050);(735,998);(735,996);(735,948);(735,946);(735,944);(735,894);(735,842);(735,840)}}
+{\sp{\sn pSegmentInfo}{\sv 2;166;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;54;(1102,840);(1050,840);(1050,894);(1050,1050);(892,1050);(892,1000);(892,998);(892,894);(1050,894);(1050,840);(787,840);(787,892);(787,892);(787,894);(840,894);(840,998);(788,998);(788,1000);(787,1000);(787,1050);(735,1050);(735,1104);(735,1154);(735,1156);(840,1156);(840,1206);(840,1206);(840,1208);(891,1208);(891,1210);(892,1210);(892,1260);(841,1260);(841,1262);(840,1262);(840,1312);(892,1312);(892,1262);(893,1262);(893,1260);(945,1260);(945,1210);(945,1208);(945,1206);(945,1156);(997,1156);(997,1154);(997,1154);(997,1104);(1102,1104);(1102,1050);(1102,894);(1102,892);(1102,840)}}
+{\sp{\sn pSegmentInfo}{\sv 2;110;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(1155,1260);(1102,1260);(1102,1312);(1155,1312);(1155,1260)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid110
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1157}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1312}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;45;(1312,948);(1311,948);(1311,946);(1260,946);(1260,948);(1260,996);(1259,996);(1259,998);(1207,998);(1207,1000);(1207,1050);(1207,1156);(1050,1156);(1050,1206);(1049,1206);(1049,1208);(998,1208);(998,1210);(997,1210);(997,1260);(1102,1260);(1102,1210);(1103,1210);(1103,1208);(1153,1208);(1153,1210);(1155,1210);(1155,1260);(1260,1260);(1260,1312);(1312,1312);(1312,1260);(1312,1210);(1312,1208);(1312,1206);(1312,1156);(1312,1050);(1260,1050);(1260,1000);(1261,1000);(1261,998);(1312,998);(1312,996);(1312,996);(1312,948)}}
+{\sp{\sn pSegmentInfo}{\sv 2;92;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid111
+{\sp{\sn groupLeft}{\sv 9732}}
+{\sp{\sn groupTop}{\sv 108}}
+{\sp{\sn groupRight}{\sv 10782}}
+{\sp{\sn groupBottom}{\sv 791}}
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid111
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1050}}
+{\sp{\sn geoBottom}{\sv 683}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;46;(420,472);(315,472);(315,522);(314,522);(314,524);(262,524);(262,522);(262,522);(262,474);(261,474);(261,472);(210,472);(210,470);(210,470);(210,420);(157,420);(157,470);(157,472);(157,474);(157,522);(157,524);(157,526);(157,576);(0,576);(0,630);(210,630);(210,576);(261,576);(261,578);(262,578);(262,628);(262,628);(262,630);(315,630);(315,628);(315,578);(316,578);(316,576);(367,576);(367,526);(368,526);(368,524);(419,524);(419,522);(420,522);(420,472)}}
+{\sp{\sn pSegmentInfo}{\sv 2;94;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid111
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1050}}
+{\sp{\sn geoBottom}{\sv 683}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;44;(420,314);(367,314);(367,312);(367,312);(367,264);(367,262);(262,262);(262,210);(367,210);(367,156);(367,104);(315,104);(315,0);(262,0);(262,104);(262,156);(210,156);(210,210);(210,262);(261,262);(261,264);(262,264);(262,312);(262,312);(262,314);(210,314);(210,366);(210,368);(210,418);(210,420);(262,420);(262,418);(262,418);(262,368);(263,368);(263,366);(313,366);(313,368);(315,368);(315,420);(420,420);(420,368);(420,366);(420,314)}}
+{\sp{\sn pSegmentInfo}{\sv 2;90;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid111
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1050}}
+{\sp{\sn geoBottom}{\sv 683}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;33;(630,314);(577,314);(577,420);(525,420);(525,418);(525,418);(525,368);(523,368);(523,366);(472,366);(472,368);(472,418);(472,420);(472,472);(472,474);(472,522);(472,524);(472,526);(472,576);(525,576);(525,526);(526,526);(526,524);(577,524);(577,522);(577,522);(577,474);(578,474);(578,472);(630,472);(630,420);(630,420);(630,314)}}
+{\sp{\sn pSegmentInfo}{\sv 2;68;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid111
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1050}}
+{\sp{\sn geoBottom}{\sv 683}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;9;(682,526);(681,526);(681,524);(631,524);(631,526);(630,526);(630,576);(682,576);(682,526)}}
+{\sp{\sn pSegmentInfo}{\sv 2;20;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid111
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1050}}
+{\sp{\sn geoBottom}{\sv 683}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(682,262);(577,262);(577,260);(577,210);(630,210);(630,208);(630,158);(630,156);(576,156);(576,158);(577,158);(577,208);(577,208);(577,210);(525,210);(525,208);(525,208);(525,158);(523,158);(523,156);(473,156);(473,158);(472,158);(472,208);(472,210);(367,210);(367,260);(367,260);(367,262);(418,262);(418,264);(420,264);(420,312);(420,312);(420,314);(472,314);(472,312);(472,312);(472,264);(473,264);(473,262);(523,262);(523,264);(525,264);(525,312);(525,312);(525,314);(682,314);(682,312);(682,264);(682,262)}}
+{\sp{\sn pSegmentInfo}{\sv 2;104;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid111
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1050}}
+{\sp{\sn geoBottom}{\sv 683}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;9;(787,526);(786,526);(786,524);(736,524);(736,526);(735,526);(735,576);(787,576);(787,526)}}
+{\sp{\sn pSegmentInfo}{\sv 2;20;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid111
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1050}}
+{\sp{\sn geoBottom}{\sv 683}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(997,576);(892,576);(892,682);(997,682);(997,576)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid111
+{\sp{\sn relLeft}{\sv 9732}}
+{\sp{\sn relTop}{\sv 108}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 791}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1050}}
+{\sp{\sn geoBottom}{\sv 683}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;56;(1050,262);(997,262);(997,260);(997,260);(997,210);(735,210);(735,260);(735,262);(997,262);(997,314);(892,314);(892,262);(840,262);(840,314);(682,314);(682,366);(682,420);(787,420);(787,366);(997,366);(997,418);(997,418);(997,420);(945,420);(945,470);(945,472);(840,472);(840,420);(787,420);(787,472);(787,524);(838,524);(838,526);(840,526);(840,576);(945,576);(945,526);(946,526);(946,524);(996,524);(996,526);(997,526);(997,576);(1050,576);(1050,526);(1050,524);(1050,472);(997,472);(997,470);(997,470);(997,420);(1050,420);(1050,418);(1050,366);(1050,314);(1050,262)}}
+{\sp{\sn pSegmentInfo}{\sv 2;114;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid112
+{\sp{\sn groupLeft}{\sv 9469}}
+{\sp{\sn groupTop}{\sv -155}}
+{\sp{\sn groupRight}{\sv 10782}}
+{\sp{\sn groupBottom}{\sv 1156}}
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(105,420);(0,420);(0,472);(0,525);(51,525);(52,523);(52,474);(54,472);(103,472);(105,471);(105,420)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(157,526);(105,526);(105,576);(157,576);(157,526)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;17;(367,946);(315,946);(315,998);(315,1260);(52,1260);(52,998);(315,998);(315,946);(0,946);(0,998);(0,1260);(0,1312);(367,1312);(367,1260);(367,998);(367,997);(367,946)}}
+{\sp{\sn pSegmentInfo}{\sv 2;36;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;70;(420,628);(367,628);(367,630);(315,630);(315,628);(157,628);(157,630);(315,630);(315,632);(315,682);(210,682);(210,684);(210,734);(208,734);(208,736);(157,736);(157,786);(156,786);(156,788);(106,788);(106,786);(105,786);(105,736);(106,736);(106,734);(157,734);(157,682);(52,682);(52,578);(0,578);(0,682);(0,734);(0,736);(0,786);(0,788);(0,892);(52,892);(52,788);(105,788);(105,840);(105,842);(105,892);(157,892);(157,842);(158,842);(158,840);(210,840);(210,788);(210,786);(210,736);(315,736);(315,786);(316,786);(316,788);(366,788);(366,786);(367,786);(367,736);(316,736);(316,734);(315,734);(315,684);(316,684);(316,682);(367,682);(367,632);(368,632);(368,630);(420,630);(420,628)}}
+{\sp{\sn pSegmentInfo}{\sv 2;142;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;35;(420,472);(367,472);(367,422);(367,422);(367,420);(315,420);(315,422);(315,422);(315,472);(262,472);(262,420);(157,420);(157,472);(157,474);(157,524);(157,526);(208,526);(210,526);(210,576);(420,576);(420,526);(366,526);(366,524);(316,524);(315,524);(315,474);(316,474);(316,472);(366,472);(366,474);(367,474);(367,524);(420,524);(420,474);(420,472)}}
+{\sp{\sn pSegmentInfo}{\sv 2;72;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(472,316);(420,316);(420,420);(472,420);(472,316)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;13;(525,262);(525,262);(525,212);(523,212);(523,210);(473,210);(473,212);(472,212);(472,262);(472,262);(472,264);(525,264);(525,262)}}
+{\sp{\sn pSegmentInfo}{\sv 2;28;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;12;(630,210);(578,210);(578,212);(577,212);(577,262);(577,262);(577,264);(629,264);(629,262);(630,262);(630,212);(630,210)}}
+{\sp{\sn pSegmentInfo}{\sv 2;26;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;7;(682,262);(630,262);(630,316);(630,368);(682,368);(682,316);(682,262)}}
+{\sp{\sn pSegmentInfo}{\sv 2;16;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;14;(787,0);(735,0);(735,106);(630,106);(630,158);(630,160);(630,210);(735,210);(735,160);(736,160);(736,158);(787,158);(787,106);(787,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;30;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;28;(892,54);(840,54);(840,368);(787,368);(787,210);(735,210);(735,368);(682,368);(682,370);(682,418);(683,418);(683,420);(734,420);(734,418);(735,418);(735,370);(735,368);(786,368);(786,370);(787,370);(787,420);(838,420);(838,422);(892,422);(892,420);(892,370);(892,368);(892,54)}}
+{\sp{\sn pSegmentInfo}{\sv 2;58;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;10;(997,946);(996,945);(946,945);(945,946);(945,971);(945,996);(946,997);(996,997);(997,996);(997,946)}}
+{\sp{\sn pSegmentInfo}{\sv 2;22;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;10;(997,736);(996,735);(946,735);(945,736);(945,761);(945,786);(946,787);(996,787);(997,786);(997,736)}}
+{\sp{\sn pSegmentInfo}{\sv 2;22;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;12;(997,422);(996,422);(996,420);(946,420);(946,422);(945,422);(945,472);(945,472);(945,474);(997,474);(997,472);(997,422)}}
+{\sp{\sn pSegmentInfo}{\sv 2;26;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;7;(1207,106);(1050,106);(1050,184);(1050,262);(1207,262);(1207,184);(1207,106)}}
+{\sp{\sn pSegmentInfo}{\sv 2;16;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;12;(1312,422);(1311,422);(1311,420);(1261,420);(1261,422);(1260,422);(1260,472);(1260,474);(1312,474);(1312,472);(1312,472);(1312,422)}}
+{\sp{\sn pSegmentInfo}{\sv 2;26;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(1312,52);(1260,52);(1260,315);(1312,315);(1312,52)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid112
+{\sp{\sn relLeft}{\sv 9469}}
+{\sp{\sn relTop}{\sv -155}}
+{\sp{\sn relRight}{\sv 10782}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1313}}
+{\sp{\sn geoBottom}{\sv 1311}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1312,0);(945,0);(945,52);(945,316);(945,368);(1312,368);(1312,316);(997,316);(997,52);(1312,52);(1312,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid113
+{\sp{\sn groupLeft}{\sv 9574}}
+{\sp{\sn groupTop}{\sv 841}}
+{\sp{\sn groupRight}{\sv 10257}}
+{\sp{\sn groupBottom}{\sv 1156}}
+{\sp{\sn relLeft}{\sv 9574}}
+{\sp{\sn relTop}{\sv 841}}
+{\sp{\sn relRight}{\sv 10257}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid113
+{\sp{\sn relLeft}{\sv 9574}}
+{\sp{\sn relTop}{\sv 841}}
+{\sp{\sn relRight}{\sv 10257}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 683}}
+{\sp{\sn geoBottom}{\sv 315}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;7;(157,52);(0,52);(0,130);(0,210);(157,210);(157,130);(157,52)}}
+{\sp{\sn pSegmentInfo}{\sv 2;16;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid113
+{\sp{\sn relLeft}{\sv 9574}}
+{\sp{\sn relTop}{\sv 841}}
+{\sp{\sn relRight}{\sv 10257}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 683}}
+{\sp{\sn geoBottom}{\sv 315}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(262,0);(210,0);(210,262);(262,262);(262,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid113
+{\sp{\sn relLeft}{\sv 9574}}
+{\sp{\sn relTop}{\sv 841}}
+{\sp{\sn relRight}{\sv 10257}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 683}}
+{\sp{\sn geoBottom}{\sv 315}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;10;(577,159);(576,157);(526,157);(525,159);(525,183);(525,208);(526,210);(576,210);(577,208);(577,159)}}
+{\sp{\sn pSegmentInfo}{\sv 2;22;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid113
+{\sp{\sn relLeft}{\sv 9574}}
+{\sp{\sn relTop}{\sv 841}}
+{\sp{\sn relRight}{\sv 10257}}
+{\sp{\sn relBottom}{\sv 1156}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 683}}
+{\sp{\sn geoBottom}{\sv 315}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;12;(682,210);(630,210);(630,212);(630,236);(630,262);(525,262);(525,314);(682,314);(682,262);(682,236);(682,212);(682,210)}}
+{\sp{\sn pSegmentInfo}{\sv 2;26;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 9576}}
+{\sp{\sn relTop}{\sv -224}}
+{\sp{\sn relRight}{\sv 9955}}
+{\sp{\sn relBottom}{\sv -8}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-215\tx358\f0\fs19\b0\charscalex102\cf2{\ul\ulc1  \charscalex100 \tab }\par}}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri1767\qr\sl240\slmult1\sb33\f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 Surbiton,\f2\expnd4\expndtw21\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Surrey\f2\expnd7\expndtw34\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 UK\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri1760\qr\sl240\slmult1\sb41\f2\fs19\b0\expnd-1\expndtw-5\charscalex100\cf2{\ul\ulc3 +44\f2\expnd-1\expndtw-6\charscalex100  \f2\fs19\b0\i0\expnd-1\expndtw-5\charscalex100 7496\f2\expnd-1\expndtw-6\charscalex100  \f2\fs19\b0\i0\expnd-1\expndtw-4\charscalex100 084977}\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li449\fi-330\ri1764\qr\sl264\slmult1\sb23{\field {\fldinst { HYPERLINK "mailto:nick@meincken.com" }}{\fldrslt \f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf2{\ul\ulc3 nick\expnd0\expndtw-1\charscalex105}\expnd0\expndtw-1\charscalex105 @\expnd0\expndtw-1\charscalex105{\ul\ulc3 meincken.com}}
+}\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf2\expnd0\expndtw-1\charscalex105\expnd0\expndtw-1\charscalex105 {\ul\ulc3 \f2\expnd-9\expndtw-43\charscalex105}\f2\expnd-9\expndtw-43\charscalex105  {\field {\fldinst { HYPERLINK "https://github.com/meincken" }}{\fldrslt \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex100{\ul\ulc3 Meincken\f2\expnd-1\expndtw-6\charscalex100  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex100 GitHub}}
+}\f2\fs19\b0\i0\expnd0\expndtw-1\charscalex100 {\ul\ulc3 \f2\expnd-1\expndtw-6\charscalex100\f2\fs19\b0\i0\expnd0\expndtw0\charscalex100 }\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f2\fs9\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri155\qj\sl295\slmult1\sb106\f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 I am an experienced AEM Front End Developer. I specialise in creating clean semantic code to ensure fast load times. I follow atomic\f2\expnd0\expndtw1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 design principles where possible and develop style guides to ensure consistent and rapid development when working as part of a\f2\expnd0\expndtw1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 team.\f2\expnd-3\expndtw-14\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 I\f2\expnd-3\expndtw-16\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 am\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-3\expndtw-15\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 comfortable\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 coding\f2\expnd-3\expndtw-14\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 in\f2\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 raw\f2\expnd-1\expndtw-7\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 HTML\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-3\expndtw-15\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 I\f2\expnd-3\expndtw-16\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 am\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 using\f2\expnd-3\expndtw-15\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 products\f2\expnd-3\expndtw-14\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 such\f2\expnd-1\expndtw-6\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-3\expndtw-15\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 React.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\qj\sl240\slmult1\sb89\f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 I\f2\expnd-1\expndtw-4\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 enjoy\f2\expnd2\expndtw9\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 working\f2\expnd0\expndtw-1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 as\f2\expnd0\expndtw-1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 part\f2\expnd0\expndtw-1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 of\f2\expnd2\expndtw10\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 an\f2\expnd2\expndtw9\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Agile\f2\expnd0\expndtw2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 team\f2\expnd0\expndtw2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 and\f2\expnd1\expndtw7\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 have\f2\expnd0\expndtw2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 worked\f2\expnd1\expndtw7\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 on\f2\expnd2\expndtw9\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 some\f2\expnd0\expndtw2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 of\f2\expnd2\expndtw10\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 the\f2\expnd0\expndtw2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 countries\f2\expnd0\expndtw-1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 largest\f2\expnd0\expndtw-1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 e-commerce\f2\expnd0\expndtw2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 sites.\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li119\qj\sl240\slmult1\sb126\tx9959\f2\fs29\b0\expnd0\expndtw0\charscalex105\cf4{\ul\ulc1 Contractor History\charscalex100 \tab }\par\sect\sectd\sbknone\cols2\colno1\colw1730\colsr6580\colno2\colw1770\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb108\f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 Deloitte\f2\expnd-2\expndtw-11\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex100 Belgium\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd-1\expndtw-3\charscalex105\cf4 React\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-2\charscalex105 UI\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-2\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb126 \column \f2\fs18\b0\expnd0\expndtw-1\charscalex100\cf4 March\f2\expnd-1\expndtw-3\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw-1\charscalex100 2020\f2\expnd-2\expndtw-9\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw-1\charscalex100 -\f2\expnd-1\expndtw-5\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw-1\charscalex100 current\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Building a profile builder for an external client in NextJS with GraphQL and D3js. Adding in linting tools and styled-\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 components\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 to\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 the\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 build\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 to\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 improve\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 developer\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 workflow\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 and\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 also\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 adding\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 in\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 prettier\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 config\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 to\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 keep\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 development\f2\expnd-8\expndtw-42\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 process\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 clean\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 tidy.\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Setting\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 up\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 rules\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 code\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 base.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb10\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd-1\expndtw-4\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-1\expndtw-5\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 NextJS,\f2\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 GraphQL,\f2\expnd-1\expndtw-7\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 prettier,\f2\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 stylelint,\f2\expnd-1\expndtw-7\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 styled-components\par\sect\sectd\sbknone\cols2\colno1\colw1861\colsr6479\colno2\colw1740\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb122\f2\fs23\b0\expnd0\expndtw-1\charscalex95\cf4 We\f2\expnd-3\expndtw-13\charscalex95  \f2\fs23\b0\i0\expnd0\expndtw-1\charscalex95 Make\f2\expnd-2\expndtw-12\charscalex95  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex95 Websites\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb13\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Full\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Stack\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb140 \column \f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 Nov\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2020\f2\expnd0\expndtw-2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 -\f2\expnd1\expndtw3\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Jan\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2021\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Helping\f2\expnd0\expndtw0\charscalex105  with\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 support\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 client\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 development\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 adding\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 new\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 features\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 components\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 to\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 their\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Shopify\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 themes\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 also\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 bug\f2\expnd-8\expndtw-42\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 fixing\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 existing\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 components.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant skills: \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Shopify,\f2\expnd-1\expndtw-3\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 SCSS,\f2\expnd-1\expndtw-3\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Liquid,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQuery,\f2\expnd-1\expndtw-3\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 JavaScript,\f2\expnd-1\expndtw-3\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 VueJS,\f2\expnd-1\expndtw-3\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Slate,\f2\expnd-1\expndtw-3\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Asana\par\sect\sectd\sbknone\cols2\colno1\colw1815\colsr6600\colno2\colw1665\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd0\expndtw-2\charscalex100\cf4 Crabtree\f2\expnd-3\expndtw-13\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw-1\charscalex100 &\f2\expnd-2\expndtw-8\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw-1\charscalex100 Evelyn\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Full\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Stack\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb140 \column \f2\fs18\b0\expnd0\expndtw0\charscalex95\cf4 Apr\f2\expnd0\expndtw1\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2020\f2\expnd1\expndtw7\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 -\f2\expnd2\expndtw12\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 Oct\f2\expnd1\expndtw5\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2020\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Full\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 stack\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 dev,\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 dealing with\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 build\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 deployment\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 new\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 features\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 on\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Crabtree\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 &\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Evelyn\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 website.\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Built\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 on\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Shopify\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-8\expndtw-42\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 migrating\f2\expnd0\expndtw0\charscalex105  to\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a distributed\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 development\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 process\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 with\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Bitbucket\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 integration\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 to\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 setting up\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 deployment\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 environments.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd0\expndtw-1\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd0\expndtw-1\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Shopify,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Liquid,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQuery,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 CI/CD\par\sect\sectd\sbknone\cols2\colno1\colw1893\colsr6492\colno2\colw1695\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd-1\expndtw-3\charscalex100\cf4 Grundfos\f2\expnd-3\expndtw-13\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw-2\charscalex100 Denmark\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Front\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 End\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Engineer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb141 \column \f2\fs18\b0\expnd0\expndtw-1\charscalex100\cf4 Dec\f2\expnd-4\expndtw-18\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2019\f2\expnd-2\expndtw-11\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 -\f2\expnd-1\expndtw-7\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Feb\f2\expnd-1\expndtw-5\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2020\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri47\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Grundfos\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 is\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 globally\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 recognised\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 company\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 which\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 develops\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 water\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 solutions\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 around\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 world.\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Building\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 components\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 AEM in standard HTM in Sightly but also utilising a custom VueJS front end design system using BEM Atomic Design\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 principles.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex100\cf4 Relevant\f1\expnd2\expndtw10\charscalex100  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex100 skills:\f1\expnd2\expndtw9\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 AEM,\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 VueJS,\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 SCSS,\f2\expnd1\expndtw5\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Atomic\f2\expnd-1\expndtw-5\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 BEM,\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Sightly,\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 AEM_Dialog,\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Sling,\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 node.js,\f2\expnd1\expndtw5\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 NPM\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr6552\colno2\colw1725\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd0\expndtw-2\charscalex100\cf4 Texture\f2\expnd-3\expndtw-16\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw-1\charscalex100 London\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb141 \column \f2\fs18\b0\expnd0\expndtw0\charscalex95\cf4 Nov\f2\expnd3\expndtw17\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2019\f2\expnd2\expndtw8\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 -\f2\expnd3\expndtw14\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 Dec\f2\expnd-1\expndtw-3\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2019\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb24\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Front\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 end\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 developer\f2\expnd2\expndtw8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 role\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 with\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 minimal\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 back\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 end\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 skills\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Shopify.\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Building\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 online\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 shopping\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 portal\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 luxury\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 brand.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb32\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd0\expndtw-1\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd0\expndtw-1\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Shopify,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Liquid,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 SCSS,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQuery,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQueryUI\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr6582\colno2\colw1695\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd0\expndtw0\charscalex105\cf4 Signal\f2\expnd-2\expndtw-10\charscalex105  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex105 Noise\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb140 \column \f2\fs18\b0\expnd0\expndtw0\charscalex95\cf4 Aug\f2\expnd1\expndtw6\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2019\f2\expnd2\expndtw8\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 -\f2\expnd3\expndtw14\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 Oct\f2\expnd1\expndtw6\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2019\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Building\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 AEM\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 components\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Siemens\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 using\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 postcss\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 PatternLab.\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 This\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 project\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 contained\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 use\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of Stylelint,\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 PostCSS\f2\expnd-8\expndtw-42\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 BEM\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 within\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Gulp.\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 It\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 drew\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 in\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 lot\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 style\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 rules\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 from\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 other\f2\expnd1\expndtw4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 projects\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 created\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 by\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Signal\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Noise\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Siemens.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd-2\expndtw-8\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 PostCSS,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Stylint,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 BEM,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 PatternLab,\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Handlebars,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 React,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Bootstrap,\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 GIT\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr6597\colno2\colw1680\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd0\expndtw0\charscalex105\cf4 Pomegranate\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb141 \column \f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 Jul 2019\f2\expnd0\expndtw1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 -\f2\expnd1\expndtw7\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Aug 2019\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri613\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Building components around the bootstrap framework for a Medical website utilising Handlebars, LESS and jQuery.\f2\expnd-9\expndtw-43\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Sample\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 components\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 page\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 templates\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 CMS.\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Built\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 base\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 reusable\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 components\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 sections.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb10\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd-2\expndtw-8\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Less,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Gulp,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Handlebars,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 GIT,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Bootstrap,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 HTML\f2\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 templates\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr6522\colno2\colw1755\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb122\f2\fs23\b0\expnd0\expndtw0\charscalex110\cf4 BT\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb13\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb140 \column \f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 May 2018\f2\expnd-1\expndtw-7\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 -\f2\expnd0\expndtw-2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Jun 2019\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 BT is a globally recognized telecoms brand. I have been working as part of the Marketing, Brand and Data teams in\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 rebuilding \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 their email templates in AEM for integration into ACM. My main task has been migrating and updating the\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 email\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 templates\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 within\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 AEM\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 to\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 be\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 responsive\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 with\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 more\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 control\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 for\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 the\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 user.\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 I\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 have\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 also\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 worked\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 on\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 number\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 microsites\f2\expnd-8\expndtw-42\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 campaigns\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 within\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 ACM\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 (Adobe\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Campaign).\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl295\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex100\cf4 Relevant\f1\expnd2\expndtw12\charscalex100  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex100 skills:\f1\expnd2\expndtw12\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 AEM,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 ACM,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 GIT,\f2\expnd1\expndtw7\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Granite\f2\expnd2\expndtw10\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 UI,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Touch\f2\expnd4\expndtw19\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 UI,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 HTL,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Mustache,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Grunt,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Node,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 SCSS,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 VanillaJS,\f2\expnd2\expndtw8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Email\f2\expnd1\expndtw6\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Development/Styleguide,\f2\expnd0\expndtw1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Agile,\f2\expnd-3\expndtw-14\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Workfront\par\sect\sectd\sbkpage\margtsxn640\cols2\colno1\colw2013\colsr6327\colno2\colw1740\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb87\f2\fs23\b0\expnd-1\expndtw-4\charscalex100\cf4 GTA\f2\expnd-2\expndtw-12\charscalex100  \f2\fs23\b0\i0\expnd-1\expndtw-4\charscalex100 Travel\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb13\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 UI\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb105 \column \f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 Jan\f2\expnd0\expndtw-2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2018\f2\expnd-2\expndtw-8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 -\f2\expnd-1\expndtw-4\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 May\f2\expnd0\expndtw-1\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2018\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri550\qj\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 GTA\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Travel\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 have\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 been\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 powering\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 global\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 travel\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 40\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 years.\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 I\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 came\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 on\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 board\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 part\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 marketing\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 team\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 to\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 work\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 on\f2\expnd-9\expndtw-43\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 marketing\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 projects\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 general\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 site\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 optimisation.\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 I\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 am\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 also\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 part\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 wider\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 group\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 that\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 has\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 been\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 tasked\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 to\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 create\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 new\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 components\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 develop\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 style\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 guide\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 site.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\qj\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw-1\charscalex105\cf4 Relevant\f1\expnd-2\expndtw-10\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 SCSS,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 React,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 ATG,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Jira,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 GIT,\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Sketch,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 PhotoShop,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 InDesign,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 RESTful\f2\expnd-3\expndtw-14\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 API,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Handlebars,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 WebPack/Gulp\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr6567\colno2\colw1710\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd0\expndtw0\charscalex95\cf4 Matter\f2\expnd-1\expndtw-7\charscalex95  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex95 of\f2\expnd-2\expndtw-9\charscalex95  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex95 Form\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb140 \column \f2\fs18\b0\expnd0\expndtw0\charscalex95\cf4 May\f2\expnd2\expndtw8\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2017 -\f2\expnd1\expndtw6\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 Oct\f2\expnd0\expndtw-1\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2017\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Working\f2\expnd1\expndtw4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 part\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 small\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 agile\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 development\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 team\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 in\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Old\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Street\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 on\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 high\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 quality,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 design\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 led\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 project\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 updating\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 boutique\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 travel\f2\expnd-2\expndtw-10\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 website.\f2\expnd-2\expndtw-9\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 Building on\f2\expnd-1\expndtw-7\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 modular\f2\expnd0\expndtw1\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 patterns\f2\expnd-2\expndtw-12\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 for\f2\expnd0\expndtw1\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 CSS,\f2\expnd-2\expndtw-9\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 JS\f2\expnd-1\expndtw-5\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 and\f2\expnd-2\expndtw-9\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 HTML\f2\expnd-2\expndtw-10\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 for\f2\expnd0\expndtw1\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 a\f2\expnd0\expndtw1\charscalex110  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 CMS.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd-2\expndtw-9\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 SCSS,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQuery,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQueryUI,\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Jira,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 GIT,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Sketch,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Handlebars,\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 WebPack,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Responsive\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 component\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 design\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr5727\colno2\colw2550\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 MerchantCantos\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb140 \column \f2\fs18\b0\expnd0\expndtw0\charscalex95\cf4 Jan\f2\expnd3\expndtw14\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2017\f2\expnd1\expndtw6\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 -\f2\expnd2\expndtw11\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 Feb\f2\expnd3\expndtw14\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2017\f2\expnd1\expndtw5\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 &\f2\expnd0\expndtw-2\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 Mar\f2\expnd0\expndtw2\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2017\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Working\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 part\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 small\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 development\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 team\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 building\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 custom\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 websites\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 corporate\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 finance\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 using\f2\expnd1\expndtw4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 .Net\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Umbraco.\f2\expnd-8\expndtw-42\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Support\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 existing\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 websites\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 updating\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 an\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 older\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 site\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 to\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 newer\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 code\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 base.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd-1\expndtw-3\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-1\expndtw-4\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 SCSS,\f2\expnd-1\expndtw-7\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQuery,\f2\expnd-1\expndtw-6\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Umbraco,\f2\expnd-1\expndtw-7\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Responsive\f2\expnd-1\expndtw-5\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 design\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr6537\colno2\colw1740\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd0\expndtw0\charscalex105\cf4 Rapha\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb141 \column \f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 Sep\f2\expnd-1\expndtw-3\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2016\f2\expnd-2\expndtw-8\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 -\f2\expnd-1\expndtw-3\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Nov\f2\expnd0\expndtw-2\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2016\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb24\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Cleaning\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 up\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 code\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 base\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 this\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 prestige\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 clothing\f2\expnd2\expndtw8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 brand\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 general\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 site\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 performance\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 improvements\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 well\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-8\expndtw-42\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 building\f2\expnd1\expndtw5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 new\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 about\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 pages\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 on\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Wordpress\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 updated\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Cycle\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Club\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 section.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd-1\expndtw-6\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-1\expndtw-7\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 SCSS,\f2\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQuery,\f2\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Java,\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Hybris\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 CMS/Wordpress,\f2\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Responsive\f2\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 design\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr6567\colno2\colw1710\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb122\f2\fs23\b0\expnd0\expndtw-1\charscalex100\cf4 We\f2\expnd-3\expndtw-16\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw-1\charscalex100 Are\f2\expnd-3\expndtw-16\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw-1\charscalex100 Social\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb13\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb140 \column \f2\fs18\b0\expnd0\expndtw0\charscalex100\cf4 Sep\f2\expnd-1\expndtw-4\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2016\f2\expnd-2\expndtw-9\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 -\f2\expnd-1\expndtw-4\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 Sep\f2\expnd-1\expndtw-4\charscalex100  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex100 2016\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 Microsite\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Blind\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Pig\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Cider\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 using\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Wordpress\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 with\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 custom\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 fields\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 utilising\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 mobile\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 first\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 design\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 principle\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 well\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-8\expndtw-42\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 improving\f2\expnd1\expndtw6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 the\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 mixins\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 SCSS.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd-1\expndtw-7\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-1\expndtw-7\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Custom\f2\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Wordpress\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 components,\f2\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Responsive\f2\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 design,\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 PHP,\f2\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 SCSS,\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQuery,\f2\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 PictureFill,\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 CSS3,\f2\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 HTML5\par\sect\sectd\sbknone\cols2\colno1\colw1803\colsr6522\colno2\colw1755\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb123\f2\fs23\b0\expnd0\expndtw0\charscalex95\cf4 Virgin\f2\expnd-1\expndtw-5\charscalex95  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex95 Media\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb12\f2\fs19\b0\expnd0\expndtw-1\charscalex105\cf4 Front\f2\expnd-2\expndtw-9\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 End\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 Developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb140 \column \f2\fs18\b0\expnd0\expndtw0\charscalex95\cf4 Nov\f2\expnd4\expndtw21\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2009\f2\expnd2\expndtw11\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 -\f2\expnd4\expndtw18\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 Aug\f2\expnd2\expndtw10\charscalex95  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex95 2016\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl264\slmult1\sb23\f2\fs19\b0\expnd0\expndtw0\charscalex105\cf4 One of the UK's leading entertainment and communication providers, I was a member of a team of developers working\f2\expnd-9\expndtw-43\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 on\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 moving\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Virgin\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Media\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 to\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 fully\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 responsive\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 website\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 migrating\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 from\f2\expnd0\expndtw-1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 multiple\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 instances\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd0\expndtw-1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 CQ5\f2\expnd-2\expndtw-10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 to\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 a\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 single\f2\expnd-2\expndtw-11\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 version\f2\expnd-1\expndtw-5\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 of\f2\expnd-9\expndtw-43\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw-1\charscalex105 AEM6. First hand experience with AEM adapting many of the core components within AEM to modified \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and customised\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 versions\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 specifically\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd1\expndtw7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Virgin\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Media,\f2\expnd-1\expndtw-4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-2\expndtw-8\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 well\f2\expnd-1\expndtw-6\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 as\f2\expnd-1\expndtw-7\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 custom\f2\expnd0\expndtw2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 components.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri187\sl295\slmult1\sb9\f1\fs18\b1\expnd0\expndtw0\charscalex105\cf4 Relevant\f1\expnd-2\expndtw-8\charscalex105  \f1\fs18\b1\i0\expnd0\expndtw0\charscalex105 skills:\f1\expnd-2\expndtw-9\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Building\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 components\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 for\f2\expnd-3\expndtw-14\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 AEM,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 HTML5,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 jQuery,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 CSS3,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Building\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 online\f2\expnd-2\expndtw-10\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 styleguide,\f2\expnd-2\expndtw-11\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Tactical\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-1\expndtw-6\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Strategic\f2\expnd-4\expndtw-18\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 redesign\f2\expnd0\expndtw1\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 HTML,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Agile\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 work\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 process,\f2\expnd-3\expndtw-13\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Responsive\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 and\f2\expnd-2\expndtw-8\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 Adaptive\f2\expnd-2\expndtw-12\charscalex105  \f2\fs18\b0\i0\expnd0\expndtw0\charscalex105 builds\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb75\f2\fs29\b0\expnd0\expndtw0\charscalex110\cf4 Technical\f2\expnd-3\expndtw-13\charscalex110  \f2\fs29\b0\i0\expnd0\expndtw0\charscalex110 Skills\par\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb183\f2\fs23\b0\expnd0\expndtw0\charscalex105\cf4 Languages\par
+{\shpgrp{\*\shpinst\shplid194
+\shpleft3424\shptop91\shpright5374\shpbottom189\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz1
+\shpwr3\shpfblwtxt1{\sp{\sn groupLeft}{\sv 3424}}
+{\sp{\sn groupTop}{\sv 91}}
+{\sp{\sn groupRight}{\sv 5374}}
+{\sp{\sn groupBottom}{\sv 189}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid195
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid196
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;17;(1914,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1914,0);(1926,4);(1945,23);(1949,35);(1949,62);(1945,73);(1926,92);(1914,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;36;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid197
+{\sp{\sn relLeft}{\sv 3432}}
+{\sp{\sn relTop}{\sv 99}}
+{\sp{\sn relRight}{\sv 5367}}
+{\sp{\sn relBottom}{\sv 182}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid198
+\shpleft8344\shptop91\shpright10294\shpbottom189\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz2
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 8344}}
+{\sp{\sn groupTop}{\sv 91}}
+{\sp{\sn groupRight}{\sv 10294}}
+{\sp{\sn groupBottom}{\sv 189}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shp{\*\shpinst\shplid199
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 10294}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid200
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 10294}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;17;(1914,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1914,0);(1926,4);(1945,23);(1949,35);(1949,62);(1945,73);(1926,92);(1914,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;36;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid201
+{\sp{\sn relLeft}{\sv 8352}}
+{\sp{\sn relTop}{\sv 99}}
+{\sp{\sn relRight}{\sv 10287}}
+{\sp{\sn relBottom}{\sv 182}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb4\tx5039\f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 Semantic\f2\expnd-1\expndtw-6\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex100 HTML\fs15\expnd0\expndtw0\charscalex100 20\f2\expnd0\expndtw-1\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\tab \f2\fs23\b0\i0\expnd0\expndtw0\charscalex105 CSS\fs15\expnd0\expndtw0\charscalex105 20\f2\expnd-1\expndtw-5\charscalex105  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex105 years\par
+{\shpgrp{\*\shpinst\shplid202
+\shpleft3424\shptop92\shpright5374\shpbottom190\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz3
+\shpwr3\shpfblwtxt1{\sp{\sn groupLeft}{\sv 3424}}
+{\sp{\sn groupTop}{\sv 92}}
+{\sp{\sn groupRight}{\sv 5374}}
+{\sp{\sn groupBottom}{\sv 190}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid203
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 92}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 190}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid204
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 92}}
+{\sp{\sn relRight}{\sv 4984}}
+{\sp{\sn relBottom}{\sv 190}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1560}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1559,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1559,0);(1559,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid205
+{\sp{\sn relLeft}{\sv 3432}}
+{\sp{\sn relTop}{\sv 100}}
+{\sp{\sn relRight}{\sv 5367}}
+{\sp{\sn relBottom}{\sv 183}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid206
+\shpleft8344\shptop92\shpright10294\shpbottom190\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz4
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 8344}}
+{\sp{\sn groupTop}{\sv 92}}
+{\sp{\sn groupRight}{\sv 10294}}
+{\sp{\sn groupBottom}{\sv 190}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shp{\*\shpinst\shplid207
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 92}}
+{\sp{\sn relRight}{\sv 10294}}
+{\sp{\sn relBottom}{\sv 190}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid208
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 92}}
+{\sp{\sn relRight}{\sv 10099}}
+{\sp{\sn relBottom}{\sv 190}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1755}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1754,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1754,0);(1754,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid209
+{\sp{\sn relLeft}{\sv 8352}}
+{\sp{\sn relTop}{\sv 100}}
+{\sp{\sn relRight}{\sv 10287}}
+{\sp{\sn relBottom}{\sv 183}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb5\tx5039\f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 Vanilla\f2\expnd1\expndtw6\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex100 JS/jQuery\fs15\expnd0\expndtw0\charscalex100 15\f2\expnd0\expndtw1\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\tab \f2\fs23\b0\i0\expnd0\expndtw0\charscalex105 SCSS\fs15\expnd0\expndtw0\charscalex105 8\f2\expnd-1\expndtw-3\charscalex105  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex105 years\par
+{\shpgrp{\*\shpinst\shplid210
+\shpleft3424\shptop91\shpright5374\shpbottom189\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz5
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 3424}}
+{\sp{\sn groupTop}{\sv 91}}
+{\sp{\sn groupRight}{\sv 5374}}
+{\sp{\sn groupBottom}{\sv 189}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shp{\*\shpinst\shplid211
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid212
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 5179}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1755}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1754,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1754,0);(1754,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid213
+{\sp{\sn relLeft}{\sv 3432}}
+{\sp{\sn relTop}{\sv 99}}
+{\sp{\sn relRight}{\sv 5367}}
+{\sp{\sn relBottom}{\sv 182}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb4\f2\fs23\b0\expnd0\expndtw0\charscalex105\cf4 PostCSS\fs15\expnd0\expndtw0\charscalex105 3\f2\expnd-2\expndtw-8\charscalex105  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex105 years\par\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb4\f2\fs23\b0\expnd0\expndtw0\charscalex105\cf4 Framework/Libraries\par
+{\shpgrp{\*\shpinst\shplid214
+\shpleft3424\shptop91\shpright5374\shpbottom189\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz6
+\shpwr3\shpfblwtxt1{\sp{\sn groupLeft}{\sv 3424}}
+{\sp{\sn groupTop}{\sv 91}}
+{\sp{\sn groupRight}{\sv 5374}}
+{\sp{\sn groupBottom}{\sv 189}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid215
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid216
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 4984}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1560}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1559,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1559,0);(1559,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid217
+{\sp{\sn relLeft}{\sv 3432}}
+{\sp{\sn relTop}{\sv 99}}
+{\sp{\sn relRight}{\sv 5367}}
+{\sp{\sn relBottom}{\sv 182}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid218
+\shpleft8344\shptop91\shpright10294\shpbottom189\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz7
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 8344}}
+{\sp{\sn groupTop}{\sv 91}}
+{\sp{\sn groupRight}{\sv 10294}}
+{\sp{\sn groupBottom}{\sv 189}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shp{\*\shpinst\shplid219
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 10294}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid220
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 9904}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1560}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1559,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1559,0);(1559,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid221
+{\sp{\sn relLeft}{\sv 8352}}
+{\sp{\sn relTop}{\sv 99}}
+{\sp{\sn relRight}{\sv 10287}}
+{\sp{\sn relBottom}{\sv 182}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb4\tx5039\f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 React\fs15\expnd0\expndtw0\charscalex100 3\f2\expnd0\expndtw-1\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\tab \f2\fs23\b0\i0\expnd0\expndtw0\charscalex100 Gatsby\fs15\expnd0\expndtw0\charscalex100 2\f2\expnd-1\expndtw-3\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\par\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb4\f2\fs23\b0\expnd0\expndtw0\charscalex105\cf4 Tools\par
+{\shpgrp{\*\shpinst\shplid222
+\shpleft3424\shptop92\shpright5374\shpbottom190\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz8
+\shpwr3\shpfblwtxt1{\sp{\sn groupLeft}{\sv 3424}}
+{\sp{\sn groupTop}{\sv 92}}
+{\sp{\sn groupRight}{\sv 5374}}
+{\sp{\sn groupBottom}{\sv 190}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid223
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 92}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 190}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid224
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 92}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 190}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;17;(1914,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1914,0);(1926,4);(1945,23);(1949,35);(1949,62);(1945,73);(1926,92);(1914,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;36;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid225
+{\sp{\sn relLeft}{\sv 3432}}
+{\sp{\sn relTop}{\sv 100}}
+{\sp{\sn relRight}{\sv 5367}}
+{\sp{\sn relBottom}{\sv 183}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid226
+\shpleft8344\shptop92\shpright10294\shpbottom190\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz9
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 8344}}
+{\sp{\sn groupTop}{\sv 92}}
+{\sp{\sn groupRight}{\sv 10294}}
+{\sp{\sn groupBottom}{\sv 190}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shp{\*\shpinst\shplid227
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 92}}
+{\sp{\sn relRight}{\sv 10294}}
+{\sp{\sn relBottom}{\sv 190}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid228
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 92}}
+{\sp{\sn relRight}{\sv 10294}}
+{\sp{\sn relBottom}{\sv 190}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;17;(1914,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1914,0);(1926,4);(1945,23);(1949,35);(1949,62);(1945,73);(1926,92);(1914,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;36;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid229
+{\sp{\sn relLeft}{\sv 8352}}
+{\sp{\sn relTop}{\sv 100}}
+{\sp{\sn relRight}{\sv 10287}}
+{\sp{\sn relBottom}{\sv 183}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb5\tx5039\f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 Photoshop\f2\expnd-2\expndtw-11\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex100 CC\fs15\expnd0\expndtw0\charscalex100 20 years\tab \f2\fs23\b0\i0\expnd0\expndtw0\charscalex100 Atom\fs15\expnd0\expndtw0\charscalex100 4\f2\expnd-1\expndtw-6\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\par
+{\shpgrp{\*\shpinst\shplid230
+\shpleft3424\shptop91\shpright5374\shpbottom189\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz10
+\shpwr3\shpfblwtxt1{\sp{\sn groupLeft}{\sv 3424}}
+{\sp{\sn groupTop}{\sv 91}}
+{\sp{\sn groupRight}{\sv 5374}}
+{\sp{\sn groupBottom}{\sv 189}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid231
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid232
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 4399}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 975}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(974,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(974,0);(974,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid233
+{\sp{\sn relLeft}{\sv 3432}}
+{\sp{\sn relTop}{\sv 99}}
+{\sp{\sn relRight}{\sv 5367}}
+{\sp{\sn relBottom}{\sv 182}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid234
+\shpleft8344\shptop91\shpright10294\shpbottom189\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz11
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 8344}}
+{\sp{\sn groupTop}{\sv 91}}
+{\sp{\sn groupRight}{\sv 10294}}
+{\sp{\sn groupBottom}{\sv 189}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shp{\*\shpinst\shplid235
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 10294}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid236
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv 91}}
+{\sp{\sn relRight}{\sv 9904}}
+{\sp{\sn relBottom}{\sv 189}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1560}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1559,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1559,0);(1559,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid237
+{\sp{\sn relLeft}{\sv 8352}}
+{\sp{\sn relTop}{\sv 99}}
+{\sp{\sn relRight}{\sv 10287}}
+{\sp{\sn relBottom}{\sv 182}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb4\tx5039\f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 Sketch/Zeplin\fs15\expnd0\expndtw0\charscalex100 4\f2\expnd0\expndtw-2\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\tab \f2\fs23\b0\i0\expnd0\expndtw0\charscalex100 VS\f2\expnd-2\expndtw-8\charscalex100  \f2\fs23\b0\i0\expnd0\expndtw0\charscalex100 Code\fs15\expnd0\expndtw0\charscalex100 1\f2\expnd-1\expndtw-3\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\par\pard\plain\s3\nooverflow\nocwrap\lnbrkrule\li119\sl-279\sb4\f2\fs23\b0\expnd0\expndtw0\charscalex105\cf4 Platforms\par\sect\sectd\sbknone\cols2\colno1\colw4518\colsr402\colno2\colw5160
+{\shpgrp{\*\shpinst\shplid238
+\shpleft3424\shptop93\shpright5374\shpbottom191\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz12
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 3424}}
+{\sp{\sn groupTop}{\sv 93}}
+{\sp{\sn groupRight}{\sv 5374}}
+{\sp{\sn groupBottom}{\sv 191}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shp{\*\shpinst\shplid239
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 93}}
+{\sp{\sn relRight}{\sv 5374}}
+{\sp{\sn relBottom}{\sv 191}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid240
+{\sp{\sn relLeft}{\sv 3424}}
+{\sp{\sn relTop}{\sv 93}}
+{\sp{\sn relRight}{\sv 5179}}
+{\sp{\sn relBottom}{\sv 191}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1755}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1754,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1754,0);(1754,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid241
+{\sp{\sn relLeft}{\sv 3432}}
+{\sp{\sn relTop}{\sv 101}}
+{\sp{\sn relRight}{\sv 5367}}
+{\sp{\sn relBottom}{\sv 184}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb6\f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 Bundlers\fs15\expnd0\expndtw0\charscalex100 5\f2\expnd-1\expndtw-4\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb11\f1\fs16\b1\expnd0\expndtw0\charscalex105\cf4 Bunders\f2\b0\expnd0\expndtw0\charscalex105 : Webpack,\f2\expnd0\expndtw1\charscalex105  \f2\fs16\b0\i0\expnd0\expndtw0\charscalex105 Grunt, Gulp,\f2\expnd0\expndtw1\charscalex105  \f2\fs16\b0\i0\expnd0\expndtw0\charscalex105 Parcel\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb11\f2\fs29\b0\expnd0\expndtw0\charscalex105\cf4 Qualifications\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb191\f1\fs19\b1\expnd0\expndtw0\charscalex105\cf4 Adobe\f1\expnd3\expndtw14\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 Training\f1\expnd2\expndtw9\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 Center\f1\expnd1\expndtw3\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 (2015)\f1\expnd3\expndtw17\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 -\f2\expnd2\expndtw10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 AEM\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Sites\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 developer\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb6 \column \f2\fs23\b0\expnd0\expndtw0\charscalex100\cf4 CMS\fs15\expnd0\expndtw0\charscalex100 15\f2\expnd-2\expndtw-9\charscalex100  \f2\fs15\b0\i0\expnd0\expndtw0\charscalex100 years\par
+{\shpgrp{\*\shpinst\shplid242
+\shpleft8344\shptop-192\shpright10294\shpbottom-94\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz13
+\shpwr3\shpfblwtxt0{\sp{\sn groupLeft}{\sv 8344}}
+{\sp{\sn groupTop}{\sv -192}}
+{\sp{\sn groupRight}{\sv 10294}}
+{\sp{\sn groupBottom}{\sv -94}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+
+{\shp{\*\shpinst\shplid243
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv -192}}
+{\sp{\sn relRight}{\sv 10294}}
+{\sp{\sn relBottom}{\sv -94}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1950}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;34;(1907,97);(42,97);(36,96);(24,91);(18,87);(9,78);(6,73);(1,61);(0,55);(0,48);(0,42);(1,36);(6,24);(9,18);(18,9);(24,6);(36,1);(42,0);(1907,0);(1913,1);(1925,6);(1931,9);(1940,18);(1943,24);(1948,36);(1949,42);(1949,55);(1948,61);(1943,73);(1940,78);(1931,87);(1925,91);(1913,96);(1907,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;70;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 15724527}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid244
+{\sp{\sn relLeft}{\sv 8344}}
+{\sp{\sn relTop}{\sv -192}}
+{\sp{\sn relRight}{\sv 9904}}
+{\sp{\sn relBottom}{\sv -94}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1560}}
+{\sp{\sn geoBottom}{\sv 98}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;11;(1559,97);(35,97);(23,92);(4,73);(0,62);(0,35);(4,23);(23,4);(35,0);(1559,0);(1559,97)}}
+{\sp{\sn pSegmentInfo}{\sv 2;24;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 16741376}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid245
+{\sp{\sn relLeft}{\sv 8352}}
+{\sp{\sn relTop}{\sv -185}}
+{\sp{\sn relRight}{\sv 10287}}
+{\sp{\sn relBottom}{\sv -102}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1935}}
+{\sp{\sn geoBottom}{\sv 83}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;51;(0,41);(0,35);(1,30);(3,25);(5,20);(8,15);(12,12);(15,8);(20,5);(25,3);(30,1);(35,0);(41,0);(1893,0);(1899,0);(1904,1);(1909,3);(1914,5);(1919,8);(1922,12);(1926,15);(1929,20);(1931,25);(1933,30);(1934,35);(1935,41);(1934,46);(1933,51);(1931,57);(1929,62);(1926,66);(1922,70);(1919,74);(1914,77);(1909,79);(1904,81);(1899,82);(1893,82);(41,82);(35,82);(30,81);(25,79);(20,77);(15,74);(12,70);(8,66);(5,62);(3,57);(1,51);(0,46);(0,41)}}
+{\sp{\sn pSegmentInfo}{\sv 2;103;16384;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9524}}
+{\sp{\sn lineColor}{\sv 7697781}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\sl240\slmult1\sb11\f1\fs16\b1\expnd0\expndtw0\charscalex105\cf4 CMS's\f2\b0\expnd0\expndtw0\charscalex105 :\f2\expnd0\expndtw-2\charscalex105  \f2\fs16\b0\i0\expnd0\expndtw0\charscalex105 AEM,\f2\expnd0\expndtw-1\charscalex105  \f2\fs16\b0\i0\expnd0\expndtw0\charscalex105 Shopify,\f2\expnd0\expndtw-2\charscalex105  \f2\fs16\b0\i0\expnd0\expndtw0\charscalex105 Wordpress,\f2\expnd0\expndtw-1\charscalex105  \f2\fs16\b0\i0\expnd0\expndtw0\charscalex105 Jekyll\par\sect\sectd\sbknone\cols1\colno1\colw10080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\ri2924\sl264\slmult1\sb23\f1\fs19\b1\expnd0\expndtw0\charscalex105\cf4 The\f1\expnd0\expndtw1\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 Community College\f1\expnd0\expndtw1\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 Hackney (2006)\f1\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 - BTEC Web Authoring\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Level II (distinction)\f2\expnd-9\expndtw-43\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex110 Spelthorne College, Middlesex (1997) \f2\fs19\b0\i0\expnd0\expndtw0\charscalex110 - BTEC Photography & Business Skills\f2\expnd0\expndtw1\charscalex110  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 Ashford\f1\expnd2\expndtw12\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 High\f1\expnd2\expndtw12\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 School\f1\expnd1\expndtw6\charscalex105  \f1\fs19\b1\i0\expnd0\expndtw0\charscalex105 (1994)\f1\expnd2\expndtw10\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 -\f2\expnd1\expndtw4\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 6\f2\expnd-1\expndtw-3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 GCSEs\f2\expnd0\expndtw-2\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 including\f2\expnd2\expndtw12\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 Maths,\f2\expnd0\expndtw1\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 English\f2\expnd1\expndtw3\charscalex105  \f2\fs19\b0\i0\expnd0\expndtw0\charscalex105 and Science\par}
