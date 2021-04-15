@@ -68,7 +68,6 @@ export const typography = {
   weight: {
     light: '200',
     regular: '400',
-    black: '900',
   },
   size: {
     s1: '12',

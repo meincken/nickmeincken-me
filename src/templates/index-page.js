@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql, Link } from 'gatsby'
 import { GlobalStyle } from '../shared/global'
-import { color } from '../shared/styles'
+import { color, device } from '../shared/styles'
 
 import Layout from '../components/Layout'
 import Social from '../components/Social'
@@ -23,10 +23,7 @@ const Hero = styled.section`
   position: relative;
   width: 100vw;
 
-  &::after {
-  }
-
-  @media (min-width: 960px) {
+  @media ${device.laptop} {
     height: 100vh;
     min-height: 600px;
   }
@@ -71,7 +68,7 @@ const Title = styled.h1`
     margin-top: 20px;
   }
 
-  @media (min-width: 960px) {
+  @media ${device.laptop} {
     font-size: 90px;
   }
 `
@@ -90,13 +87,11 @@ const Main = styled.main`
   color: ${color.lighter};
   min-height: 100vh;
   justify-content: center;
-  /* max-width: 1040px; */
   overflow: hidden;
 `
 
 const Section = styled.section`
   display: grid;
-  /* grid-template-columns: repeat(12, 1fr); */
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
     [main-start] minmax(0, 104rem) [main-end]
@@ -117,7 +112,7 @@ const Section = styled.section`
     justify-content: center;
     padding: 3rem 0;
 
-    @media (min-width: 768px) {
+    @media ${device.tablet} {
       height: 100vh;
       padding: 0;
     }
@@ -179,10 +174,11 @@ const Section = styled.section`
     section p {
       padding-bottom: 2rem;
     }
+    padding-bottom: 6rem;
   }
 
   > div {
-    @media (min-width: 768px) {
+    @media ${device.tablet} {
       display: grid;
       grid-template-areas: 'header section';
       grid-template-columns: 30rem 1fr;
@@ -201,7 +197,7 @@ const Section = styled.section`
     display: grid;
     grid-template-columns: 1fr;
 
-    @media (min-width: 768px) {
+    @media ${device.tablet} {
       grid-template-columns: 1fr 1fr;
     }
   }
@@ -242,15 +238,9 @@ const FileLink = styled.a`
 export const IndexPageTemplate = ({
   hero,
   image,
-  title,
-  heading,
-  subheading,
-  introduction,
   education,
   contracts,
   aboutme,
-  description,
-  intro,
   skills,
 }) => (
   <>
@@ -309,7 +299,7 @@ export const IndexPageTemplate = ({
           </section>
         </div>
       </Section>
-      <Section className="contracts">
+      <Section id={`contracts`} className="contracts">
         <div>
           <header>
             <H2 color="light" title={contracts.title} />
@@ -319,7 +309,7 @@ export const IndexPageTemplate = ({
           </section>
         </div>
       </Section>
-      <Section className="skills">
+      <Section id={`skills`} className="skills">
         <div>
           <header>
             <H2 color="light" title={skills.title} />
